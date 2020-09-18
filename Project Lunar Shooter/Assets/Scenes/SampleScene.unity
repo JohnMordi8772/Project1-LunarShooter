@@ -216,7 +216,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -224,6 +224,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &33609488
 GameObject:
   m_ObjectHideFlags: 0
@@ -328,7 +331,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -336,6 +339,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &55867787
 GameObject:
   m_ObjectHideFlags: 0
@@ -440,7 +446,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -448,6 +454,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &68939149
 GameObject:
   m_ObjectHideFlags: 0
@@ -552,7 +561,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -560,6 +569,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &74902946
 GameObject:
   m_ObjectHideFlags: 0
@@ -664,7 +676,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -672,6 +684,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &82537478
 GameObject:
   m_ObjectHideFlags: 0
@@ -776,7 +791,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -784,6 +799,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &88862928
 GameObject:
   m_ObjectHideFlags: 0
@@ -888,7 +906,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -896,6 +914,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &119204851
 GameObject:
   m_ObjectHideFlags: 0
@@ -1042,7 +1063,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -1050,6 +1071,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &160353521
 GameObject:
   m_ObjectHideFlags: 0
@@ -1196,7 +1220,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -1204,6 +1228,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &169956511
 GameObject:
   m_ObjectHideFlags: 0
@@ -1308,7 +1335,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -1316,6 +1343,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &170076733
 GameObject:
   m_ObjectHideFlags: 0
@@ -1489,7 +1519,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -1497,6 +1527,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &214425097
 GameObject:
   m_ObjectHideFlags: 0
@@ -1601,7 +1634,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -1609,6 +1642,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &225687726
 GameObject:
   m_ObjectHideFlags: 0
@@ -1713,7 +1749,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -1721,6 +1757,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &254934500
 GameObject:
   m_ObjectHideFlags: 0
@@ -1825,7 +1864,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -1833,6 +1872,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &274881476
 GameObject:
   m_ObjectHideFlags: 0
@@ -1937,7 +1979,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -1945,6 +1987,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &279438421
 GameObject:
   m_ObjectHideFlags: 0
@@ -2049,7 +2094,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -2057,6 +2102,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &286351985
 GameObject:
   m_ObjectHideFlags: 0
@@ -2161,7 +2209,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -2169,6 +2217,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &288045370
 GameObject:
   m_ObjectHideFlags: 0
@@ -2273,7 +2324,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -2281,6 +2332,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &297396477
 GameObject:
   m_ObjectHideFlags: 0
@@ -2385,7 +2439,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -2393,6 +2447,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &298509210
 GameObject:
   m_ObjectHideFlags: 0
@@ -2497,7 +2554,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -2505,6 +2562,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &299673274
 GameObject:
   m_ObjectHideFlags: 0
@@ -2609,7 +2669,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -2617,6 +2677,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &316736549
 GameObject:
   m_ObjectHideFlags: 0
@@ -2721,7 +2784,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -2729,6 +2792,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &317626786
 GameObject:
   m_ObjectHideFlags: 0
@@ -2833,7 +2899,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -2841,6 +2907,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &370131166
 GameObject:
   m_ObjectHideFlags: 0
@@ -2987,7 +3056,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -2995,6 +3064,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &387278265
 GameObject:
   m_ObjectHideFlags: 0
@@ -3099,7 +3171,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -3107,6 +3179,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &407436179
 GameObject:
   m_ObjectHideFlags: 0
@@ -3211,7 +3286,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -3219,6 +3294,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &410060001
 GameObject:
   m_ObjectHideFlags: 0
@@ -3323,7 +3401,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -3331,6 +3409,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &410482079
 GameObject:
   m_ObjectHideFlags: 0
@@ -3435,7 +3516,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -3443,6 +3524,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &417865953
 GameObject:
   m_ObjectHideFlags: 0
@@ -3547,7 +3631,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -3555,6 +3639,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &419959370
 GameObject:
   m_ObjectHideFlags: 0
@@ -3659,7 +3746,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -3667,6 +3754,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &446225296
 GameObject:
   m_ObjectHideFlags: 0
@@ -3813,7 +3903,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -3821,6 +3911,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &471331257
 GameObject:
   m_ObjectHideFlags: 0
@@ -3925,7 +4018,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -3933,6 +4026,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &481323684
 GameObject:
   m_ObjectHideFlags: 0
@@ -4037,7 +4133,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -4045,6 +4141,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &494819783
 GameObject:
   m_ObjectHideFlags: 0
@@ -4149,7 +4248,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -4157,6 +4256,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &512070747
 GameObject:
   m_ObjectHideFlags: 0
@@ -4261,7 +4363,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -4269,6 +4371,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &520157958
 GameObject:
   m_ObjectHideFlags: 0
@@ -4373,7 +4478,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -4381,6 +4486,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &527691283
 GameObject:
   m_ObjectHideFlags: 0
@@ -4485,7 +4593,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -4493,6 +4601,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &531470138
 GameObject:
   m_ObjectHideFlags: 0
@@ -4597,7 +4708,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -4605,6 +4716,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &533126810
 GameObject:
   m_ObjectHideFlags: 0
@@ -4709,7 +4823,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -4717,6 +4831,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &534669902
 GameObject:
   m_ObjectHideFlags: 0
@@ -4903,7 +5020,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -4911,6 +5028,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &587218209
 GameObject:
   m_ObjectHideFlags: 0
@@ -5015,7 +5135,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -5023,6 +5143,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &587585079
 GameObject:
   m_ObjectHideFlags: 0
@@ -5127,7 +5250,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -5135,6 +5258,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &591577994
 GameObject:
   m_ObjectHideFlags: 0
@@ -5239,7 +5365,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -5247,6 +5373,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &600743701
 GameObject:
   m_ObjectHideFlags: 0
@@ -5351,7 +5480,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -5359,6 +5488,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &615744788
 GameObject:
   m_ObjectHideFlags: 0
@@ -5463,7 +5595,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -5471,6 +5603,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &628642754
 GameObject:
   m_ObjectHideFlags: 0
@@ -5575,7 +5710,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -5583,6 +5718,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &644254104
 GameObject:
   m_ObjectHideFlags: 0
@@ -5687,7 +5825,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -5695,6 +5833,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &670765118
 GameObject:
   m_ObjectHideFlags: 0
@@ -5799,7 +5940,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -5807,6 +5948,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &684318538
 GameObject:
   m_ObjectHideFlags: 0
@@ -5911,7 +6055,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -5919,6 +6063,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &708670008
 GameObject:
   m_ObjectHideFlags: 0
@@ -6107,7 +6254,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -6115,6 +6262,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &736147872
 GameObject:
   m_ObjectHideFlags: 0
@@ -6219,7 +6369,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -6227,6 +6377,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &736543099
 GameObject:
   m_ObjectHideFlags: 0
@@ -6331,7 +6484,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -6339,6 +6492,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &771925280
 GameObject:
   m_ObjectHideFlags: 0
@@ -6443,7 +6599,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -6451,6 +6607,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &777523589
 GameObject:
   m_ObjectHideFlags: 0
@@ -6555,7 +6714,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -6563,6 +6722,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &870895376
 GameObject:
   m_ObjectHideFlags: 0
@@ -6667,7 +6829,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -6675,6 +6837,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &886156367
 GameObject:
   m_ObjectHideFlags: 0
@@ -6779,7 +6944,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -6787,6 +6952,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &948208316
 GameObject:
   m_ObjectHideFlags: 0
@@ -6891,7 +7059,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -6899,6 +7067,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &962824684
 GameObject:
   m_ObjectHideFlags: 0
@@ -7003,7 +7174,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -7011,6 +7182,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &964131330
 GameObject:
   m_ObjectHideFlags: 0
@@ -7115,7 +7289,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -7123,6 +7297,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &975833255
 GameObject:
   m_ObjectHideFlags: 0
@@ -7227,7 +7404,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -7235,6 +7412,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &988949588
 GameObject:
   m_ObjectHideFlags: 0
@@ -7339,7 +7519,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -7347,6 +7527,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1002875197
 GameObject:
   m_ObjectHideFlags: 0
@@ -7356,6 +7539,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1002875198}
+  - component: {fileID: 1002875199}
   m_Layer: 0
   m_Name: Map
   m_TagString: Untagged
@@ -7389,6 +7573,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1002875199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1002875197}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b491182b31674824e8bfc9ef253f27c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1005561251
 GameObject:
   m_ObjectHideFlags: 0
@@ -7493,7 +7689,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -7501,6 +7697,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1018543106
 GameObject:
   m_ObjectHideFlags: 0
@@ -7605,7 +7804,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -7613,6 +7812,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1023043006
 GameObject:
   m_ObjectHideFlags: 0
@@ -7717,7 +7919,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -7725,6 +7927,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1029416309
 GameObject:
   m_ObjectHideFlags: 0
@@ -7829,7 +8034,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -7837,6 +8042,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1030937144
 GameObject:
   m_ObjectHideFlags: 0
@@ -7941,7 +8149,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -7949,6 +8157,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1034602415
 GameObject:
   m_ObjectHideFlags: 0
@@ -8053,7 +8264,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -8061,6 +8272,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1039556948
 GameObject:
   m_ObjectHideFlags: 0
@@ -8165,7 +8379,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -8173,6 +8387,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1065832250
 GameObject:
   m_ObjectHideFlags: 0
@@ -8277,7 +8494,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -8285,6 +8502,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1067248705
 GameObject:
   m_ObjectHideFlags: 0
@@ -8389,7 +8609,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -8397,6 +8617,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1070509760
 GameObject:
   m_ObjectHideFlags: 0
@@ -8501,7 +8724,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -8509,6 +8732,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1070969648
 GameObject:
   m_ObjectHideFlags: 0
@@ -8613,7 +8839,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -8621,6 +8847,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1089900196
 GameObject:
   m_ObjectHideFlags: 0
@@ -8725,7 +8954,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -8733,6 +8962,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1106377158
 GameObject:
   m_ObjectHideFlags: 0
@@ -8837,7 +9069,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -8845,6 +9077,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1108345563
 GameObject:
   m_ObjectHideFlags: 0
@@ -8949,7 +9184,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -8957,6 +9192,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1108461944
 GameObject:
   m_ObjectHideFlags: 0
@@ -9061,7 +9299,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -9069,6 +9307,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1136529541
 GameObject:
   m_ObjectHideFlags: 0
@@ -9173,7 +9414,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -9181,6 +9422,34 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
+--- !u!1 &1141682771 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8557688138615209626, guid: 062c6a716c23bb349933798cde603b8e,
+    type: 3}
+  m_PrefabInstance: {fileID: 1699942517932920538}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1141682776
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1141682771}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf94719f74610d5459dea44194e567f3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  turn: 0
+  moving: 0
+  move: 5
+  jumpHeight: 2
+  moveSpeed: 2
+  jumpVelocity: 4.5
+  actualTargetTile: {fileID: 0}
 --- !u!1 &1142380489
 GameObject:
   m_ObjectHideFlags: 0
@@ -9285,7 +9554,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -9293,6 +9562,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1162110575
 GameObject:
   m_ObjectHideFlags: 0
@@ -9397,7 +9669,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -9405,6 +9677,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1223125969
 GameObject:
   m_ObjectHideFlags: 0
@@ -9509,7 +9784,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -9517,6 +9792,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1225151057
 GameObject:
   m_ObjectHideFlags: 0
@@ -9621,7 +9899,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -9629,6 +9907,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1246327398
 GameObject:
   m_ObjectHideFlags: 0
@@ -9733,7 +10014,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -9741,6 +10022,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1256017781
 GameObject:
   m_ObjectHideFlags: 0
@@ -9845,7 +10129,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -9853,6 +10137,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1257729855
 GameObject:
   m_ObjectHideFlags: 0
@@ -9957,7 +10244,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -9965,6 +10252,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1260239484
 GameObject:
   m_ObjectHideFlags: 0
@@ -10111,7 +10401,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -10119,6 +10409,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1286055018
 GameObject:
   m_ObjectHideFlags: 0
@@ -10223,7 +10516,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -10231,6 +10524,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1295475546
 GameObject:
   m_ObjectHideFlags: 0
@@ -10335,7 +10631,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -10343,6 +10639,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1310161566
 GameObject:
   m_ObjectHideFlags: 0
@@ -10447,7 +10746,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -10455,6 +10754,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1312034562
 GameObject:
   m_ObjectHideFlags: 0
@@ -10559,7 +10861,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -10567,6 +10869,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1321745724
 GameObject:
   m_ObjectHideFlags: 0
@@ -10671,7 +10976,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -10679,6 +10984,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1327971120
 GameObject:
   m_ObjectHideFlags: 0
@@ -10783,7 +11091,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -10791,6 +11099,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1351283231
 GameObject:
   m_ObjectHideFlags: 0
@@ -10895,7 +11206,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -10903,6 +11214,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1370644830
 GameObject:
   m_ObjectHideFlags: 0
@@ -11007,7 +11321,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -11015,6 +11329,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1379300683
 GameObject:
   m_ObjectHideFlags: 0
@@ -11119,7 +11436,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -11127,6 +11444,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1384573508
 GameObject:
   m_ObjectHideFlags: 0
@@ -11231,7 +11551,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -11239,6 +11559,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1386073860
 GameObject:
   m_ObjectHideFlags: 0
@@ -11343,7 +11666,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -11351,6 +11674,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1397345431
 GameObject:
   m_ObjectHideFlags: 0
@@ -11455,7 +11781,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -11463,6 +11789,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1397730442
 GameObject:
   m_ObjectHideFlags: 0
@@ -11567,7 +11896,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -11575,6 +11904,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1414369230
 GameObject:
   m_ObjectHideFlags: 0
@@ -11679,7 +12011,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -11687,6 +12019,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1421540575
 GameObject:
   m_ObjectHideFlags: 0
@@ -11791,7 +12126,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -11799,6 +12134,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1480073063
 GameObject:
   m_ObjectHideFlags: 0
@@ -11903,7 +12241,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -11911,6 +12249,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1484229186
 GameObject:
   m_ObjectHideFlags: 0
@@ -12057,7 +12398,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -12065,6 +12406,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1513273570
 GameObject:
   m_ObjectHideFlags: 0
@@ -12169,7 +12513,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -12177,6 +12521,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1519683965
 GameObject:
   m_ObjectHideFlags: 0
@@ -12365,7 +12712,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -12373,6 +12720,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1535392662
 GameObject:
   m_ObjectHideFlags: 0
@@ -12477,7 +12827,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -12485,6 +12835,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1569978219
 GameObject:
   m_ObjectHideFlags: 0
@@ -12589,7 +12942,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -12597,6 +12950,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1613590631
 GameObject:
   m_ObjectHideFlags: 0
@@ -12701,7 +13057,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -12709,6 +13065,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1628399356
 GameObject:
   m_ObjectHideFlags: 0
@@ -12813,7 +13172,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -12821,6 +13180,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1638434422
 GameObject:
   m_ObjectHideFlags: 0
@@ -12925,7 +13287,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -12933,6 +13295,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1638546802
 GameObject:
   m_ObjectHideFlags: 0
@@ -13037,7 +13402,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -13045,6 +13410,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1646410120
 GameObject:
   m_ObjectHideFlags: 0
@@ -13228,7 +13596,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -13236,6 +13604,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1671919064
 GameObject:
   m_ObjectHideFlags: 0
@@ -13340,7 +13711,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -13348,6 +13719,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1679996473
 GameObject:
   m_ObjectHideFlags: 0
@@ -13452,7 +13826,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -13460,6 +13834,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1711876471
 GameObject:
   m_ObjectHideFlags: 0
@@ -13564,7 +13941,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -13572,6 +13949,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1712648920
 GameObject:
   m_ObjectHideFlags: 0
@@ -13676,7 +14056,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -13684,6 +14064,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1746065321
 GameObject:
   m_ObjectHideFlags: 0
@@ -13788,7 +14171,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -13796,6 +14179,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1750306422
 GameObject:
   m_ObjectHideFlags: 0
@@ -13900,7 +14286,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -13908,6 +14294,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1750428472
 GameObject:
   m_ObjectHideFlags: 0
@@ -14012,7 +14401,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -14020,6 +14409,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1754905852
 GameObject:
   m_ObjectHideFlags: 0
@@ -14124,7 +14516,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -14132,6 +14524,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1772011776
 GameObject:
   m_ObjectHideFlags: 0
@@ -14236,7 +14631,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -14244,6 +14639,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1775728439
 GameObject:
   m_ObjectHideFlags: 0
@@ -14390,7 +14788,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -14398,6 +14796,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1803540799
 GameObject:
   m_ObjectHideFlags: 0
@@ -14502,7 +14903,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -14510,6 +14911,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1822639588
 GameObject:
   m_ObjectHideFlags: 0
@@ -14614,7 +15018,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -14622,6 +15026,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1843855206
 GameObject:
   m_ObjectHideFlags: 0
@@ -14726,7 +15133,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -14734,6 +15141,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1866207554
 GameObject:
   m_ObjectHideFlags: 0
@@ -14838,7 +15248,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -14846,6 +15256,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1894029780
 GameObject:
   m_ObjectHideFlags: 0
@@ -14950,7 +15363,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -14958,6 +15371,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1894456276
 GameObject:
   m_ObjectHideFlags: 0
@@ -15062,7 +15478,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -15070,6 +15486,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1898009475
 GameObject:
   m_ObjectHideFlags: 0
@@ -15174,7 +15593,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -15182,6 +15601,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1905513992
 GameObject:
   m_ObjectHideFlags: 0
@@ -15286,7 +15708,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -15294,6 +15716,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1906338204
 GameObject:
   m_ObjectHideFlags: 0
@@ -15398,7 +15823,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -15406,6 +15831,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1908510438
 GameObject:
   m_ObjectHideFlags: 0
@@ -15510,7 +15938,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -15518,6 +15946,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1912524634
 GameObject:
   m_ObjectHideFlags: 0
@@ -15622,7 +16053,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -15630,6 +16061,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1916499560
 GameObject:
   m_ObjectHideFlags: 0
@@ -15734,7 +16168,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -15742,6 +16176,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1923274060
 GameObject:
   m_ObjectHideFlags: 0
@@ -15846,7 +16283,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -15854,6 +16291,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &1938003202
 GameObject:
   m_ObjectHideFlags: 0
@@ -16000,7 +16440,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -16008,6 +16448,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &2001691638
 GameObject:
   m_ObjectHideFlags: 0
@@ -16191,7 +16634,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -16199,6 +16642,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &2027631431
 GameObject:
   m_ObjectHideFlags: 0
@@ -16303,7 +16749,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -16311,6 +16757,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &2078439052
 GameObject:
   m_ObjectHideFlags: 0
@@ -16415,7 +16864,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -16423,6 +16872,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &2086022992
 GameObject:
   m_ObjectHideFlags: 0
@@ -16527,7 +16979,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -16535,6 +16987,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &2089717932
 GameObject:
   m_ObjectHideFlags: 0
@@ -16639,7 +17094,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -16647,6 +17102,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &2091224531
 GameObject:
   m_ObjectHideFlags: 0
@@ -16751,7 +17209,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -16759,6 +17217,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &2136034979
 GameObject:
   m_ObjectHideFlags: 0
@@ -16863,7 +17324,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -16871,6 +17332,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &2138275002
 GameObject:
   m_ObjectHideFlags: 0
@@ -16975,7 +17439,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -16983,6 +17447,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1 &2138732449
 GameObject:
   m_ObjectHideFlags: 0
@@ -17087,7 +17554,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 0
+  walkable: 1
   current: 0
   target: 0
   selectable: 0
@@ -17095,6 +17562,9 @@ MonoBehaviour:
   visited: 0
   parent: {fileID: 0}
   distance: 0
+  f: 0
+  g: 0
+  h: 0
 --- !u!1001 &1699942517932920538
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17161,6 +17631,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Light
+      objectReference: {fileID: 0}
+    - target: {fileID: 8557688138615209626, guid: 062c6a716c23bb349933798cde603b8e,
+        type: 3}
+      propertyPath: m_TagString
+      value: NPC
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 062c6a716c23bb349933798cde603b8e, type: 3}
@@ -17394,3 +17869,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf94719f74610d5459dea44194e567f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  turn: 0
+  moving: 0
+  move: 5
+  jumpHeight: 0
+  moveSpeed: 2
+  jumpVelocity: 4.5
+  actualTargetTile: {fileID: 0}
