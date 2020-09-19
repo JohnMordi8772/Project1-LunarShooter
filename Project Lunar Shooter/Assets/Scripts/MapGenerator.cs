@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿//Author: George Tang
+//Assignment: Project Lunar Shooter
+//Description: generate map full of tiles
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
