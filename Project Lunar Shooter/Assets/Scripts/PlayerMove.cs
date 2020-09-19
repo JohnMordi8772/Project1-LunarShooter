@@ -4,12 +4,11 @@ using UnityEngine;
 
 public class PlayerMove : TacticsMove
 {
+
     // Use this for initialization
-
-    void Start ()
-	{
+    void Start()
+    {
         Init();
-
     }
 
     // Update is called once per frame
