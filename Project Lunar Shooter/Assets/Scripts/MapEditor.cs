@@ -1,8 +1,4 @@
-﻿//Author: George Tang
-//Assignment: Project Lunar Shooter
-//Description: allows developer to fix tile height and percent
-
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
