@@ -1,8 +1,4 @@
-﻿/*Author: George Tang
-//Assignment: Project Lunar Shooter
-//Description: a turn by turn management system
-*/
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

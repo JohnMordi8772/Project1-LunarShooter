@@ -125,7 +125,6 @@ GameObject:
   - component: {fileID: 28656020}
   - component: {fileID: 28656019}
   - component: {fileID: 28656022}
-  - component: {fileID: 28656023}
   m_Layer: 0
   m_Name: Tile (0)
   m_TagString: Tile
@@ -228,29 +227,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &28656023
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 28656017}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &33609488
 GameObject:
   m_ObjectHideFlags: 0
@@ -264,7 +240,6 @@ GameObject:
   - component: {fileID: 33609491}
   - component: {fileID: 33609490}
   - component: {fileID: 33609493}
-  - component: {fileID: 33609494}
   m_Layer: 0
   m_Name: Tile (9)
   m_TagString: Tile
@@ -367,29 +342,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &33609494
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 33609488}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &55867787
 GameObject:
   m_ObjectHideFlags: 0
@@ -403,7 +355,6 @@ GameObject:
   - component: {fileID: 55867790}
   - component: {fileID: 55867789}
   - component: {fileID: 55867792}
-  - component: {fileID: 55867793}
   m_Layer: 0
   m_Name: Tile (5)
   m_TagString: Tile
@@ -506,29 +457,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &55867793
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 55867787}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &68939149
 GameObject:
   m_ObjectHideFlags: 0
@@ -542,7 +470,6 @@ GameObject:
   - component: {fileID: 68939152}
   - component: {fileID: 68939151}
   - component: {fileID: 68939154}
-  - component: {fileID: 68939155}
   m_Layer: 0
   m_Name: Tile (9)
   m_TagString: Tile
@@ -645,29 +572,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &68939155
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 68939149}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &74902946
 GameObject:
   m_ObjectHideFlags: 0
@@ -681,7 +585,6 @@ GameObject:
   - component: {fileID: 74902949}
   - component: {fileID: 74902948}
   - component: {fileID: 74902951}
-  - component: {fileID: 74902952}
   m_Layer: 0
   m_Name: Tile (8)
   m_TagString: Tile
@@ -784,29 +687,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &74902952
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 74902946}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &82537478
 GameObject:
   m_ObjectHideFlags: 0
@@ -820,7 +700,6 @@ GameObject:
   - component: {fileID: 82537481}
   - component: {fileID: 82537480}
   - component: {fileID: 82537483}
-  - component: {fileID: 82537484}
   m_Layer: 0
   m_Name: Tile (10)
   m_TagString: Tile
@@ -923,29 +802,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &82537484
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 82537478}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &88862928
 GameObject:
   m_ObjectHideFlags: 0
@@ -959,7 +815,6 @@ GameObject:
   - component: {fileID: 88862931}
   - component: {fileID: 88862930}
   - component: {fileID: 88862933}
-  - component: {fileID: 88862934}
   m_Layer: 0
   m_Name: Tile (4)
   m_TagString: Tile
@@ -1062,29 +917,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &88862934
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 88862928}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &119204851
 GameObject:
   m_ObjectHideFlags: 0
@@ -1140,7 +972,6 @@ GameObject:
   - component: {fileID: 145536689}
   - component: {fileID: 145536688}
   - component: {fileID: 145536691}
-  - component: {fileID: 145536692}
   m_Layer: 0
   m_Name: Tile (8)
   m_TagString: Tile
@@ -1243,29 +1074,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &145536692
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 145536686}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &160353521
 GameObject:
   m_ObjectHideFlags: 0
@@ -1321,7 +1129,6 @@ GameObject:
   - component: {fileID: 160822424}
   - component: {fileID: 160822423}
   - component: {fileID: 160822426}
-  - component: {fileID: 160822427}
   m_Layer: 0
   m_Name: Tile (0)
   m_TagString: Tile
@@ -1424,29 +1231,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &160822427
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 160822421}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &169956511
 GameObject:
   m_ObjectHideFlags: 0
@@ -1460,7 +1244,6 @@ GameObject:
   - component: {fileID: 169956514}
   - component: {fileID: 169956513}
   - component: {fileID: 169956516}
-  - component: {fileID: 169956517}
   m_Layer: 0
   m_Name: Tile (2)
   m_TagString: Tile
@@ -1541,29 +1324,6 @@ MeshFilter:
   m_GameObject: {fileID: 169956511}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!114 &169956516
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 169956511}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
---- !u!114 &169956517
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1668,7 +1428,6 @@ GameObject:
   - component: {fileID: 212569690}
   - component: {fileID: 212569689}
   - component: {fileID: 212569692}
-  - component: {fileID: 212569693}
   m_Layer: 0
   m_Name: Tile (11)
   m_TagString: Tile
@@ -1771,29 +1530,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &212569693
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 212569687}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &214425097
 GameObject:
   m_ObjectHideFlags: 0
@@ -1807,7 +1543,6 @@ GameObject:
   - component: {fileID: 214425100}
   - component: {fileID: 214425099}
   - component: {fileID: 214425102}
-  - component: {fileID: 214425103}
   m_Layer: 0
   m_Name: Tile (1)
   m_TagString: Tile
@@ -1910,29 +1645,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &214425103
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 214425097}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &225687726
 GameObject:
   m_ObjectHideFlags: 0
@@ -1946,7 +1658,6 @@ GameObject:
   - component: {fileID: 225687729}
   - component: {fileID: 225687728}
   - component: {fileID: 225687731}
-  - component: {fileID: 225687732}
   m_Layer: 0
   m_Name: Tile (2)
   m_TagString: Tile
@@ -2049,29 +1760,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &225687732
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 225687726}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &254934500
 GameObject:
   m_ObjectHideFlags: 0
@@ -2085,7 +1773,6 @@ GameObject:
   - component: {fileID: 254934503}
   - component: {fileID: 254934502}
   - component: {fileID: 254934505}
-  - component: {fileID: 254934506}
   m_Layer: 0
   m_Name: Tile (0)
   m_TagString: Tile
@@ -2188,29 +1875,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &254934506
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 254934500}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &274881476
 GameObject:
   m_ObjectHideFlags: 0
@@ -2224,7 +1888,6 @@ GameObject:
   - component: {fileID: 274881479}
   - component: {fileID: 274881478}
   - component: {fileID: 274881481}
-  - component: {fileID: 274881482}
   m_Layer: 0
   m_Name: Tile (0)
   m_TagString: Tile
@@ -2327,29 +1990,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &274881482
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 274881476}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &279438421
 GameObject:
   m_ObjectHideFlags: 0
@@ -2363,7 +2003,6 @@ GameObject:
   - component: {fileID: 279438424}
   - component: {fileID: 279438423}
   - component: {fileID: 279438426}
-  - component: {fileID: 279438427}
   m_Layer: 0
   m_Name: Tile (8)
   m_TagString: Tile
@@ -2466,29 +2105,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &279438427
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 279438421}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &286351985
 GameObject:
   m_ObjectHideFlags: 0
@@ -2502,7 +2118,6 @@ GameObject:
   - component: {fileID: 286351988}
   - component: {fileID: 286351987}
   - component: {fileID: 286351990}
-  - component: {fileID: 286351991}
   m_Layer: 0
   m_Name: Tile (11)
   m_TagString: Tile
@@ -2605,29 +2220,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &286351991
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 286351985}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &288045370
 GameObject:
   m_ObjectHideFlags: 0
@@ -2641,7 +2233,6 @@ GameObject:
   - component: {fileID: 288045373}
   - component: {fileID: 288045372}
   - component: {fileID: 288045375}
-  - component: {fileID: 288045376}
   m_Layer: 0
   m_Name: Tile (10)
   m_TagString: Tile
@@ -2744,29 +2335,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &288045376
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 288045370}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &297396477
 GameObject:
   m_ObjectHideFlags: 0
@@ -2780,7 +2348,6 @@ GameObject:
   - component: {fileID: 297396480}
   - component: {fileID: 297396479}
   - component: {fileID: 297396482}
-  - component: {fileID: 297396483}
   m_Layer: 0
   m_Name: Tile (3)
   m_TagString: Tile
@@ -2883,29 +2450,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &297396483
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 297396477}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &298509210
 GameObject:
   m_ObjectHideFlags: 0
@@ -2919,7 +2463,6 @@ GameObject:
   - component: {fileID: 298509213}
   - component: {fileID: 298509212}
   - component: {fileID: 298509215}
-  - component: {fileID: 298509216}
   m_Layer: 0
   m_Name: Tile (10)
   m_TagString: Tile
@@ -3022,29 +2565,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &298509216
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 298509210}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &299673274
 GameObject:
   m_ObjectHideFlags: 0
@@ -3058,7 +2578,6 @@ GameObject:
   - component: {fileID: 299673277}
   - component: {fileID: 299673276}
   - component: {fileID: 299673279}
-  - component: {fileID: 299673280}
   m_Layer: 0
   m_Name: Tile (1)
   m_TagString: Tile
@@ -3161,29 +2680,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &299673280
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 299673274}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &316736549
 GameObject:
   m_ObjectHideFlags: 0
@@ -3197,7 +2693,6 @@ GameObject:
   - component: {fileID: 316736552}
   - component: {fileID: 316736551}
   - component: {fileID: 316736554}
-  - component: {fileID: 316736555}
   m_Layer: 0
   m_Name: Tile (6)
   m_TagString: Tile
@@ -3300,29 +2795,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &316736555
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 316736549}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &317626786
 GameObject:
   m_ObjectHideFlags: 0
@@ -3336,7 +2808,6 @@ GameObject:
   - component: {fileID: 317626789}
   - component: {fileID: 317626788}
   - component: {fileID: 317626791}
-  - component: {fileID: 317626792}
   m_Layer: 0
   m_Name: Tile (1)
   m_TagString: Tile
@@ -3439,29 +2910,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &317626792
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 317626786}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &370131166
 GameObject:
   m_ObjectHideFlags: 0
@@ -3517,7 +2965,6 @@ GameObject:
   - component: {fileID: 383901407}
   - component: {fileID: 383901406}
   - component: {fileID: 383901409}
-  - component: {fileID: 383901410}
   m_Layer: 0
   m_Name: Tile (0)
   m_TagString: Tile
@@ -3620,29 +3067,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &383901410
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 383901404}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &387278265
 GameObject:
   m_ObjectHideFlags: 0
@@ -3656,7 +3080,6 @@ GameObject:
   - component: {fileID: 387278268}
   - component: {fileID: 387278267}
   - component: {fileID: 387278270}
-  - component: {fileID: 387278271}
   m_Layer: 0
   m_Name: Tile (6)
   m_TagString: Tile
@@ -3759,29 +3182,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &387278271
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 387278265}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &407436179
 GameObject:
   m_ObjectHideFlags: 0
@@ -3795,7 +3195,6 @@ GameObject:
   - component: {fileID: 407436182}
   - component: {fileID: 407436181}
   - component: {fileID: 407436184}
-  - component: {fileID: 407436185}
   m_Layer: 0
   m_Name: Tile (3)
   m_TagString: Tile
@@ -3898,29 +3297,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &407436185
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 407436179}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &410060001
 GameObject:
   m_ObjectHideFlags: 0
@@ -3934,7 +3310,6 @@ GameObject:
   - component: {fileID: 410060004}
   - component: {fileID: 410060003}
   - component: {fileID: 410060006}
-  - component: {fileID: 410060007}
   m_Layer: 0
   m_Name: Tile (2)
   m_TagString: Tile
@@ -4037,29 +3412,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &410060007
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 410060001}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &410482079
 GameObject:
   m_ObjectHideFlags: 0
@@ -4073,7 +3425,6 @@ GameObject:
   - component: {fileID: 410482082}
   - component: {fileID: 410482081}
   - component: {fileID: 410482084}
-  - component: {fileID: 410482085}
   m_Layer: 0
   m_Name: Tile (4)
   m_TagString: Tile
@@ -4176,29 +3527,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &410482085
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 410482079}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &417865953
 GameObject:
   m_ObjectHideFlags: 0
@@ -4212,7 +3540,6 @@ GameObject:
   - component: {fileID: 417865956}
   - component: {fileID: 417865955}
   - component: {fileID: 417865958}
-  - component: {fileID: 417865959}
   m_Layer: 0
   m_Name: Tile (1)
   m_TagString: Tile
@@ -4315,29 +3642,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &417865959
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 417865953}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &419959370
 GameObject:
   m_ObjectHideFlags: 0
@@ -4351,7 +3655,6 @@ GameObject:
   - component: {fileID: 419959373}
   - component: {fileID: 419959372}
   - component: {fileID: 419959375}
-  - component: {fileID: 419959376}
   m_Layer: 0
   m_Name: Tile (1)
   m_TagString: Tile
@@ -4454,29 +3757,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &419959376
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 419959370}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &446225296
 GameObject:
   m_ObjectHideFlags: 0
@@ -4532,7 +3812,6 @@ GameObject:
   - component: {fileID: 451930155}
   - component: {fileID: 451930154}
   - component: {fileID: 451930157}
-  - component: {fileID: 451930158}
   m_Layer: 0
   m_Name: Tile (8)
   m_TagString: Tile
@@ -4635,54 +3914,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &451930158
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 451930152}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
---- !u!1 &452158427 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3794151801961848141, guid: 06ac90fd2732b6c418762aa471246d8f,
-    type: 3}
-  m_PrefabInstance: {fileID: 5188057285379350375}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &452158428
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 452158427}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c18ab26e5790a5e4bb3a2ab08e87ab98, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  turn: 0
-  moving: 0
-  move: 5
-  jumpHeight: 2
-  moveSpeed: 2
-  jumpVelocity: 4.5
-  actualTargetTile: {fileID: 0}
 --- !u!1 &471331257
 GameObject:
   m_ObjectHideFlags: 0
@@ -4696,7 +3927,6 @@ GameObject:
   - component: {fileID: 471331260}
   - component: {fileID: 471331259}
   - component: {fileID: 471331262}
-  - component: {fileID: 471331263}
   m_Layer: 0
   m_Name: Tile (11)
   m_TagString: Tile
@@ -4799,29 +4029,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &471331263
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 471331257}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &481323684
 GameObject:
   m_ObjectHideFlags: 0
@@ -4835,7 +4042,6 @@ GameObject:
   - component: {fileID: 481323687}
   - component: {fileID: 481323686}
   - component: {fileID: 481323689}
-  - component: {fileID: 481323690}
   m_Layer: 0
   m_Name: Tile (3)
   m_TagString: Tile
@@ -4938,29 +4144,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &481323690
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 481323684}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &494819783
 GameObject:
   m_ObjectHideFlags: 0
@@ -4974,7 +4157,6 @@ GameObject:
   - component: {fileID: 494819786}
   - component: {fileID: 494819785}
   - component: {fileID: 494819788}
-  - component: {fileID: 494819789}
   m_Layer: 0
   m_Name: Tile (9)
   m_TagString: Tile
@@ -5077,29 +4259,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &494819789
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 494819783}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &512070747
 GameObject:
   m_ObjectHideFlags: 0
@@ -5113,7 +4272,6 @@ GameObject:
   - component: {fileID: 512070750}
   - component: {fileID: 512070749}
   - component: {fileID: 512070752}
-  - component: {fileID: 512070753}
   m_Layer: 0
   m_Name: Tile (9)
   m_TagString: Tile
@@ -5216,29 +4374,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &512070753
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 512070747}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &520157958
 GameObject:
   m_ObjectHideFlags: 0
@@ -5252,7 +4387,6 @@ GameObject:
   - component: {fileID: 520157961}
   - component: {fileID: 520157960}
   - component: {fileID: 520157963}
-  - component: {fileID: 520157964}
   m_Layer: 0
   m_Name: Tile (5)
   m_TagString: Tile
@@ -5355,29 +4489,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &520157964
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 520157958}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &527691283
 GameObject:
   m_ObjectHideFlags: 0
@@ -5391,7 +4502,6 @@ GameObject:
   - component: {fileID: 527691286}
   - component: {fileID: 527691285}
   - component: {fileID: 527691288}
-  - component: {fileID: 527691289}
   m_Layer: 0
   m_Name: Tile (6)
   m_TagString: Tile
@@ -5494,29 +4604,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &527691289
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 527691283}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &531470138
 GameObject:
   m_ObjectHideFlags: 0
@@ -5530,7 +4617,6 @@ GameObject:
   - component: {fileID: 531470141}
   - component: {fileID: 531470140}
   - component: {fileID: 531470143}
-  - component: {fileID: 531470144}
   m_Layer: 0
   m_Name: Tile (7)
   m_TagString: Tile
@@ -5633,29 +4719,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &531470144
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 531470138}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &533126810
 GameObject:
   m_ObjectHideFlags: 0
@@ -5669,7 +4732,6 @@ GameObject:
   - component: {fileID: 533126813}
   - component: {fileID: 533126812}
   - component: {fileID: 533126815}
-  - component: {fileID: 533126816}
   m_Layer: 0
   m_Name: Tile (4)
   m_TagString: Tile
@@ -5750,29 +4812,6 @@ MeshFilter:
   m_GameObject: {fileID: 533126810}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!114 &533126815
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 533126810}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
---- !u!114 &533126816
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5890,7 +4929,6 @@ GameObject:
   - component: {fileID: 555974706}
   - component: {fileID: 555974705}
   - component: {fileID: 555974708}
-  - component: {fileID: 555974709}
   m_Layer: 0
   m_Name: Tile (7)
   m_TagString: Tile
@@ -5993,29 +5031,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &555974709
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 555974703}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &587218209
 GameObject:
   m_ObjectHideFlags: 0
@@ -6029,7 +5044,6 @@ GameObject:
   - component: {fileID: 587218212}
   - component: {fileID: 587218211}
   - component: {fileID: 587218214}
-  - component: {fileID: 587218215}
   m_Layer: 0
   m_Name: Tile (11)
   m_TagString: Tile
@@ -6132,29 +5146,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &587218215
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 587218209}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &587585079
 GameObject:
   m_ObjectHideFlags: 0
@@ -6168,7 +5159,6 @@ GameObject:
   - component: {fileID: 587585082}
   - component: {fileID: 587585081}
   - component: {fileID: 587585084}
-  - component: {fileID: 587585085}
   m_Layer: 0
   m_Name: Tile (3)
   m_TagString: Tile
@@ -6271,29 +5261,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &587585085
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 587585079}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &591577994
 GameObject:
   m_ObjectHideFlags: 0
@@ -6307,7 +5274,6 @@ GameObject:
   - component: {fileID: 591577997}
   - component: {fileID: 591577996}
   - component: {fileID: 591577999}
-  - component: {fileID: 591578000}
   m_Layer: 0
   m_Name: Tile (10)
   m_TagString: Tile
@@ -6410,29 +5376,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &591578000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 591577994}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &600743701
 GameObject:
   m_ObjectHideFlags: 0
@@ -6446,7 +5389,6 @@ GameObject:
   - component: {fileID: 600743704}
   - component: {fileID: 600743703}
   - component: {fileID: 600743706}
-  - component: {fileID: 600743707}
   m_Layer: 0
   m_Name: Tile (0)
   m_TagString: Tile
@@ -6549,29 +5491,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &600743707
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 600743701}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &615744788
 GameObject:
   m_ObjectHideFlags: 0
@@ -6585,7 +5504,6 @@ GameObject:
   - component: {fileID: 615744791}
   - component: {fileID: 615744790}
   - component: {fileID: 615744793}
-  - component: {fileID: 615744794}
   m_Layer: 0
   m_Name: Tile (4)
   m_TagString: Tile
@@ -6688,29 +5606,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &615744794
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 615744788}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &628642754
 GameObject:
   m_ObjectHideFlags: 0
@@ -6724,7 +5619,6 @@ GameObject:
   - component: {fileID: 628642757}
   - component: {fileID: 628642756}
   - component: {fileID: 628642759}
-  - component: {fileID: 628642760}
   m_Layer: 0
   m_Name: Tile (4)
   m_TagString: Tile
@@ -6827,29 +5721,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &628642760
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 628642754}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &644254104
 GameObject:
   m_ObjectHideFlags: 0
@@ -6863,7 +5734,6 @@ GameObject:
   - component: {fileID: 644254107}
   - component: {fileID: 644254106}
   - component: {fileID: 644254109}
-  - component: {fileID: 644254110}
   m_Layer: 0
   m_Name: Tile (6)
   m_TagString: Tile
@@ -6966,29 +5836,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &644254110
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 644254104}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &670765118
 GameObject:
   m_ObjectHideFlags: 0
@@ -7002,7 +5849,6 @@ GameObject:
   - component: {fileID: 670765121}
   - component: {fileID: 670765120}
   - component: {fileID: 670765123}
-  - component: {fileID: 670765124}
   m_Layer: 0
   m_Name: Tile (4)
   m_TagString: Tile
@@ -7105,29 +5951,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &670765124
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 670765118}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &684318538
 GameObject:
   m_ObjectHideFlags: 0
@@ -7141,7 +5964,6 @@ GameObject:
   - component: {fileID: 684318541}
   - component: {fileID: 684318540}
   - component: {fileID: 684318543}
-  - component: {fileID: 684318544}
   m_Layer: 0
   m_Name: Tile (1)
   m_TagString: Tile
@@ -7222,29 +6044,6 @@ MeshFilter:
   m_GameObject: {fileID: 684318538}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!114 &684318543
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 684318538}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
---- !u!114 &684318544
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -7364,7 +6163,6 @@ GameObject:
   - component: {fileID: 729368776}
   - component: {fileID: 729368775}
   - component: {fileID: 729368778}
-  - component: {fileID: 729368779}
   m_Layer: 0
   m_Name: Tile (4)
   m_TagString: Tile
@@ -7467,29 +6265,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &729368779
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 729368773}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &736147872
 GameObject:
   m_ObjectHideFlags: 0
@@ -7503,7 +6278,6 @@ GameObject:
   - component: {fileID: 736147875}
   - component: {fileID: 736147874}
   - component: {fileID: 736147877}
-  - component: {fileID: 736147878}
   m_Layer: 0
   m_Name: Tile (5)
   m_TagString: Tile
@@ -7606,29 +6380,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &736147878
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 736147872}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &736543099
 GameObject:
   m_ObjectHideFlags: 0
@@ -7642,7 +6393,6 @@ GameObject:
   - component: {fileID: 736543102}
   - component: {fileID: 736543101}
   - component: {fileID: 736543104}
-  - component: {fileID: 736543105}
   m_Layer: 0
   m_Name: Tile (9)
   m_TagString: Tile
@@ -7745,29 +6495,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &736543105
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 736543099}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &771925280
 GameObject:
   m_ObjectHideFlags: 0
@@ -7781,7 +6508,6 @@ GameObject:
   - component: {fileID: 771925283}
   - component: {fileID: 771925282}
   - component: {fileID: 771925285}
-  - component: {fileID: 771925286}
   m_Layer: 0
   m_Name: Tile (7)
   m_TagString: Tile
@@ -7884,29 +6610,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &771925286
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 771925280}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &777523589
 GameObject:
   m_ObjectHideFlags: 0
@@ -7920,7 +6623,6 @@ GameObject:
   - component: {fileID: 777523592}
   - component: {fileID: 777523591}
   - component: {fileID: 777523594}
-  - component: {fileID: 777523595}
   m_Layer: 0
   m_Name: Tile (7)
   m_TagString: Tile
@@ -8023,29 +6725,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &777523595
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 777523589}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &870895376
 GameObject:
   m_ObjectHideFlags: 0
@@ -8059,7 +6738,6 @@ GameObject:
   - component: {fileID: 870895379}
   - component: {fileID: 870895378}
   - component: {fileID: 870895381}
-  - component: {fileID: 870895382}
   m_Layer: 0
   m_Name: Tile (3)
   m_TagString: Tile
@@ -8162,29 +6840,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &870895382
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 870895376}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &886156367
 GameObject:
   m_ObjectHideFlags: 0
@@ -8198,7 +6853,6 @@ GameObject:
   - component: {fileID: 886156370}
   - component: {fileID: 886156369}
   - component: {fileID: 886156372}
-  - component: {fileID: 886156373}
   m_Layer: 0
   m_Name: Tile (11)
   m_TagString: Tile
@@ -8301,29 +6955,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &886156373
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 886156367}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &948208316
 GameObject:
   m_ObjectHideFlags: 0
@@ -8337,7 +6968,6 @@ GameObject:
   - component: {fileID: 948208319}
   - component: {fileID: 948208318}
   - component: {fileID: 948208321}
-  - component: {fileID: 948208322}
   m_Layer: 0
   m_Name: Tile (5)
   m_TagString: Tile
@@ -8440,29 +7070,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &948208322
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 948208316}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &962824684
 GameObject:
   m_ObjectHideFlags: 0
@@ -8476,7 +7083,6 @@ GameObject:
   - component: {fileID: 962824687}
   - component: {fileID: 962824686}
   - component: {fileID: 962824689}
-  - component: {fileID: 962824690}
   m_Layer: 0
   m_Name: Tile (6)
   m_TagString: Tile
@@ -8579,29 +7185,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &962824690
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 962824684}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &964131330
 GameObject:
   m_ObjectHideFlags: 0
@@ -8615,7 +7198,6 @@ GameObject:
   - component: {fileID: 964131333}
   - component: {fileID: 964131332}
   - component: {fileID: 964131335}
-  - component: {fileID: 964131336}
   m_Layer: 0
   m_Name: Tile (11)
   m_TagString: Tile
@@ -8718,29 +7300,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &964131336
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 964131330}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &975833255
 GameObject:
   m_ObjectHideFlags: 0
@@ -8754,7 +7313,6 @@ GameObject:
   - component: {fileID: 975833258}
   - component: {fileID: 975833257}
   - component: {fileID: 975833260}
-  - component: {fileID: 975833261}
   m_Layer: 0
   m_Name: Tile (7)
   m_TagString: Tile
@@ -8857,29 +7415,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &975833261
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 975833255}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &988949588
 GameObject:
   m_ObjectHideFlags: 0
@@ -8893,7 +7428,6 @@ GameObject:
   - component: {fileID: 988949591}
   - component: {fileID: 988949590}
   - component: {fileID: 988949593}
-  - component: {fileID: 988949594}
   m_Layer: 0
   m_Name: Tile (10)
   m_TagString: Tile
@@ -8996,29 +7530,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &988949594
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 988949588}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1002875197
 GameObject:
   m_ObjectHideFlags: 0
@@ -9060,7 +7571,7 @@ Transform:
   - {fileID: 1519683966}
   - {fileID: 370131167}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1002875199
 MonoBehaviour:
@@ -9087,7 +7598,6 @@ GameObject:
   - component: {fileID: 1005561254}
   - component: {fileID: 1005561253}
   - component: {fileID: 1005561256}
-  - component: {fileID: 1005561257}
   m_Layer: 0
   m_Name: Tile (9)
   m_TagString: Tile
@@ -9190,29 +7700,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1005561257
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1005561251}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1018543106
 GameObject:
   m_ObjectHideFlags: 0
@@ -9226,7 +7713,6 @@ GameObject:
   - component: {fileID: 1018543109}
   - component: {fileID: 1018543108}
   - component: {fileID: 1018543111}
-  - component: {fileID: 1018543112}
   m_Layer: 0
   m_Name: Tile (3)
   m_TagString: Tile
@@ -9329,29 +7815,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1018543112
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1018543106}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1023043006
 GameObject:
   m_ObjectHideFlags: 0
@@ -9365,7 +7828,6 @@ GameObject:
   - component: {fileID: 1023043009}
   - component: {fileID: 1023043008}
   - component: {fileID: 1023043011}
-  - component: {fileID: 1023043012}
   m_Layer: 0
   m_Name: Tile (10)
   m_TagString: Tile
@@ -9468,29 +7930,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1023043012
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1023043006}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1029416309
 GameObject:
   m_ObjectHideFlags: 0
@@ -9504,7 +7943,6 @@ GameObject:
   - component: {fileID: 1029416312}
   - component: {fileID: 1029416311}
   - component: {fileID: 1029416314}
-  - component: {fileID: 1029416315}
   m_Layer: 0
   m_Name: Tile (0)
   m_TagString: Tile
@@ -9607,29 +8045,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1029416315
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1029416309}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1030937144
 GameObject:
   m_ObjectHideFlags: 0
@@ -9643,7 +8058,6 @@ GameObject:
   - component: {fileID: 1030937147}
   - component: {fileID: 1030937146}
   - component: {fileID: 1030937149}
-  - component: {fileID: 1030937150}
   m_Layer: 0
   m_Name: Tile (11)
   m_TagString: Tile
@@ -9746,29 +8160,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1030937150
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1030937144}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1034602415
 GameObject:
   m_ObjectHideFlags: 0
@@ -9782,7 +8173,6 @@ GameObject:
   - component: {fileID: 1034602418}
   - component: {fileID: 1034602417}
   - component: {fileID: 1034602420}
-  - component: {fileID: 1034602421}
   m_Layer: 0
   m_Name: Tile (4)
   m_TagString: Tile
@@ -9885,29 +8275,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1034602421
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1034602415}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1039556948
 GameObject:
   m_ObjectHideFlags: 0
@@ -9921,7 +8288,6 @@ GameObject:
   - component: {fileID: 1039556951}
   - component: {fileID: 1039556950}
   - component: {fileID: 1039556953}
-  - component: {fileID: 1039556954}
   m_Layer: 0
   m_Name: Tile (2)
   m_TagString: Tile
@@ -10024,29 +8390,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1039556954
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1039556948}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1065832250
 GameObject:
   m_ObjectHideFlags: 0
@@ -10060,7 +8403,6 @@ GameObject:
   - component: {fileID: 1065832253}
   - component: {fileID: 1065832252}
   - component: {fileID: 1065832255}
-  - component: {fileID: 1065832256}
   m_Layer: 0
   m_Name: Tile (4)
   m_TagString: Tile
@@ -10163,29 +8505,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1065832256
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1065832250}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1067248705
 GameObject:
   m_ObjectHideFlags: 0
@@ -10199,7 +8518,6 @@ GameObject:
   - component: {fileID: 1067248708}
   - component: {fileID: 1067248707}
   - component: {fileID: 1067248710}
-  - component: {fileID: 1067248711}
   m_Layer: 0
   m_Name: Tile (10)
   m_TagString: Tile
@@ -10302,29 +8620,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1067248711
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1067248705}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1070509760
 GameObject:
   m_ObjectHideFlags: 0
@@ -10338,7 +8633,6 @@ GameObject:
   - component: {fileID: 1070509763}
   - component: {fileID: 1070509762}
   - component: {fileID: 1070509765}
-  - component: {fileID: 1070509766}
   m_Layer: 0
   m_Name: Tile (5)
   m_TagString: Tile
@@ -10441,29 +8735,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1070509766
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1070509760}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1070969648
 GameObject:
   m_ObjectHideFlags: 0
@@ -10477,7 +8748,6 @@ GameObject:
   - component: {fileID: 1070969651}
   - component: {fileID: 1070969650}
   - component: {fileID: 1070969653}
-  - component: {fileID: 1070969654}
   m_Layer: 0
   m_Name: Tile (9)
   m_TagString: Tile
@@ -10580,29 +8850,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1070969654
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1070969648}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1089900196
 GameObject:
   m_ObjectHideFlags: 0
@@ -10616,7 +8863,6 @@ GameObject:
   - component: {fileID: 1089900199}
   - component: {fileID: 1089900198}
   - component: {fileID: 1089900201}
-  - component: {fileID: 1089900202}
   m_Layer: 0
   m_Name: Tile (9)
   m_TagString: Tile
@@ -10719,29 +8965,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1089900202
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1089900196}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1106377158
 GameObject:
   m_ObjectHideFlags: 0
@@ -10755,7 +8978,6 @@ GameObject:
   - component: {fileID: 1106377161}
   - component: {fileID: 1106377160}
   - component: {fileID: 1106377163}
-  - component: {fileID: 1106377164}
   m_Layer: 0
   m_Name: Tile (3)
   m_TagString: Tile
@@ -10858,29 +9080,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1106377164
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1106377158}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1108345563
 GameObject:
   m_ObjectHideFlags: 0
@@ -10894,7 +9093,6 @@ GameObject:
   - component: {fileID: 1108345566}
   - component: {fileID: 1108345565}
   - component: {fileID: 1108345568}
-  - component: {fileID: 1108345569}
   m_Layer: 0
   m_Name: Tile (5)
   m_TagString: Tile
@@ -10997,29 +9195,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1108345569
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1108345563}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1108461944
 GameObject:
   m_ObjectHideFlags: 0
@@ -11033,7 +9208,6 @@ GameObject:
   - component: {fileID: 1108461947}
   - component: {fileID: 1108461946}
   - component: {fileID: 1108461949}
-  - component: {fileID: 1108461950}
   m_Layer: 0
   m_Name: Tile (7)
   m_TagString: Tile
@@ -11136,29 +9310,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1108461950
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1108461944}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1136529541
 GameObject:
   m_ObjectHideFlags: 0
@@ -11172,7 +9323,6 @@ GameObject:
   - component: {fileID: 1136529544}
   - component: {fileID: 1136529543}
   - component: {fileID: 1136529546}
-  - component: {fileID: 1136529547}
   m_Layer: 0
   m_Name: Tile (3)
   m_TagString: Tile
@@ -11275,29 +9425,31 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1136529547
+--- !u!1 &1141682771 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8557688138615209626, guid: 062c6a716c23bb349933798cde603b8e,
+    type: 3}
+  m_PrefabInstance: {fileID: 1699942517932920538}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1141682776
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1136529541}
+  m_GameObject: {fileID: 1141682771}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
+  m_Script: {fileID: 11500000, guid: cf94719f74610d5459dea44194e567f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
+  turn: 0
+  moving: 0
+  move: 5
+  jumpHeight: 2
+  moveSpeed: 2
+  jumpVelocity: 4.5
+  actualTargetTile: {fileID: 0}
 --- !u!1 &1142380489
 GameObject:
   m_ObjectHideFlags: 0
@@ -11311,7 +9463,6 @@ GameObject:
   - component: {fileID: 1142380492}
   - component: {fileID: 1142380491}
   - component: {fileID: 1142380494}
-  - component: {fileID: 1142380495}
   m_Layer: 0
   m_Name: Tile (0)
   m_TagString: Tile
@@ -11414,29 +9565,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1142380495
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1142380489}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1162110575
 GameObject:
   m_ObjectHideFlags: 0
@@ -11450,7 +9578,6 @@ GameObject:
   - component: {fileID: 1162110578}
   - component: {fileID: 1162110577}
   - component: {fileID: 1162110580}
-  - component: {fileID: 1162110581}
   m_Layer: 0
   m_Name: Tile (1)
   m_TagString: Tile
@@ -11553,29 +9680,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1162110581
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1162110575}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1223125969
 GameObject:
   m_ObjectHideFlags: 0
@@ -11589,7 +9693,6 @@ GameObject:
   - component: {fileID: 1223125972}
   - component: {fileID: 1223125971}
   - component: {fileID: 1223125974}
-  - component: {fileID: 1223125975}
   m_Layer: 0
   m_Name: Tile (5)
   m_TagString: Tile
@@ -11692,29 +9795,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1223125975
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1223125969}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1225151057
 GameObject:
   m_ObjectHideFlags: 0
@@ -11728,7 +9808,6 @@ GameObject:
   - component: {fileID: 1225151060}
   - component: {fileID: 1225151059}
   - component: {fileID: 1225151062}
-  - component: {fileID: 1225151063}
   m_Layer: 0
   m_Name: Tile (1)
   m_TagString: Tile
@@ -11831,29 +9910,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1225151063
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1225151057}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1246327398
 GameObject:
   m_ObjectHideFlags: 0
@@ -11867,7 +9923,6 @@ GameObject:
   - component: {fileID: 1246327401}
   - component: {fileID: 1246327400}
   - component: {fileID: 1246327403}
-  - component: {fileID: 1246327404}
   m_Layer: 0
   m_Name: Tile (2)
   m_TagString: Tile
@@ -11970,29 +10025,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1246327404
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1246327398}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1256017781
 GameObject:
   m_ObjectHideFlags: 0
@@ -12006,7 +10038,6 @@ GameObject:
   - component: {fileID: 1256017784}
   - component: {fileID: 1256017783}
   - component: {fileID: 1256017786}
-  - component: {fileID: 1256017787}
   m_Layer: 0
   m_Name: Tile (3)
   m_TagString: Tile
@@ -12109,29 +10140,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1256017787
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1256017781}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1257729855
 GameObject:
   m_ObjectHideFlags: 0
@@ -12145,7 +10153,6 @@ GameObject:
   - component: {fileID: 1257729858}
   - component: {fileID: 1257729857}
   - component: {fileID: 1257729860}
-  - component: {fileID: 1257729861}
   m_Layer: 0
   m_Name: Tile (6)
   m_TagString: Tile
@@ -12248,29 +10255,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1257729861
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1257729855}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1260239484
 GameObject:
   m_ObjectHideFlags: 0
@@ -12326,7 +10310,6 @@ GameObject:
   - component: {fileID: 1261208816}
   - component: {fileID: 1261208815}
   - component: {fileID: 1261208818}
-  - component: {fileID: 1261208819}
   m_Layer: 0
   m_Name: Tile (10)
   m_TagString: Tile
@@ -12429,29 +10412,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1261208819
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1261208813}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1286055018
 GameObject:
   m_ObjectHideFlags: 0
@@ -12465,7 +10425,6 @@ GameObject:
   - component: {fileID: 1286055021}
   - component: {fileID: 1286055020}
   - component: {fileID: 1286055023}
-  - component: {fileID: 1286055024}
   m_Layer: 0
   m_Name: Tile (11)
   m_TagString: Tile
@@ -12568,29 +10527,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1286055024
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1286055018}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1295475546
 GameObject:
   m_ObjectHideFlags: 0
@@ -12604,7 +10540,6 @@ GameObject:
   - component: {fileID: 1295475549}
   - component: {fileID: 1295475548}
   - component: {fileID: 1295475551}
-  - component: {fileID: 1295475552}
   m_Layer: 0
   m_Name: Tile (11)
   m_TagString: Tile
@@ -12707,29 +10642,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1295475552
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1295475546}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1310161566
 GameObject:
   m_ObjectHideFlags: 0
@@ -12743,7 +10655,6 @@ GameObject:
   - component: {fileID: 1310161569}
   - component: {fileID: 1310161568}
   - component: {fileID: 1310161571}
-  - component: {fileID: 1310161572}
   m_Layer: 0
   m_Name: Tile (1)
   m_TagString: Tile
@@ -12846,29 +10757,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1310161572
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1310161566}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1312034562
 GameObject:
   m_ObjectHideFlags: 0
@@ -12882,7 +10770,6 @@ GameObject:
   - component: {fileID: 1312034565}
   - component: {fileID: 1312034564}
   - component: {fileID: 1312034567}
-  - component: {fileID: 1312034568}
   m_Layer: 0
   m_Name: Tile (10)
   m_TagString: Tile
@@ -12985,29 +10872,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1312034568
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1312034562}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1321745724
 GameObject:
   m_ObjectHideFlags: 0
@@ -13021,7 +10885,6 @@ GameObject:
   - component: {fileID: 1321745727}
   - component: {fileID: 1321745726}
   - component: {fileID: 1321745729}
-  - component: {fileID: 1321745730}
   m_Layer: 0
   m_Name: Tile (7)
   m_TagString: Tile
@@ -13124,29 +10987,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1321745730
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1321745724}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1327971120
 GameObject:
   m_ObjectHideFlags: 0
@@ -13160,7 +11000,6 @@ GameObject:
   - component: {fileID: 1327971123}
   - component: {fileID: 1327971122}
   - component: {fileID: 1327971125}
-  - component: {fileID: 1327971126}
   m_Layer: 0
   m_Name: Tile (8)
   m_TagString: Tile
@@ -13263,29 +11102,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1327971126
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1327971120}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1351283231
 GameObject:
   m_ObjectHideFlags: 0
@@ -13299,7 +11115,6 @@ GameObject:
   - component: {fileID: 1351283234}
   - component: {fileID: 1351283233}
   - component: {fileID: 1351283236}
-  - component: {fileID: 1351283237}
   m_Layer: 0
   m_Name: Tile (2)
   m_TagString: Tile
@@ -13402,29 +11217,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1351283237
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1351283231}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1370644830
 GameObject:
   m_ObjectHideFlags: 0
@@ -13438,7 +11230,6 @@ GameObject:
   - component: {fileID: 1370644833}
   - component: {fileID: 1370644832}
   - component: {fileID: 1370644835}
-  - component: {fileID: 1370644836}
   m_Layer: 0
   m_Name: Tile (3)
   m_TagString: Tile
@@ -13541,29 +11332,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1370644836
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1370644830}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1379300683
 GameObject:
   m_ObjectHideFlags: 0
@@ -13577,7 +11345,6 @@ GameObject:
   - component: {fileID: 1379300686}
   - component: {fileID: 1379300685}
   - component: {fileID: 1379300688}
-  - component: {fileID: 1379300689}
   m_Layer: 0
   m_Name: Tile (7)
   m_TagString: Tile
@@ -13680,29 +11447,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1379300689
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1379300683}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1384573508
 GameObject:
   m_ObjectHideFlags: 0
@@ -13716,7 +11460,6 @@ GameObject:
   - component: {fileID: 1384573511}
   - component: {fileID: 1384573510}
   - component: {fileID: 1384573513}
-  - component: {fileID: 1384573514}
   m_Layer: 0
   m_Name: Tile (8)
   m_TagString: Tile
@@ -13819,29 +11562,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1384573514
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1384573508}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1386073860
 GameObject:
   m_ObjectHideFlags: 0
@@ -13855,7 +11575,6 @@ GameObject:
   - component: {fileID: 1386073863}
   - component: {fileID: 1386073862}
   - component: {fileID: 1386073865}
-  - component: {fileID: 1386073866}
   m_Layer: 0
   m_Name: Tile (6)
   m_TagString: Tile
@@ -13958,29 +11677,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1386073866
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1386073860}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1397345431
 GameObject:
   m_ObjectHideFlags: 0
@@ -13994,7 +11690,6 @@ GameObject:
   - component: {fileID: 1397345434}
   - component: {fileID: 1397345433}
   - component: {fileID: 1397345436}
-  - component: {fileID: 1397345437}
   m_Layer: 0
   m_Name: Tile (5)
   m_TagString: Tile
@@ -14097,29 +11792,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1397345437
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1397345431}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1397730442
 GameObject:
   m_ObjectHideFlags: 0
@@ -14133,7 +11805,6 @@ GameObject:
   - component: {fileID: 1397730445}
   - component: {fileID: 1397730444}
   - component: {fileID: 1397730447}
-  - component: {fileID: 1397730448}
   m_Layer: 0
   m_Name: Tile (9)
   m_TagString: Tile
@@ -14236,29 +11907,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1397730448
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1397730442}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1414369230
 GameObject:
   m_ObjectHideFlags: 0
@@ -14272,7 +11920,6 @@ GameObject:
   - component: {fileID: 1414369233}
   - component: {fileID: 1414369232}
   - component: {fileID: 1414369235}
-  - component: {fileID: 1414369236}
   m_Layer: 0
   m_Name: Tile (8)
   m_TagString: Tile
@@ -14375,29 +12022,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1414369236
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1414369230}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1421540575
 GameObject:
   m_ObjectHideFlags: 0
@@ -14411,7 +12035,6 @@ GameObject:
   - component: {fileID: 1421540578}
   - component: {fileID: 1421540577}
   - component: {fileID: 1421540580}
-  - component: {fileID: 1421540581}
   m_Layer: 0
   m_Name: Tile (11)
   m_TagString: Tile
@@ -14514,29 +12137,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1421540581
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1421540575}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1480073063
 GameObject:
   m_ObjectHideFlags: 0
@@ -14550,7 +12150,6 @@ GameObject:
   - component: {fileID: 1480073066}
   - component: {fileID: 1480073065}
   - component: {fileID: 1480073068}
-  - component: {fileID: 1480073069}
   m_Layer: 0
   m_Name: Tile (2)
   m_TagString: Tile
@@ -14653,29 +12252,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1480073069
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1480073063}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1484229186
 GameObject:
   m_ObjectHideFlags: 0
@@ -14731,7 +12307,6 @@ GameObject:
   - component: {fileID: 1512160658}
   - component: {fileID: 1512160657}
   - component: {fileID: 1512160660}
-  - component: {fileID: 1512160661}
   m_Layer: 0
   m_Name: Tile (2)
   m_TagString: Tile
@@ -14834,29 +12409,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1512160661
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1512160655}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1513273570
 GameObject:
   m_ObjectHideFlags: 0
@@ -14870,7 +12422,6 @@ GameObject:
   - component: {fileID: 1513273573}
   - component: {fileID: 1513273572}
   - component: {fileID: 1513273575}
-  - component: {fileID: 1513273576}
   m_Layer: 0
   m_Name: Tile (9)
   m_TagString: Tile
@@ -14951,29 +12502,6 @@ MeshFilter:
   m_GameObject: {fileID: 1513273570}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!114 &1513273575
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1513273570}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
---- !u!114 &1513273576
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -15093,7 +12621,6 @@ GameObject:
   - component: {fileID: 1535162610}
   - component: {fileID: 1535162609}
   - component: {fileID: 1535162612}
-  - component: {fileID: 1535162613}
   m_Layer: 0
   m_Name: Tile (10)
   m_TagString: Tile
@@ -15196,29 +12723,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1535162613
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1535162607}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1535392662
 GameObject:
   m_ObjectHideFlags: 0
@@ -15232,7 +12736,6 @@ GameObject:
   - component: {fileID: 1535392665}
   - component: {fileID: 1535392664}
   - component: {fileID: 1535392667}
-  - component: {fileID: 1535392668}
   m_Layer: 0
   m_Name: Tile (4)
   m_TagString: Tile
@@ -15335,29 +12838,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1535392668
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1535392662}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1569978219
 GameObject:
   m_ObjectHideFlags: 0
@@ -15371,7 +12851,6 @@ GameObject:
   - component: {fileID: 1569978222}
   - component: {fileID: 1569978221}
   - component: {fileID: 1569978224}
-  - component: {fileID: 1569978225}
   m_Layer: 0
   m_Name: Tile (8)
   m_TagString: Tile
@@ -15474,29 +12953,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1569978225
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1569978219}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1613590631
 GameObject:
   m_ObjectHideFlags: 0
@@ -15510,7 +12966,6 @@ GameObject:
   - component: {fileID: 1613590634}
   - component: {fileID: 1613590633}
   - component: {fileID: 1613590636}
-  - component: {fileID: 1613590637}
   m_Layer: 0
   m_Name: Tile (6)
   m_TagString: Tile
@@ -15613,29 +13068,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1613590637
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1613590631}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1628399356
 GameObject:
   m_ObjectHideFlags: 0
@@ -15649,7 +13081,6 @@ GameObject:
   - component: {fileID: 1628399359}
   - component: {fileID: 1628399358}
   - component: {fileID: 1628399361}
-  - component: {fileID: 1628399362}
   m_Layer: 0
   m_Name: Tile (7)
   m_TagString: Tile
@@ -15752,29 +13183,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1628399362
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1628399356}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1638434422
 GameObject:
   m_ObjectHideFlags: 0
@@ -15788,7 +13196,6 @@ GameObject:
   - component: {fileID: 1638434425}
   - component: {fileID: 1638434424}
   - component: {fileID: 1638434427}
-  - component: {fileID: 1638434428}
   m_Layer: 0
   m_Name: Tile (9)
   m_TagString: Tile
@@ -15891,29 +13298,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1638434428
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1638434422}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1638546802
 GameObject:
   m_ObjectHideFlags: 0
@@ -15927,7 +13311,6 @@ GameObject:
   - component: {fileID: 1638546805}
   - component: {fileID: 1638546804}
   - component: {fileID: 1638546807}
-  - component: {fileID: 1638546808}
   m_Layer: 0
   m_Name: Tile (0)
   m_TagString: Tile
@@ -16030,29 +13413,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1638546808
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1638546802}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1646410120
 GameObject:
   m_ObjectHideFlags: 0
@@ -16130,7 +13490,7 @@ Transform:
   m_LocalScale: {x: 1.6494, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 90.00001, y: 0, z: 0}
 --- !u!1 &1662274380
 GameObject:
@@ -16145,7 +13505,6 @@ GameObject:
   - component: {fileID: 1662274383}
   - component: {fileID: 1662274382}
   - component: {fileID: 1662274385}
-  - component: {fileID: 1662274386}
   m_Layer: 0
   m_Name: Tile (7)
   m_TagString: Tile
@@ -16248,29 +13607,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1662274386
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1662274380}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1671919064
 GameObject:
   m_ObjectHideFlags: 0
@@ -16284,7 +13620,6 @@ GameObject:
   - component: {fileID: 1671919067}
   - component: {fileID: 1671919066}
   - component: {fileID: 1671919069}
-  - component: {fileID: 1671919070}
   m_Layer: 0
   m_Name: Tile (9)
   m_TagString: Tile
@@ -16387,29 +13722,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1671919070
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1671919064}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1679996473
 GameObject:
   m_ObjectHideFlags: 0
@@ -16423,7 +13735,6 @@ GameObject:
   - component: {fileID: 1679996476}
   - component: {fileID: 1679996475}
   - component: {fileID: 1679996478}
-  - component: {fileID: 1679996479}
   m_Layer: 0
   m_Name: Tile (3)
   m_TagString: Tile
@@ -16526,29 +13837,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1679996479
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1679996473}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1711876471
 GameObject:
   m_ObjectHideFlags: 0
@@ -16562,7 +13850,6 @@ GameObject:
   - component: {fileID: 1711876474}
   - component: {fileID: 1711876473}
   - component: {fileID: 1711876476}
-  - component: {fileID: 1711876477}
   m_Layer: 0
   m_Name: Tile (5)
   m_TagString: Tile
@@ -16665,29 +13952,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1711876477
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1711876471}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1712648920
 GameObject:
   m_ObjectHideFlags: 0
@@ -16701,7 +13965,6 @@ GameObject:
   - component: {fileID: 1712648923}
   - component: {fileID: 1712648922}
   - component: {fileID: 1712648925}
-  - component: {fileID: 1712648926}
   m_Layer: 0
   m_Name: Tile (6)
   m_TagString: Tile
@@ -16804,29 +14067,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1712648926
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1712648920}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1746065321
 GameObject:
   m_ObjectHideFlags: 0
@@ -16840,7 +14080,6 @@ GameObject:
   - component: {fileID: 1746065324}
   - component: {fileID: 1746065323}
   - component: {fileID: 1746065326}
-  - component: {fileID: 1746065327}
   m_Layer: 0
   m_Name: Tile (1)
   m_TagString: Tile
@@ -16943,29 +14182,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1746065327
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1746065321}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1750306422
 GameObject:
   m_ObjectHideFlags: 0
@@ -16979,7 +14195,6 @@ GameObject:
   - component: {fileID: 1750306425}
   - component: {fileID: 1750306424}
   - component: {fileID: 1750306427}
-  - component: {fileID: 1750306428}
   m_Layer: 0
   m_Name: Tile (2)
   m_TagString: Tile
@@ -17082,29 +14297,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1750306428
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1750306422}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1750428472
 GameObject:
   m_ObjectHideFlags: 0
@@ -17118,7 +14310,6 @@ GameObject:
   - component: {fileID: 1750428475}
   - component: {fileID: 1750428474}
   - component: {fileID: 1750428477}
-  - component: {fileID: 1750428478}
   m_Layer: 0
   m_Name: Tile (6)
   m_TagString: Tile
@@ -17221,29 +14412,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1750428478
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1750428472}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1754905852
 GameObject:
   m_ObjectHideFlags: 0
@@ -17257,7 +14425,6 @@ GameObject:
   - component: {fileID: 1754905855}
   - component: {fileID: 1754905854}
   - component: {fileID: 1754905857}
-  - component: {fileID: 1754905858}
   m_Layer: 0
   m_Name: Tile (10)
   m_TagString: Tile
@@ -17360,29 +14527,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1754905858
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1754905852}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1772011776
 GameObject:
   m_ObjectHideFlags: 0
@@ -17396,7 +14540,6 @@ GameObject:
   - component: {fileID: 1772011779}
   - component: {fileID: 1772011778}
   - component: {fileID: 1772011781}
-  - component: {fileID: 1772011782}
   m_Layer: 0
   m_Name: Tile (7)
   m_TagString: Tile
@@ -17499,29 +14642,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1772011782
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1772011776}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1775728439
 GameObject:
   m_ObjectHideFlags: 0
@@ -17577,7 +14697,6 @@ GameObject:
   - component: {fileID: 1795713695}
   - component: {fileID: 1795713694}
   - component: {fileID: 1795713697}
-  - component: {fileID: 1795713698}
   m_Layer: 0
   m_Name: Tile (8)
   m_TagString: Tile
@@ -17680,29 +14799,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1795713698
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1795713692}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1803540799
 GameObject:
   m_ObjectHideFlags: 0
@@ -17716,7 +14812,6 @@ GameObject:
   - component: {fileID: 1803540802}
   - component: {fileID: 1803540801}
   - component: {fileID: 1803540804}
-  - component: {fileID: 1803540805}
   m_Layer: 0
   m_Name: Tile (0)
   m_TagString: Tile
@@ -17819,29 +14914,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1803540805
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1803540799}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1822639588
 GameObject:
   m_ObjectHideFlags: 0
@@ -17855,7 +14927,6 @@ GameObject:
   - component: {fileID: 1822639591}
   - component: {fileID: 1822639590}
   - component: {fileID: 1822639593}
-  - component: {fileID: 1822639594}
   m_Layer: 0
   m_Name: Tile (0)
   m_TagString: Tile
@@ -17958,29 +15029,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1822639594
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1822639588}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1843855206
 GameObject:
   m_ObjectHideFlags: 0
@@ -17994,7 +15042,6 @@ GameObject:
   - component: {fileID: 1843855209}
   - component: {fileID: 1843855208}
   - component: {fileID: 1843855211}
-  - component: {fileID: 1843855212}
   m_Layer: 0
   m_Name: Tile (8)
   m_TagString: Tile
@@ -18097,29 +15144,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1843855212
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1843855206}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1866207554
 GameObject:
   m_ObjectHideFlags: 0
@@ -18133,7 +15157,6 @@ GameObject:
   - component: {fileID: 1866207557}
   - component: {fileID: 1866207556}
   - component: {fileID: 1866207559}
-  - component: {fileID: 1866207560}
   m_Layer: 0
   m_Name: Tile (6)
   m_TagString: Tile
@@ -18236,29 +15259,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1866207560
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1866207554}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1894029780
 GameObject:
   m_ObjectHideFlags: 0
@@ -18272,7 +15272,6 @@ GameObject:
   - component: {fileID: 1894029783}
   - component: {fileID: 1894029782}
   - component: {fileID: 1894029785}
-  - component: {fileID: 1894029786}
   m_Layer: 0
   m_Name: Tile (3)
   m_TagString: Tile
@@ -18375,29 +15374,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1894029786
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1894029780}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1894456276
 GameObject:
   m_ObjectHideFlags: 0
@@ -18411,7 +15387,6 @@ GameObject:
   - component: {fileID: 1894456279}
   - component: {fileID: 1894456278}
   - component: {fileID: 1894456281}
-  - component: {fileID: 1894456282}
   m_Layer: 0
   m_Name: Tile (7)
   m_TagString: Tile
@@ -18514,29 +15489,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1894456282
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1894456276}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1898009475
 GameObject:
   m_ObjectHideFlags: 0
@@ -18550,7 +15502,6 @@ GameObject:
   - component: {fileID: 1898009478}
   - component: {fileID: 1898009477}
   - component: {fileID: 1898009480}
-  - component: {fileID: 1898009481}
   m_Layer: 0
   m_Name: Tile (5)
   m_TagString: Tile
@@ -18653,29 +15604,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1898009481
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1898009475}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1905513992
 GameObject:
   m_ObjectHideFlags: 0
@@ -18689,7 +15617,6 @@ GameObject:
   - component: {fileID: 1905513995}
   - component: {fileID: 1905513994}
   - component: {fileID: 1905513997}
-  - component: {fileID: 1905513998}
   m_Layer: 0
   m_Name: Tile (11)
   m_TagString: Tile
@@ -18792,29 +15719,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1905513998
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1905513992}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1906338204
 GameObject:
   m_ObjectHideFlags: 0
@@ -18828,7 +15732,6 @@ GameObject:
   - component: {fileID: 1906338207}
   - component: {fileID: 1906338206}
   - component: {fileID: 1906338209}
-  - component: {fileID: 1906338210}
   m_Layer: 0
   m_Name: Tile (5)
   m_TagString: Tile
@@ -18931,29 +15834,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1906338210
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1906338204}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1908510438
 GameObject:
   m_ObjectHideFlags: 0
@@ -18967,7 +15847,6 @@ GameObject:
   - component: {fileID: 1908510441}
   - component: {fileID: 1908510440}
   - component: {fileID: 1908510443}
-  - component: {fileID: 1908510444}
   m_Layer: 0
   m_Name: Tile (1)
   m_TagString: Tile
@@ -19070,29 +15949,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1908510444
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1908510438}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1912524634
 GameObject:
   m_ObjectHideFlags: 0
@@ -19106,7 +15962,6 @@ GameObject:
   - component: {fileID: 1912524637}
   - component: {fileID: 1912524636}
   - component: {fileID: 1912524639}
-  - component: {fileID: 1912524640}
   m_Layer: 0
   m_Name: Tile (8)
   m_TagString: Tile
@@ -19209,29 +16064,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1912524640
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1912524634}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1916499560
 GameObject:
   m_ObjectHideFlags: 0
@@ -19245,7 +16077,6 @@ GameObject:
   - component: {fileID: 1916499563}
   - component: {fileID: 1916499562}
   - component: {fileID: 1916499565}
-  - component: {fileID: 1916499566}
   m_Layer: 0
   m_Name: Tile (2)
   m_TagString: Tile
@@ -19348,29 +16179,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1916499566
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1916499560}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1923274060
 GameObject:
   m_ObjectHideFlags: 0
@@ -19384,7 +16192,6 @@ GameObject:
   - component: {fileID: 1923274063}
   - component: {fileID: 1923274062}
   - component: {fileID: 1923274065}
-  - component: {fileID: 1923274066}
   m_Layer: 0
   m_Name: Tile (0)
   m_TagString: Tile
@@ -19487,29 +16294,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1923274066
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1923274060}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1938003202
 GameObject:
   m_ObjectHideFlags: 0
@@ -19565,7 +16349,6 @@ GameObject:
   - component: {fileID: 1947700361}
   - component: {fileID: 1947700360}
   - component: {fileID: 1947700363}
-  - component: {fileID: 1947700364}
   m_Layer: 0
   m_Name: Tile (5)
   m_TagString: Tile
@@ -19668,29 +16451,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &1947700364
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1947700358}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &2001691638
 GameObject:
   m_ObjectHideFlags: 0
@@ -19768,7 +16528,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: -90.00001, y: 0, z: 0}
 --- !u!1 &2025145743
 GameObject:
@@ -19783,7 +16543,6 @@ GameObject:
   - component: {fileID: 2025145746}
   - component: {fileID: 2025145745}
   - component: {fileID: 2025145748}
-  - component: {fileID: 2025145749}
   m_Layer: 0
   m_Name: Tile (1)
   m_TagString: Tile
@@ -19886,29 +16645,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &2025145749
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2025145743}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &2027631431
 GameObject:
   m_ObjectHideFlags: 0
@@ -19922,7 +16658,6 @@ GameObject:
   - component: {fileID: 2027631434}
   - component: {fileID: 2027631433}
   - component: {fileID: 2027631436}
-  - component: {fileID: 2027631437}
   m_Layer: 0
   m_Name: Tile (11)
   m_TagString: Tile
@@ -20025,29 +16760,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &2027631437
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2027631431}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &2078439052
 GameObject:
   m_ObjectHideFlags: 0
@@ -20061,7 +16773,6 @@ GameObject:
   - component: {fileID: 2078439055}
   - component: {fileID: 2078439054}
   - component: {fileID: 2078439057}
-  - component: {fileID: 2078439058}
   m_Layer: 0
   m_Name: Tile (6)
   m_TagString: Tile
@@ -20164,29 +16875,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &2078439058
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2078439052}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &2086022992
 GameObject:
   m_ObjectHideFlags: 0
@@ -20200,7 +16888,6 @@ GameObject:
   - component: {fileID: 2086022995}
   - component: {fileID: 2086022994}
   - component: {fileID: 2086022997}
-  - component: {fileID: 2086022998}
   m_Layer: 0
   m_Name: Tile (10)
   m_TagString: Tile
@@ -20303,29 +16990,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &2086022998
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2086022992}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &2089717932
 GameObject:
   m_ObjectHideFlags: 0
@@ -20339,7 +17003,6 @@ GameObject:
   - component: {fileID: 2089717935}
   - component: {fileID: 2089717934}
   - component: {fileID: 2089717937}
-  - component: {fileID: 2089717938}
   m_Layer: 0
   m_Name: Tile (2)
   m_TagString: Tile
@@ -20442,29 +17105,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &2089717938
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2089717932}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &2091224531
 GameObject:
   m_ObjectHideFlags: 0
@@ -20478,7 +17118,6 @@ GameObject:
   - component: {fileID: 2091224534}
   - component: {fileID: 2091224533}
   - component: {fileID: 2091224536}
-  - component: {fileID: 2091224537}
   m_Layer: 0
   m_Name: Tile (8)
   m_TagString: Tile
@@ -20581,29 +17220,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &2091224537
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2091224531}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &2136034979
 GameObject:
   m_ObjectHideFlags: 0
@@ -20617,7 +17233,6 @@ GameObject:
   - component: {fileID: 2136034982}
   - component: {fileID: 2136034981}
   - component: {fileID: 2136034984}
-  - component: {fileID: 2136034985}
   m_Layer: 0
   m_Name: Tile (4)
   m_TagString: Tile
@@ -20720,29 +17335,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &2136034985
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2136034979}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &2138275002
 GameObject:
   m_ObjectHideFlags: 0
@@ -20756,7 +17348,6 @@ GameObject:
   - component: {fileID: 2138275005}
   - component: {fileID: 2138275004}
   - component: {fileID: 2138275007}
-  - component: {fileID: 2138275008}
   m_Layer: 0
   m_Name: Tile (4)
   m_TagString: Tile
@@ -20859,29 +17450,6 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &2138275008
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2138275002}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &2138732449
 GameObject:
   m_ObjectHideFlags: 0
@@ -20895,7 +17463,6 @@ GameObject:
   - component: {fileID: 2138732452}
   - component: {fileID: 2138732451}
   - component: {fileID: 2138732454}
-  - component: {fileID: 2138732455}
   m_Layer: 0
   m_Name: Tile (2)
   m_TagString: Tile
@@ -20998,29 +17565,149 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
---- !u!114 &2138732455
-MonoBehaviour:
+--- !u!1001 &1699942517932920538
+PrefabInstance:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2138732449}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1638205955943055510, guid: 062c6a716c23bb349933798cde603b8e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.87
+      objectReference: {fileID: 0}
+    - target: {fileID: 1638205955943055510, guid: 062c6a716c23bb349933798cde603b8e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.74
+      objectReference: {fileID: 0}
+    - target: {fileID: 1638205955943055510, guid: 062c6a716c23bb349933798cde603b8e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1638205955943055510, guid: 062c6a716c23bb349933798cde603b8e,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1638205955943055510, guid: 062c6a716c23bb349933798cde603b8e,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1638205955943055510, guid: 062c6a716c23bb349933798cde603b8e,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1638205955943055510, guid: 062c6a716c23bb349933798cde603b8e,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1638205955943055510, guid: 062c6a716c23bb349933798cde603b8e,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1638205955943055510, guid: 062c6a716c23bb349933798cde603b8e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1638205955943055510, guid: 062c6a716c23bb349933798cde603b8e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1638205955943055510, guid: 062c6a716c23bb349933798cde603b8e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8557688138615209626, guid: 062c6a716c23bb349933798cde603b8e,
+        type: 3}
+      propertyPath: m_Name
+      value: Light
+      objectReference: {fileID: 0}
+    - target: {fileID: 8557688138615209626, guid: 062c6a716c23bb349933798cde603b8e,
+        type: 3}
+      propertyPath: m_TagString
+      value: NPC
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 062c6a716c23bb349933798cde603b8e, type: 3}
+--- !u!1001 &3054089119068730367
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5615776377144629535, guid: 49b528a392c063e4fa6c9f1418b9add0,
+        type: 3}
+      propertyPath: m_Name
+      value: Medium
+      objectReference: {fileID: 0}
+    - target: {fileID: 8202319259050364117, guid: 49b528a392c063e4fa6c9f1418b9add0,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.74000025
+      objectReference: {fileID: 0}
+    - target: {fileID: 8202319259050364117, guid: 49b528a392c063e4fa6c9f1418b9add0,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 8202319259050364117, guid: 49b528a392c063e4fa6c9f1418b9add0,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8202319259050364117, guid: 49b528a392c063e4fa6c9f1418b9add0,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8202319259050364117, guid: 49b528a392c063e4fa6c9f1418b9add0,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8202319259050364117, guid: 49b528a392c063e4fa6c9f1418b9add0,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8202319259050364117, guid: 49b528a392c063e4fa6c9f1418b9add0,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8202319259050364117, guid: 49b528a392c063e4fa6c9f1418b9add0,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8202319259050364117, guid: 49b528a392c063e4fa6c9f1418b9add0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8202319259050364117, guid: 49b528a392c063e4fa6c9f1418b9add0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8202319259050364117, guid: 49b528a392c063e4fa6c9f1418b9add0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 49b528a392c063e4fa6c9f1418b9add0, type: 3}
 --- !u!1001 &5188057285379350375
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21031,27 +17718,22 @@ PrefabInstance:
     - target: {fileID: 3794151801961848141, guid: 06ac90fd2732b6c418762aa471246d8f,
         type: 3}
       propertyPath: m_Name
-      value: NPC
-      objectReference: {fileID: 0}
-    - target: {fileID: 3794151801961848141, guid: 06ac90fd2732b6c418762aa471246d8f,
-        type: 3}
-      propertyPath: m_TagString
-      value: NPC
+      value: Heavy
       objectReference: {fileID: 0}
     - target: {fileID: 8949415361806410431, guid: 06ac90fd2732b6c418762aa471246d8f,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.418
+      value: 3.0500002
       objectReference: {fileID: 0}
     - target: {fileID: 8949415361806410431, guid: 06ac90fd2732b6c418762aa471246d8f,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.258
+      value: 3.29
       objectReference: {fileID: 0}
     - target: {fileID: 8949415361806410431, guid: 06ac90fd2732b6c418762aa471246d8f,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.709
+      value: -3
       objectReference: {fileID: 0}
     - target: {fileID: 8949415361806410431, guid: 06ac90fd2732b6c418762aa471246d8f,
         type: 3}
@@ -21076,7 +17758,7 @@ PrefabInstance:
     - target: {fileID: 8949415361806410431, guid: 06ac90fd2732b6c418762aa471246d8f,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 8949415361806410431, guid: 06ac90fd2732b6c418762aa471246d8f,
         type: 3}
@@ -21190,7 +17872,7 @@ MonoBehaviour:
   turn: 0
   moving: 0
   move: 5
-  jumpHeight: 2
+  jumpHeight: 0
   moveSpeed: 2
   jumpVelocity: 4.5
   actualTargetTile: {fileID: 0}
