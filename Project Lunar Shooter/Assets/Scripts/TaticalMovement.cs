@@ -16,6 +16,4 @@ public class TaticalMovement : MonoBehaviour
 
     Vector3 velocity = new Vector3();
     Vector3 heading = new Vector3();
-    
-   
 }
