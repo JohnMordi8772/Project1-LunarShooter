@@ -1,18 +1,13 @@
-﻿/*Author: George Tang
- * Assignment: Project Lunar Shooter
- * Desciption: Player Movement
- */
-
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerMove : TacticsMove
+public class NewBehaviourScript : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-        Init();
+        
     }
 
     // Update is called once per frame
