@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*Author: George Tang
+ * Assignment: Project Lunar Shooter
+ * Desciption: Creates a menu to easily load material and scripts to a 12 by 12 grid
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;

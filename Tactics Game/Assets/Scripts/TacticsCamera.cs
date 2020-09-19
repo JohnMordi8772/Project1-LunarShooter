@@ -1,8 +1,13 @@
-﻿using System.Collections;
+﻿/*Author: George Tang
+ * Assignment: Project Lunar Shooter
+ * Desciption: Allows player to rotate the camera using buttons on screen
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TaticsCamera : MonoBehaviour
+public class TacticsCamera : MonoBehaviour
 {
     public void RotateLeft()
     {
