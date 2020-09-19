@@ -1,13 +1,8 @@
-﻿/*Author: George Tang
- * Assignment: Project Lunar Shooter
- * Desciption: Player Movement
- */
-
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerMove : MonoBehaviour
+public class PlayerMovement : MonoBehaviour
 {
     public float horizontalInput;
     public float speed = 10.0f;
@@ -23,7 +18,7 @@ public class PlayerMove : MonoBehaviour
         transform.Translate(Vector3.right * horizontalInput * Time.deltaTime * speed);
 
         //keep player in bounds
-        if (transform.position.x < -xRange)
+        if(transform.position.x < -xRange)
         {
             transform.position = new Vector3(-xRange, transform.position.y, transform.position.z);
         }
