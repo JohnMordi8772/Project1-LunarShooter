@@ -121,6 +121,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   topBound: 15
+  health: 0
+  dmg: 0
 --- !u!114 &114419262635894212
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -133,6 +135,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2fb9e7bef47c81e41bd080f63ec1d7ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dmg: 1
 --- !u!54 &54459492184480088
 Rigidbody:
   m_ObjectHideFlags: 0
