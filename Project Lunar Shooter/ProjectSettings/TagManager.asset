@@ -8,6 +8,7 @@ TagManager:
   - Tile
   - NPC
   - WinLossManager
+  - TurnManager
   layers:
   - Default
   - TransparentFX
