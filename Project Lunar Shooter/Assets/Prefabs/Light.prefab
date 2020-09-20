@@ -106,6 +106,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
+  moved: 0
 --- !u!114 &114808668167080444
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -119,3 +120,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   topBound: 15
+  health: 1
+  dmg: 1
