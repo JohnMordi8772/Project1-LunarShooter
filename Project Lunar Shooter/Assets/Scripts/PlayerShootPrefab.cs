@@ -13,15 +13,15 @@ public class PlayerShootPrefab : MonoBehaviour
     {
         if(Input.GetKeyDown(KeyCode.Q))
         {
-            Instantiate(lightAttack, transform.position, lightAttack.transform.rotation);
+            Instantiate(lightAttack, new Vector3(transform.position.x, transform.position.y, transform.position.z+1), lightAttack.transform.rotation);
         }
         if(Input.GetKeyDown(KeyCode.W))
         {
-            Instantiate(mediumAttack, transform.position, mediumAttack.transform.rotation);
+            Instantiate(mediumAttack, new Vector3(transform.position.x, transform.position.y, transform.position.z+1), mediumAttack.transform.rotation);
         }
         if(Input.GetKeyDown(KeyCode.E))
         {
-            Instantiate(heavyAttack, transform.position, heavyAttack.transform.rotation);
+            Instantiate(heavyAttack, new Vector3(transform.position.x, transform.position.y, transform.position.z+1), heavyAttack.transform.rotation);
         }
     }
 }

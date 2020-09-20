@@ -7,7 +7,7 @@ public class Player : MonoBehaviour
     public float horizontalInput;
     public float speed = 100.0f;
     private float xUpperRange = 11;
-    private float xLowerRange = -1;
+    private float xLowerRange = 1;
 
     // Update is called once per frame
     void Update()
@@ -20,9 +20,9 @@ public class Player : MonoBehaviour
             transform.Translate(Vector3.right * horizontalInput);
 
         //keep player in bounds
-        if (transform.position.x < -xLowerRange)
+        if (transform.position.x < xLowerRange)
         {
-            transform.position = new Vector3(-xLowerRange, transform.position.y, transform.position.z);
+            transform.position = new Vector3(xLowerRange, transform.position.y, transform.position.z);
         }
 
         if (transform.position.x > xUpperRange)
