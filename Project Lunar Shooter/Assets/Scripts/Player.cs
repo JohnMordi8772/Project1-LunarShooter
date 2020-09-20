@@ -7,7 +7,7 @@ public class Player : MonoBehaviour
     public float horizontalInput;
     public float speed = 100.0f;
     private float xUpperRange = 11;
-    private float xLowerRange = 0;
+    private float xLowerRange = -1;
 
     // Update is called once per frame
     void Update()
