@@ -206,6 +206,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 28656017}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &28656022
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -281,6 +282,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &33609488
 GameObject:
   m_ObjectHideFlags: 0
@@ -375,6 +378,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 33609488}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &33609493
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -450,6 +454,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &55867787
 GameObject:
   m_ObjectHideFlags: 0
@@ -544,6 +550,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 55867787}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &55867792
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -619,6 +626,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &68939149
 GameObject:
   m_ObjectHideFlags: 0
@@ -713,6 +722,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 68939149}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &68939154
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -788,6 +798,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &74902946
 GameObject:
   m_ObjectHideFlags: 0
@@ -882,6 +894,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 74902946}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &74902951
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -957,6 +970,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &82537478
 GameObject:
   m_ObjectHideFlags: 0
@@ -1051,6 +1066,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 82537478}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &82537483
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1126,6 +1142,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &88862928
 GameObject:
   m_ObjectHideFlags: 0
@@ -1220,6 +1238,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 88862928}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &88862933
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1295,6 +1314,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &119204851
 GameObject:
   m_ObjectHideFlags: 0
@@ -1431,6 +1452,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 145536686}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &145536691
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1506,6 +1528,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &160353521
 GameObject:
   m_ObjectHideFlags: 0
@@ -1560,9 +1584,12 @@ GameObject:
   - component: {fileID: 160822425}
   - component: {fileID: 160822424}
   - component: {fileID: 160822423}
+<<<<<<< HEAD
   - component: {fileID: 160822426}
   - component: {fileID: 160822427}
   - component: {fileID: 160822428}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (0)
   m_TagString: Tile
@@ -1642,6 +1669,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 160822421}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &160822426
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1717,6 +1745,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &169956511
 GameObject:
   m_ObjectHideFlags: 0
@@ -1729,9 +1759,12 @@ GameObject:
   - component: {fileID: 169956515}
   - component: {fileID: 169956514}
   - component: {fileID: 169956513}
+<<<<<<< HEAD
   - component: {fileID: 169956516}
   - component: {fileID: 169956517}
   - component: {fileID: 169956518}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (2)
   m_TagString: Tile
@@ -2049,6 +2082,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 212569687}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &212569692
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2124,6 +2158,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &214425097
 GameObject:
   m_ObjectHideFlags: 0
@@ -2218,6 +2254,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 214425097}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &214425102
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2293,6 +2330,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &225687726
 GameObject:
   m_ObjectHideFlags: 0
@@ -2387,6 +2426,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 225687726}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &225687731
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2462,6 +2502,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &254934500
 GameObject:
   m_ObjectHideFlags: 0
@@ -2474,9 +2516,12 @@ GameObject:
   - component: {fileID: 254934504}
   - component: {fileID: 254934503}
   - component: {fileID: 254934502}
+<<<<<<< HEAD
   - component: {fileID: 254934505}
   - component: {fileID: 254934506}
   - component: {fileID: 254934507}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (0)
   m_TagString: Tile
@@ -2556,6 +2601,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 254934500}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &254934505
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2631,6 +2677,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &274881476
 GameObject:
   m_ObjectHideFlags: 0
@@ -2643,9 +2691,12 @@ GameObject:
   - component: {fileID: 274881480}
   - component: {fileID: 274881479}
   - component: {fileID: 274881478}
+<<<<<<< HEAD
   - component: {fileID: 274881481}
   - component: {fileID: 274881482}
   - component: {fileID: 274881483}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (0)
   m_TagString: Tile
@@ -2725,6 +2776,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 274881476}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &274881481
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2800,6 +2852,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &279438421
 GameObject:
   m_ObjectHideFlags: 0
@@ -2812,9 +2866,12 @@ GameObject:
   - component: {fileID: 279438425}
   - component: {fileID: 279438424}
   - component: {fileID: 279438423}
+<<<<<<< HEAD
   - component: {fileID: 279438426}
   - component: {fileID: 279438427}
   - component: {fileID: 279438428}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (8)
   m_TagString: Tile
@@ -2894,6 +2951,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 279438421}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &279438426
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2969,6 +3027,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &286351985
 GameObject:
   m_ObjectHideFlags: 0
@@ -2981,9 +3041,12 @@ GameObject:
   - component: {fileID: 286351989}
   - component: {fileID: 286351988}
   - component: {fileID: 286351987}
+<<<<<<< HEAD
   - component: {fileID: 286351990}
   - component: {fileID: 286351991}
   - component: {fileID: 286351992}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (11)
   m_TagString: Tile
@@ -3063,6 +3126,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 286351985}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &286351990
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3138,6 +3202,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &288045370
 GameObject:
   m_ObjectHideFlags: 0
@@ -3150,7 +3216,10 @@ GameObject:
   - component: {fileID: 288045374}
   - component: {fileID: 288045373}
   - component: {fileID: 288045372}
+<<<<<<< HEAD
   - component: {fileID: 288045377}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (10)
   m_TagString: Tile
@@ -3230,6 +3299,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 288045370}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &288045377
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3255,6 +3325,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &297396477
 GameObject:
   m_ObjectHideFlags: 0
@@ -3267,9 +3339,12 @@ GameObject:
   - component: {fileID: 297396481}
   - component: {fileID: 297396480}
   - component: {fileID: 297396479}
+<<<<<<< HEAD
   - component: {fileID: 297396482}
   - component: {fileID: 297396483}
   - component: {fileID: 297396484}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (3)
   m_TagString: Tile
@@ -3349,6 +3424,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 297396477}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &297396482
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3424,6 +3500,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &298509210
 GameObject:
   m_ObjectHideFlags: 0
@@ -3436,9 +3514,12 @@ GameObject:
   - component: {fileID: 298509214}
   - component: {fileID: 298509213}
   - component: {fileID: 298509212}
+<<<<<<< HEAD
   - component: {fileID: 298509215}
   - component: {fileID: 298509216}
   - component: {fileID: 298509217}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (10)
   m_TagString: Tile
@@ -3518,6 +3599,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 298509210}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &298509215
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3593,6 +3675,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &299673274
 GameObject:
   m_ObjectHideFlags: 0
@@ -3605,9 +3689,12 @@ GameObject:
   - component: {fileID: 299673278}
   - component: {fileID: 299673277}
   - component: {fileID: 299673276}
+<<<<<<< HEAD
   - component: {fileID: 299673279}
   - component: {fileID: 299673280}
   - component: {fileID: 299673281}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (1)
   m_TagString: Tile
@@ -3687,6 +3774,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 299673274}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &299673279
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3762,6 +3850,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &316736549
 GameObject:
   m_ObjectHideFlags: 0
@@ -3774,9 +3864,12 @@ GameObject:
   - component: {fileID: 316736553}
   - component: {fileID: 316736552}
   - component: {fileID: 316736551}
+<<<<<<< HEAD
   - component: {fileID: 316736554}
   - component: {fileID: 316736555}
   - component: {fileID: 316736556}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (6)
   m_TagString: Tile
@@ -3856,12 +3949,18 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 316736549}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &316736554
 MonoBehaviour:
+=======
+--- !u!1 &317626786
+GameObject:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 316736549}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -3937,15 +4036,20 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   serializedVersion: 6
   m_Component:
   - component: {fileID: 317626787}
   - component: {fileID: 317626790}
   - component: {fileID: 317626789}
   - component: {fileID: 317626788}
+<<<<<<< HEAD
   - component: {fileID: 317626791}
   - component: {fileID: 317626792}
   - component: {fileID: 317626793}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (1)
   m_TagString: Tile
@@ -4025,12 +4129,18 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 317626786}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &317626791
 MonoBehaviour:
+=======
+--- !u!1 &370131166
+GameObject:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 317626786}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -4052,10 +4162,25 @@ MonoBehaviour:
   h: 0
 --- !u!114 &317626792
 MonoBehaviour:
+=======
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 370131167}
+  m_Layer: 0
+  m_Name: Row 12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &370131167
+Transform:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 317626786}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -4122,6 +4247,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_GameObject: {fileID: 370131166}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 11}
@@ -4154,9 +4281,12 @@ GameObject:
   - component: {fileID: 383901408}
   - component: {fileID: 383901407}
   - component: {fileID: 383901406}
+<<<<<<< HEAD
   - component: {fileID: 383901409}
   - component: {fileID: 383901410}
   - component: {fileID: 383901411}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (0)
   m_TagString: Tile
@@ -4236,6 +4366,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 383901404}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &383901409
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4311,6 +4442,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &387278265
 GameObject:
   m_ObjectHideFlags: 0
@@ -4323,9 +4456,12 @@ GameObject:
   - component: {fileID: 387278269}
   - component: {fileID: 387278268}
   - component: {fileID: 387278267}
+<<<<<<< HEAD
   - component: {fileID: 387278270}
   - component: {fileID: 387278271}
   - component: {fileID: 387278272}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (6)
   m_TagString: Tile
@@ -4405,6 +4541,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 387278265}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &387278270
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4480,6 +4617,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &407436179
 GameObject:
   m_ObjectHideFlags: 0
@@ -4492,9 +4631,12 @@ GameObject:
   - component: {fileID: 407436183}
   - component: {fileID: 407436182}
   - component: {fileID: 407436181}
+<<<<<<< HEAD
   - component: {fileID: 407436184}
   - component: {fileID: 407436185}
   - component: {fileID: 407436186}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (3)
   m_TagString: Tile
@@ -4574,6 +4716,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 407436179}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &407436184
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4649,6 +4792,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &410060001
 GameObject:
   m_ObjectHideFlags: 0
@@ -4743,6 +4888,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 410060001}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &410060006
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4818,6 +4964,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &410482079
 GameObject:
   m_ObjectHideFlags: 0
@@ -4830,9 +4978,12 @@ GameObject:
   - component: {fileID: 410482083}
   - component: {fileID: 410482082}
   - component: {fileID: 410482081}
+<<<<<<< HEAD
   - component: {fileID: 410482084}
   - component: {fileID: 410482085}
   - component: {fileID: 410482086}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (4)
   m_TagString: Tile
@@ -4912,12 +5063,18 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 410482079}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &410482084
 MonoBehaviour:
+=======
+--- !u!1 &417865953
+GameObject:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 410482079}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -4964,10 +5121,28 @@ MonoBehaviour:
   h: 0
 --- !u!114 &410482086
 MonoBehaviour:
+=======
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 417865954}
+  - component: {fileID: 417865957}
+  - component: {fileID: 417865956}
+  - component: {fileID: 417865955}
+  m_Layer: 0
+  m_Name: Tile (1)
+  m_TagString: Tile
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &417865954
+Transform:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 410482079}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -5015,6 +5190,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_GameObject: {fileID: 417865953}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 1, y: 0, z: 0}
@@ -5081,6 +5258,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 417865953}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &417865958
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5156,6 +5334,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &419959370
 GameObject:
   m_ObjectHideFlags: 0
@@ -5168,9 +5348,12 @@ GameObject:
   - component: {fileID: 419959374}
   - component: {fileID: 419959373}
   - component: {fileID: 419959372}
+<<<<<<< HEAD
   - component: {fileID: 419959375}
   - component: {fileID: 419959376}
   - component: {fileID: 419959377}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (1)
   m_TagString: Tile
@@ -5250,12 +5433,18 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 419959370}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &419959375
 MonoBehaviour:
+=======
+--- !u!1 &446225296
+GameObject:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 419959370}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -5277,10 +5466,25 @@ MonoBehaviour:
   h: 0
 --- !u!114 &419959376
 MonoBehaviour:
+=======
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 446225297}
+  m_Layer: 0
+  m_Name: Row 4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &446225297
+Transform:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 419959370}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -5347,6 +5551,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_GameObject: {fileID: 446225296}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 3}
@@ -5379,9 +5585,12 @@ GameObject:
   - component: {fileID: 451930156}
   - component: {fileID: 451930155}
   - component: {fileID: 451930154}
+<<<<<<< HEAD
   - component: {fileID: 451930157}
   - component: {fileID: 451930158}
   - component: {fileID: 451930159}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (8)
   m_TagString: Tile
@@ -5461,6 +5670,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 451930152}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &451930157
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5536,6 +5746,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &471331257
 GameObject:
   m_ObjectHideFlags: 0
@@ -5548,9 +5760,12 @@ GameObject:
   - component: {fileID: 471331261}
   - component: {fileID: 471331260}
   - component: {fileID: 471331259}
+<<<<<<< HEAD
   - component: {fileID: 471331262}
   - component: {fileID: 471331263}
   - component: {fileID: 471331264}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (11)
   m_TagString: Tile
@@ -5630,6 +5845,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 471331257}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &471331262
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5705,6 +5921,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &481323684
 GameObject:
   m_ObjectHideFlags: 0
@@ -5717,9 +5935,12 @@ GameObject:
   - component: {fileID: 481323688}
   - component: {fileID: 481323687}
   - component: {fileID: 481323686}
+<<<<<<< HEAD
   - component: {fileID: 481323689}
   - component: {fileID: 481323690}
   - component: {fileID: 481323691}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (3)
   m_TagString: Tile
@@ -5799,6 +6020,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 481323684}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &481323689
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5874,6 +6096,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &494819783
 GameObject:
   m_ObjectHideFlags: 0
@@ -5886,9 +6110,12 @@ GameObject:
   - component: {fileID: 494819787}
   - component: {fileID: 494819786}
   - component: {fileID: 494819785}
+<<<<<<< HEAD
   - component: {fileID: 494819788}
   - component: {fileID: 494819789}
   - component: {fileID: 494819790}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (9)
   m_TagString: Tile
@@ -5968,6 +6195,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 494819783}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &494819788
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6043,6 +6271,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &512070747
 GameObject:
   m_ObjectHideFlags: 0
@@ -6055,9 +6285,12 @@ GameObject:
   - component: {fileID: 512070751}
   - component: {fileID: 512070750}
   - component: {fileID: 512070749}
+<<<<<<< HEAD
   - component: {fileID: 512070752}
   - component: {fileID: 512070753}
   - component: {fileID: 512070754}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (9)
   m_TagString: Tile
@@ -6137,6 +6370,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 512070747}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &512070752
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6212,6 +6446,82 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+--- !u!1001 &515488390
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 657897148917705401, guid: 06ac90fd2732b6c418762aa471246d8f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6da384e049548324d98a48eb42fdeb66, type: 2}
+    - target: {fileID: 3794151801961848141, guid: 06ac90fd2732b6c418762aa471246d8f,
+        type: 3}
+      propertyPath: m_Name
+      value: Heavy
+      objectReference: {fileID: 0}
+    - target: {fileID: 8949415361806410431, guid: 06ac90fd2732b6c418762aa471246d8f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8949415361806410431, guid: 06ac90fd2732b6c418762aa471246d8f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8949415361806410431, guid: 06ac90fd2732b6c418762aa471246d8f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 5.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8949415361806410431, guid: 06ac90fd2732b6c418762aa471246d8f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8949415361806410431, guid: 06ac90fd2732b6c418762aa471246d8f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8949415361806410431, guid: 06ac90fd2732b6c418762aa471246d8f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8949415361806410431, guid: 06ac90fd2732b6c418762aa471246d8f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8949415361806410431, guid: 06ac90fd2732b6c418762aa471246d8f,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8949415361806410431, guid: 06ac90fd2732b6c418762aa471246d8f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8949415361806410431, guid: 06ac90fd2732b6c418762aa471246d8f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8949415361806410431, guid: 06ac90fd2732b6c418762aa471246d8f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 06ac90fd2732b6c418762aa471246d8f, type: 3}
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &520157958
 GameObject:
   m_ObjectHideFlags: 0
@@ -6224,9 +6534,12 @@ GameObject:
   - component: {fileID: 520157962}
   - component: {fileID: 520157961}
   - component: {fileID: 520157960}
+<<<<<<< HEAD
   - component: {fileID: 520157963}
   - component: {fileID: 520157964}
   - component: {fileID: 520157965}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (5)
   m_TagString: Tile
@@ -6306,6 +6619,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 520157958}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &520157963
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6381,6 +6695,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &527691283
 GameObject:
   m_ObjectHideFlags: 0
@@ -6393,9 +6709,12 @@ GameObject:
   - component: {fileID: 527691287}
   - component: {fileID: 527691286}
   - component: {fileID: 527691285}
+<<<<<<< HEAD
   - component: {fileID: 527691288}
   - component: {fileID: 527691289}
   - component: {fileID: 527691290}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (6)
   m_TagString: Tile
@@ -6475,6 +6794,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 527691283}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &527691288
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6550,6 +6870,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &531470138
 GameObject:
   m_ObjectHideFlags: 0
@@ -6562,9 +6884,12 @@ GameObject:
   - component: {fileID: 531470142}
   - component: {fileID: 531470141}
   - component: {fileID: 531470140}
+<<<<<<< HEAD
   - component: {fileID: 531470143}
   - component: {fileID: 531470144}
   - component: {fileID: 531470145}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (7)
   m_TagString: Tile
@@ -6644,6 +6969,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 531470138}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &531470143
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6719,6 +7045,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &533126810
 GameObject:
   m_ObjectHideFlags: 0
@@ -6731,9 +7059,12 @@ GameObject:
   - component: {fileID: 533126814}
   - component: {fileID: 533126813}
   - component: {fileID: 533126812}
+<<<<<<< HEAD
   - component: {fileID: 533126815}
   - component: {fileID: 533126816}
   - component: {fileID: 533126817}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (4)
   m_TagString: Tile
@@ -6813,12 +7144,18 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 533126810}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &533126815
 MonoBehaviour:
+=======
+--- !u!1 &534669902
+GameObject:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 533126810}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -6840,10 +7177,27 @@ MonoBehaviour:
   h: 0
 --- !u!114 &533126816
 MonoBehaviour:
+=======
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 534669905}
+  - component: {fileID: 534669904}
+  - component: {fileID: 534669903}
+  m_Layer: 0
+  m_Name: Main Camera
+  m_TagString: MainCamera
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!81 &534669903
+AudioListener:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 533126810}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -6865,10 +7219,17 @@ MonoBehaviour:
   h: 0
 --- !u!114 &533126817
 MonoBehaviour:
+=======
+  m_GameObject: {fileID: 534669902}
+  m_Enabled: 1
+--- !u!20 &534669904
+Camera:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 533126810}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -6920,6 +7281,8 @@ Camera:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_GameObject: {fileID: 534669902}
   m_Enabled: 1
   serializedVersion: 2
@@ -6982,9 +7345,12 @@ GameObject:
   - component: {fileID: 555974707}
   - component: {fileID: 555974706}
   - component: {fileID: 555974705}
+<<<<<<< HEAD
   - component: {fileID: 555974708}
   - component: {fileID: 555974709}
   - component: {fileID: 555974710}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (7)
   m_TagString: Tile
@@ -7064,6 +7430,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 555974703}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &555974708
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7139,6 +7506,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &587218209
 GameObject:
   m_ObjectHideFlags: 0
@@ -7151,9 +7520,12 @@ GameObject:
   - component: {fileID: 587218213}
   - component: {fileID: 587218212}
   - component: {fileID: 587218211}
+<<<<<<< HEAD
   - component: {fileID: 587218214}
   - component: {fileID: 587218215}
   - component: {fileID: 587218216}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (11)
   m_TagString: Tile
@@ -7233,6 +7605,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 587218209}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &587218214
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7308,6 +7681,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &587585079
 GameObject:
   m_ObjectHideFlags: 0
@@ -7320,9 +7695,12 @@ GameObject:
   - component: {fileID: 587585083}
   - component: {fileID: 587585082}
   - component: {fileID: 587585081}
+<<<<<<< HEAD
   - component: {fileID: 587585084}
   - component: {fileID: 587585085}
   - component: {fileID: 587585086}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (3)
   m_TagString: Tile
@@ -7402,6 +7780,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 587585079}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &587585084
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7477,6 +7856,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &591577994
 GameObject:
   m_ObjectHideFlags: 0
@@ -7489,9 +7870,12 @@ GameObject:
   - component: {fileID: 591577998}
   - component: {fileID: 591577997}
   - component: {fileID: 591577996}
+<<<<<<< HEAD
   - component: {fileID: 591577999}
   - component: {fileID: 591578000}
   - component: {fileID: 591578001}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (10)
   m_TagString: Tile
@@ -7571,6 +7955,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 591577994}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &591577999
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7646,6 +8031,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &600743701
 GameObject:
   m_ObjectHideFlags: 0
@@ -7658,9 +8045,12 @@ GameObject:
   - component: {fileID: 600743705}
   - component: {fileID: 600743704}
   - component: {fileID: 600743703}
+<<<<<<< HEAD
   - component: {fileID: 600743706}
   - component: {fileID: 600743707}
   - component: {fileID: 600743708}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (0)
   m_TagString: Tile
@@ -7740,12 +8130,18 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 600743701}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &600743706
 MonoBehaviour:
+=======
+--- !u!1 &615744788
+GameObject:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 600743701}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -7767,10 +8163,28 @@ MonoBehaviour:
   h: 0
 --- !u!114 &600743707
 MonoBehaviour:
+=======
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 615744789}
+  - component: {fileID: 615744792}
+  - component: {fileID: 615744791}
+  - component: {fileID: 615744790}
+  m_Layer: 0
+  m_Name: Tile (4)
+  m_TagString: Tile
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &615744789
+Transform:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 600743701}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -7843,6 +8257,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_GameObject: {fileID: 615744788}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 4, y: 0, z: 0}
@@ -7909,6 +8325,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 615744788}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &615744793
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7984,6 +8401,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &628642754
 GameObject:
   m_ObjectHideFlags: 0
@@ -7996,9 +8415,12 @@ GameObject:
   - component: {fileID: 628642758}
   - component: {fileID: 628642757}
   - component: {fileID: 628642756}
+<<<<<<< HEAD
   - component: {fileID: 628642759}
   - component: {fileID: 628642760}
   - component: {fileID: 628642761}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (4)
   m_TagString: Tile
@@ -8078,6 +8500,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 628642754}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &628642759
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8153,6 +8576,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &644254104
 GameObject:
   m_ObjectHideFlags: 0
@@ -8165,9 +8590,12 @@ GameObject:
   - component: {fileID: 644254108}
   - component: {fileID: 644254107}
   - component: {fileID: 644254106}
+<<<<<<< HEAD
   - component: {fileID: 644254109}
   - component: {fileID: 644254110}
   - component: {fileID: 644254111}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (6)
   m_TagString: Tile
@@ -8247,6 +8675,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 644254104}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &644254109
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8322,6 +8751,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &670765118
 GameObject:
   m_ObjectHideFlags: 0
@@ -8334,9 +8765,12 @@ GameObject:
   - component: {fileID: 670765122}
   - component: {fileID: 670765121}
   - component: {fileID: 670765120}
+<<<<<<< HEAD
   - component: {fileID: 670765123}
   - component: {fileID: 670765124}
   - component: {fileID: 670765125}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (4)
   m_TagString: Tile
@@ -8416,6 +8850,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 670765118}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &670765123
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8491,6 +8926,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &684318538
 GameObject:
   m_ObjectHideFlags: 0
@@ -8503,9 +8940,12 @@ GameObject:
   - component: {fileID: 684318542}
   - component: {fileID: 684318541}
   - component: {fileID: 684318540}
+<<<<<<< HEAD
   - component: {fileID: 684318543}
   - component: {fileID: 684318544}
   - component: {fileID: 684318545}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (1)
   m_TagString: Tile
@@ -8585,12 +9025,18 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 684318538}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &684318543
 MonoBehaviour:
+=======
+--- !u!1 &708670008
+GameObject:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 684318538}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -8612,10 +9058,25 @@ MonoBehaviour:
   h: 0
 --- !u!114 &684318544
 MonoBehaviour:
+=======
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 708670009}
+  m_Layer: 0
+  m_Name: Row 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &708670009
+Transform:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 684318538}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -8637,10 +9098,35 @@ MonoBehaviour:
   h: 0
 --- !u!114 &684318545
 MonoBehaviour:
+=======
+  m_GameObject: {fileID: 708670008}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1803540800}
+  - {fileID: 214425098}
+  - {fileID: 2138732450}
+  - {fileID: 1106377159}
+  - {fileID: 88862929}
+  - {fileID: 948208317}
+  - {fileID: 1750428473}
+  - {fileID: 1894456277}
+  - {fileID: 451930153}
+  - {fileID: 1638434423}
+  - {fileID: 288045371}
+  - {fileID: 886156368}
+  m_Father: {fileID: 1002875198}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &726787532
+GameObject:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 684318538}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -8708,6 +9194,8 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   serializedVersion: 6
   m_Component:
   - component: {fileID: 726787533}
@@ -8756,9 +9244,12 @@ GameObject:
   - component: {fileID: 729368777}
   - component: {fileID: 729368776}
   - component: {fileID: 729368775}
+<<<<<<< HEAD
   - component: {fileID: 729368778}
   - component: {fileID: 729368779}
   - component: {fileID: 729368780}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (4)
   m_TagString: Tile
@@ -8838,6 +9329,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 729368773}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &729368778
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8913,6 +9405,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &736147872
 GameObject:
   m_ObjectHideFlags: 0
@@ -8925,9 +9419,12 @@ GameObject:
   - component: {fileID: 736147876}
   - component: {fileID: 736147875}
   - component: {fileID: 736147874}
+<<<<<<< HEAD
   - component: {fileID: 736147877}
   - component: {fileID: 736147878}
   - component: {fileID: 736147879}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (5)
   m_TagString: Tile
@@ -9007,6 +9504,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 736147872}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &736147877
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9082,6 +9580,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &736543099
 GameObject:
   m_ObjectHideFlags: 0
@@ -9094,9 +9594,12 @@ GameObject:
   - component: {fileID: 736543103}
   - component: {fileID: 736543102}
   - component: {fileID: 736543101}
+<<<<<<< HEAD
   - component: {fileID: 736543104}
   - component: {fileID: 736543105}
   - component: {fileID: 736543106}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (9)
   m_TagString: Tile
@@ -9176,6 +9679,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 736543099}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &736543104
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9251,6 +9755,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &771925280
 GameObject:
   m_ObjectHideFlags: 0
@@ -9263,9 +9769,12 @@ GameObject:
   - component: {fileID: 771925284}
   - component: {fileID: 771925283}
   - component: {fileID: 771925282}
+<<<<<<< HEAD
   - component: {fileID: 771925285}
   - component: {fileID: 771925286}
   - component: {fileID: 771925287}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (7)
   m_TagString: Tile
@@ -9345,6 +9854,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 771925280}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &771925285
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9420,6 +9930,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &777523589
 GameObject:
   m_ObjectHideFlags: 0
@@ -9432,9 +9944,12 @@ GameObject:
   - component: {fileID: 777523593}
   - component: {fileID: 777523592}
   - component: {fileID: 777523591}
+<<<<<<< HEAD
   - component: {fileID: 777523594}
   - component: {fileID: 777523595}
   - component: {fileID: 777523596}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (7)
   m_TagString: Tile
@@ -9514,6 +10029,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 777523589}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &777523594
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9589,6 +10105,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &870895376
 GameObject:
   m_ObjectHideFlags: 0
@@ -9601,9 +10119,12 @@ GameObject:
   - component: {fileID: 870895380}
   - component: {fileID: 870895379}
   - component: {fileID: 870895378}
+<<<<<<< HEAD
   - component: {fileID: 870895381}
   - component: {fileID: 870895382}
   - component: {fileID: 870895383}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (3)
   m_TagString: Tile
@@ -9683,12 +10204,18 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 870895376}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &870895381
 MonoBehaviour:
+=======
+--- !u!1 &886156367
+GameObject:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 870895376}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -9710,10 +10237,28 @@ MonoBehaviour:
   h: 0
 --- !u!114 &870895382
 MonoBehaviour:
+=======
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 886156368}
+  - component: {fileID: 886156371}
+  - component: {fileID: 886156370}
+  - component: {fileID: 886156369}
+  m_Layer: 0
+  m_Name: Tile (11)
+  m_TagString: Tile
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &886156368
+Transform:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 870895376}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -9735,10 +10280,23 @@ MonoBehaviour:
   h: 0
 --- !u!114 &870895383
 MonoBehaviour:
+=======
+  m_GameObject: {fileID: 886156367}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 11, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 708670009}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &886156369
+BoxCollider:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 870895376}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -9800,6 +10358,8 @@ BoxCollider:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_GameObject: {fileID: 886156367}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -9852,6 +10412,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 886156367}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &886156372
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9927,6 +10488,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &948208316
 GameObject:
   m_ObjectHideFlags: 0
@@ -9939,9 +10502,12 @@ GameObject:
   - component: {fileID: 948208320}
   - component: {fileID: 948208319}
   - component: {fileID: 948208318}
+<<<<<<< HEAD
   - component: {fileID: 948208321}
   - component: {fileID: 948208322}
   - component: {fileID: 948208323}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (5)
   m_TagString: Tile
@@ -10021,6 +10587,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 948208316}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &948208321
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10096,6 +10663,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &962824684
 GameObject:
   m_ObjectHideFlags: 0
@@ -10108,9 +10677,12 @@ GameObject:
   - component: {fileID: 962824688}
   - component: {fileID: 962824687}
   - component: {fileID: 962824686}
+<<<<<<< HEAD
   - component: {fileID: 962824689}
   - component: {fileID: 962824690}
   - component: {fileID: 962824691}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (6)
   m_TagString: Tile
@@ -10184,6 +10756,7 @@ MeshRenderer:
   m_SortingOrder: 0
 --- !u!33 &962824688
 MeshFilter:
+<<<<<<< HEAD
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -10242,11 +10815,14 @@ MonoBehaviour:
   h: 0
 --- !u!114 &962824691
 MonoBehaviour:
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 962824684}
+<<<<<<< HEAD
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
@@ -10265,6 +10841,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &964131330
 GameObject:
   m_ObjectHideFlags: 0
@@ -10277,9 +10856,12 @@ GameObject:
   - component: {fileID: 964131334}
   - component: {fileID: 964131333}
   - component: {fileID: 964131332}
+<<<<<<< HEAD
   - component: {fileID: 964131335}
   - component: {fileID: 964131336}
   - component: {fileID: 964131337}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (11)
   m_TagString: Tile
@@ -10359,6 +10941,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 964131330}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &964131335
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10434,6 +11017,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &975833255
 GameObject:
   m_ObjectHideFlags: 0
@@ -10446,9 +11031,12 @@ GameObject:
   - component: {fileID: 975833259}
   - component: {fileID: 975833258}
   - component: {fileID: 975833257}
+<<<<<<< HEAD
   - component: {fileID: 975833260}
   - component: {fileID: 975833261}
   - component: {fileID: 975833262}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (7)
   m_TagString: Tile
@@ -10528,6 +11116,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 975833255}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &975833260
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10603,6 +11192,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &988949588
 GameObject:
   m_ObjectHideFlags: 0
@@ -10615,9 +11206,12 @@ GameObject:
   - component: {fileID: 988949592}
   - component: {fileID: 988949591}
   - component: {fileID: 988949590}
+<<<<<<< HEAD
   - component: {fileID: 988949593}
   - component: {fileID: 988949594}
   - component: {fileID: 988949595}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (10)
   m_TagString: Tile
@@ -10697,12 +11291,18 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 988949588}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &988949593
 MonoBehaviour:
+=======
+--- !u!1 &1002875197
+GameObject:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 988949588}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -10724,10 +11324,25 @@ MonoBehaviour:
   h: 0
 --- !u!114 &988949594
 MonoBehaviour:
+=======
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1002875198}
+  m_Layer: 0
+  m_Name: Map
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1002875198
+Transform:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 988949588}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -10795,6 +11410,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_GameObject: {fileID: 1002875197}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -5.5, y: 0, z: -5.5}
@@ -10813,6 +11430,7 @@ Transform:
   - {fileID: 1519683966}
   - {fileID: 370131167}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1002875199
@@ -10827,6 +11445,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b491182b31674824e8bfc9ef253f27c4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+=======
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1005561251
 GameObject:
   m_ObjectHideFlags: 0
@@ -10839,9 +11461,12 @@ GameObject:
   - component: {fileID: 1005561255}
   - component: {fileID: 1005561254}
   - component: {fileID: 1005561253}
+<<<<<<< HEAD
   - component: {fileID: 1005561256}
   - component: {fileID: 1005561257}
   - component: {fileID: 1005561258}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (9)
   m_TagString: Tile
@@ -10915,6 +11540,7 @@ MeshRenderer:
   m_SortingOrder: 0
 --- !u!33 &1005561255
 MeshFilter:
+<<<<<<< HEAD
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -10973,11 +11599,14 @@ MonoBehaviour:
   h: 0
 --- !u!114 &1005561258
 MonoBehaviour:
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1005561251}
+<<<<<<< HEAD
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
@@ -10996,6 +11625,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1018543106
 GameObject:
   m_ObjectHideFlags: 0
@@ -11008,9 +11640,12 @@ GameObject:
   - component: {fileID: 1018543110}
   - component: {fileID: 1018543109}
   - component: {fileID: 1018543108}
+<<<<<<< HEAD
   - component: {fileID: 1018543111}
   - component: {fileID: 1018543112}
   - component: {fileID: 1018543113}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (3)
   m_TagString: Tile
@@ -11090,6 +11725,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1018543106}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1018543111
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11165,6 +11801,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1023043006
 GameObject:
   m_ObjectHideFlags: 0
@@ -11177,9 +11815,12 @@ GameObject:
   - component: {fileID: 1023043010}
   - component: {fileID: 1023043009}
   - component: {fileID: 1023043008}
+<<<<<<< HEAD
   - component: {fileID: 1023043011}
   - component: {fileID: 1023043012}
   - component: {fileID: 1023043013}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (10)
   m_TagString: Tile
@@ -11259,6 +11900,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1023043006}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1023043011
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11334,6 +11976,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1029416309
 GameObject:
   m_ObjectHideFlags: 0
@@ -11346,9 +11990,12 @@ GameObject:
   - component: {fileID: 1029416313}
   - component: {fileID: 1029416312}
   - component: {fileID: 1029416311}
+<<<<<<< HEAD
   - component: {fileID: 1029416314}
   - component: {fileID: 1029416315}
   - component: {fileID: 1029416316}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (0)
   m_TagString: Tile
@@ -11428,6 +12075,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1029416309}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1029416314
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11503,6 +12151,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1030937144
 GameObject:
   m_ObjectHideFlags: 0
@@ -11515,9 +12165,12 @@ GameObject:
   - component: {fileID: 1030937148}
   - component: {fileID: 1030937147}
   - component: {fileID: 1030937146}
+<<<<<<< HEAD
   - component: {fileID: 1030937149}
   - component: {fileID: 1030937150}
   - component: {fileID: 1030937151}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (11)
   m_TagString: Tile
@@ -11591,6 +12244,7 @@ MeshRenderer:
   m_SortingOrder: 0
 --- !u!33 &1030937148
 MeshFilter:
+<<<<<<< HEAD
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -11649,11 +12303,14 @@ MonoBehaviour:
   h: 0
 --- !u!114 &1030937151
 MonoBehaviour:
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1030937144}
+<<<<<<< HEAD
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
@@ -11672,6 +12329,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1034602415
 GameObject:
   m_ObjectHideFlags: 0
@@ -11684,9 +12344,12 @@ GameObject:
   - component: {fileID: 1034602419}
   - component: {fileID: 1034602418}
   - component: {fileID: 1034602417}
+<<<<<<< HEAD
   - component: {fileID: 1034602420}
   - component: {fileID: 1034602421}
   - component: {fileID: 1034602422}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (4)
   m_TagString: Tile
@@ -11766,6 +12429,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1034602415}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1034602420
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11841,6 +12505,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1039556948
 GameObject:
   m_ObjectHideFlags: 0
@@ -11853,9 +12519,12 @@ GameObject:
   - component: {fileID: 1039556952}
   - component: {fileID: 1039556951}
   - component: {fileID: 1039556950}
+<<<<<<< HEAD
   - component: {fileID: 1039556953}
   - component: {fileID: 1039556954}
   - component: {fileID: 1039556955}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (2)
   m_TagString: Tile
@@ -11935,6 +12604,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1039556948}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1039556953
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12010,6 +12680,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1065832250
 GameObject:
   m_ObjectHideFlags: 0
@@ -12022,9 +12694,12 @@ GameObject:
   - component: {fileID: 1065832254}
   - component: {fileID: 1065832253}
   - component: {fileID: 1065832252}
+<<<<<<< HEAD
   - component: {fileID: 1065832255}
   - component: {fileID: 1065832256}
   - component: {fileID: 1065832257}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (4)
   m_TagString: Tile
@@ -12104,6 +12779,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1065832250}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1065832255
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12179,6 +12855,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1067248705
 GameObject:
   m_ObjectHideFlags: 0
@@ -12191,9 +12869,12 @@ GameObject:
   - component: {fileID: 1067248709}
   - component: {fileID: 1067248708}
   - component: {fileID: 1067248707}
+<<<<<<< HEAD
   - component: {fileID: 1067248710}
   - component: {fileID: 1067248711}
   - component: {fileID: 1067248712}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (10)
   m_TagString: Tile
@@ -12267,6 +12948,7 @@ MeshRenderer:
   m_SortingOrder: 0
 --- !u!33 &1067248709
 MeshFilter:
+<<<<<<< HEAD
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -12325,11 +13007,14 @@ MonoBehaviour:
   h: 0
 --- !u!114 &1067248712
 MonoBehaviour:
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1067248705}
+<<<<<<< HEAD
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
@@ -12348,6 +13033,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1070509760
 GameObject:
   m_ObjectHideFlags: 0
@@ -12360,9 +13048,12 @@ GameObject:
   - component: {fileID: 1070509764}
   - component: {fileID: 1070509763}
   - component: {fileID: 1070509762}
+<<<<<<< HEAD
   - component: {fileID: 1070509765}
   - component: {fileID: 1070509766}
   - component: {fileID: 1070509767}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (5)
   m_TagString: Tile
@@ -12442,6 +13133,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1070509760}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1070509765
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12517,6 +13209,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1070969648
 GameObject:
   m_ObjectHideFlags: 0
@@ -12611,6 +13305,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1070969648}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1070969653
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12686,6 +13381,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1089900196
 GameObject:
   m_ObjectHideFlags: 0
@@ -12698,9 +13395,12 @@ GameObject:
   - component: {fileID: 1089900200}
   - component: {fileID: 1089900199}
   - component: {fileID: 1089900198}
+<<<<<<< HEAD
   - component: {fileID: 1089900201}
   - component: {fileID: 1089900202}
   - component: {fileID: 1089900203}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (9)
   m_TagString: Tile
@@ -12780,6 +13480,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1089900196}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1089900201
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12855,6 +13556,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1106377158
 GameObject:
   m_ObjectHideFlags: 0
@@ -12867,9 +13570,12 @@ GameObject:
   - component: {fileID: 1106377162}
   - component: {fileID: 1106377161}
   - component: {fileID: 1106377160}
+<<<<<<< HEAD
   - component: {fileID: 1106377163}
   - component: {fileID: 1106377164}
   - component: {fileID: 1106377165}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (3)
   m_TagString: Tile
@@ -12949,6 +13655,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1106377158}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1106377163
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13024,6 +13731,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1108345563
 GameObject:
   m_ObjectHideFlags: 0
@@ -13036,9 +13745,12 @@ GameObject:
   - component: {fileID: 1108345567}
   - component: {fileID: 1108345566}
   - component: {fileID: 1108345565}
+<<<<<<< HEAD
   - component: {fileID: 1108345568}
   - component: {fileID: 1108345569}
   - component: {fileID: 1108345570}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (5)
   m_TagString: Tile
@@ -13118,6 +13830,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1108345563}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1108345568
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13193,6 +13906,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1108461944
 GameObject:
   m_ObjectHideFlags: 0
@@ -13205,9 +13920,12 @@ GameObject:
   - component: {fileID: 1108461948}
   - component: {fileID: 1108461947}
   - component: {fileID: 1108461946}
+<<<<<<< HEAD
   - component: {fileID: 1108461949}
   - component: {fileID: 1108461950}
   - component: {fileID: 1108461951}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (7)
   m_TagString: Tile
@@ -13287,6 +14005,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1108461944}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1108461949
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13362,6 +14081,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1136529541
 GameObject:
   m_ObjectHideFlags: 0
@@ -13374,9 +14095,12 @@ GameObject:
   - component: {fileID: 1136529545}
   - component: {fileID: 1136529544}
   - component: {fileID: 1136529543}
+<<<<<<< HEAD
   - component: {fileID: 1136529546}
   - component: {fileID: 1136529547}
   - component: {fileID: 1136529548}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (3)
   m_TagString: Tile
@@ -13456,13 +14180,41 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1136529541}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1136529546
+=======
+--- !u!1 &1140324963
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1140324968}
+  - component: {fileID: 1140324967}
+  - component: {fileID: 1140324966}
+  - component: {fileID: 1140324965}
+  - component: {fileID: 1140324964}
+  m_Layer: 0
+  m_Name: Beam
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1140324964
+>>>>>>> parent of 189df03... player shoot revise
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1136529541}
+=======
+  m_GameObject: {fileID: 1140324963}
+>>>>>>> parent of 189df03... player shoot revise
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
@@ -13470,6 +14222,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   walkable: 1
   current: 0
   target: 0
@@ -13483,10 +14236,16 @@ MonoBehaviour:
   h: 0
 --- !u!114 &1136529547
 MonoBehaviour:
+=======
+  speed: 40
+--- !u!135 &1140324965
+SphereCollider:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1136529541}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -13508,10 +14267,22 @@ MonoBehaviour:
   h: 0
 --- !u!114 &1136529548
 MonoBehaviour:
+=======
+  m_GameObject: {fileID: 1140324963}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &1140324966
+MeshRenderer:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1136529541}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -13531,6 +14302,61 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+  m_GameObject: {fileID: 1140324963}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 50ac4fb6441d9bc45a4f13569a9f79f0, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &1140324967
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1140324963}
+  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1140324968
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1140324963}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.41, y: 1.78, z: -4.94}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1142380489
 GameObject:
   m_ObjectHideFlags: 0
@@ -13543,9 +14369,12 @@ GameObject:
   - component: {fileID: 1142380493}
   - component: {fileID: 1142380492}
   - component: {fileID: 1142380491}
+<<<<<<< HEAD
   - component: {fileID: 1142380494}
   - component: {fileID: 1142380495}
   - component: {fileID: 1142380496}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (0)
   m_TagString: Tile
@@ -13625,6 +14454,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1142380489}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1142380494
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13700,6 +14530,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1162110575
 GameObject:
   m_ObjectHideFlags: 0
@@ -13712,9 +14544,12 @@ GameObject:
   - component: {fileID: 1162110579}
   - component: {fileID: 1162110578}
   - component: {fileID: 1162110577}
+<<<<<<< HEAD
   - component: {fileID: 1162110580}
   - component: {fileID: 1162110581}
   - component: {fileID: 1162110582}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (1)
   m_TagString: Tile
@@ -13794,6 +14629,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1162110575}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1162110580
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13869,6 +14705,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1223125969
 GameObject:
   m_ObjectHideFlags: 0
@@ -13881,9 +14719,12 @@ GameObject:
   - component: {fileID: 1223125973}
   - component: {fileID: 1223125972}
   - component: {fileID: 1223125971}
+<<<<<<< HEAD
   - component: {fileID: 1223125974}
   - component: {fileID: 1223125975}
   - component: {fileID: 1223125976}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (5)
   m_TagString: Tile
@@ -13963,6 +14804,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1223125969}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1223125974
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14038,6 +14880,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1225151057
 GameObject:
   m_ObjectHideFlags: 0
@@ -14050,9 +14894,12 @@ GameObject:
   - component: {fileID: 1225151061}
   - component: {fileID: 1225151060}
   - component: {fileID: 1225151059}
+<<<<<<< HEAD
   - component: {fileID: 1225151062}
   - component: {fileID: 1225151063}
   - component: {fileID: 1225151064}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (1)
   m_TagString: Tile
@@ -14132,6 +14979,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1225151057}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1225151062
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14207,6 +15055,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1246327398
 GameObject:
   m_ObjectHideFlags: 0
@@ -14219,9 +15069,12 @@ GameObject:
   - component: {fileID: 1246327402}
   - component: {fileID: 1246327401}
   - component: {fileID: 1246327400}
+<<<<<<< HEAD
   - component: {fileID: 1246327403}
   - component: {fileID: 1246327404}
   - component: {fileID: 1246327405}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (2)
   m_TagString: Tile
@@ -14295,6 +15148,7 @@ MeshRenderer:
   m_SortingOrder: 0
 --- !u!33 &1246327402
 MeshFilter:
+<<<<<<< HEAD
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -14353,6 +15207,8 @@ MonoBehaviour:
   h: 0
 --- !u!114 &1246327405
 MonoBehaviour:
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -14495,9 +15351,12 @@ GameObject:
   - component: {fileID: 1256017785}
   - component: {fileID: 1256017784}
   - component: {fileID: 1256017783}
+<<<<<<< HEAD
   - component: {fileID: 1256017786}
   - component: {fileID: 1256017787}
   - component: {fileID: 1256017788}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (3)
   m_TagString: Tile
@@ -14577,6 +15436,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1256017781}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1256017786
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14652,6 +15512,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1257729855
 GameObject:
   m_ObjectHideFlags: 0
@@ -14664,9 +15526,12 @@ GameObject:
   - component: {fileID: 1257729859}
   - component: {fileID: 1257729858}
   - component: {fileID: 1257729857}
+<<<<<<< HEAD
   - component: {fileID: 1257729860}
   - component: {fileID: 1257729861}
   - component: {fileID: 1257729862}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (6)
   m_TagString: Tile
@@ -14746,12 +15611,18 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1257729855}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1257729860
 MonoBehaviour:
+=======
+--- !u!1 &1260239484
+GameObject:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1257729855}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -14773,10 +15644,25 @@ MonoBehaviour:
   h: 0
 --- !u!114 &1257729861
 MonoBehaviour:
+=======
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1260239485}
+  m_Layer: 0
+  m_Name: Row 7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1260239485
+Transform:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1257729855}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -14843,6 +15729,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_GameObject: {fileID: 1260239484}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 6}
@@ -14875,9 +15763,12 @@ GameObject:
   - component: {fileID: 1261208817}
   - component: {fileID: 1261208816}
   - component: {fileID: 1261208815}
+<<<<<<< HEAD
   - component: {fileID: 1261208818}
   - component: {fileID: 1261208819}
   - component: {fileID: 1261208820}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (10)
   m_TagString: Tile
@@ -14957,6 +15848,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1261208813}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1261208818
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15033,6 +15925,9 @@ MonoBehaviour:
   g: 0
   h: 0
 --- !u!1 &1286055018
+=======
+--- !u!1 &1282101917
+>>>>>>> parent of 189df03... player shoot revise
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -15040,6 +15935,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1286055019}
   - component: {fileID: 1286055022}
   - component: {fileID: 1286055021}
@@ -15050,16 +15946,32 @@ GameObject:
   m_Layer: 0
   m_Name: Tile (11)
   m_TagString: Tile
+=======
+  - component: {fileID: 1282101922}
+  - component: {fileID: 1282101921}
+  - component: {fileID: 1282101920}
+  - component: {fileID: 1282101919}
+  - component: {fileID: 1282101918}
+  m_Layer: 0
+  m_Name: Pistol
+  m_TagString: Untagged
+>>>>>>> parent of 189df03... player shoot revise
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!4 &1286055019
 Transform:
+=======
+--- !u!114 &1282101918
+MonoBehaviour:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1286055018}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 11, y: 0, z: 0}
@@ -15070,24 +15982,47 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &1286055020
 BoxCollider:
+=======
+  m_GameObject: {fileID: 1282101917}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8038068ca66a4ea4899fffd4c78c21fc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 40
+--- !u!135 &1282101919
+SphereCollider:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1286055018}
+=======
+  m_GameObject: {fileID: 1282101917}
+>>>>>>> parent of 189df03... player shoot revise
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
+  m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!23 &1286055021
+=======
+--- !u!23 &1282101920
+>>>>>>> parent of 189df03... player shoot revise
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1286055018}
+=======
+  m_GameObject: {fileID: 1282101917}
+>>>>>>> parent of 189df03... player shoot revise
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -15098,7 +16033,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d647916b2a5fded4ba66c1552edfe9c2, type: 2}
+  - {fileID: 2100000, guid: b2f6458f7fdc997429b2cf673b74aa9a, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -15118,12 +16053,17 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+<<<<<<< HEAD
 --- !u!33 &1286055022
+=======
+--- !u!33 &1282101921
+>>>>>>> parent of 189df03... player shoot revise
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1286055018}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!114 &1286055023
@@ -15178,10 +16118,17 @@ MonoBehaviour:
   h: 0
 --- !u!114 &1286055025
 MonoBehaviour:
+=======
+  m_GameObject: {fileID: 1282101917}
+  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1282101922
+Transform:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1286055018}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -15202,6 +16149,17 @@ MonoBehaviour:
   g: 0
   h: 0
 --- !u!1 &1295475546
+=======
+  m_GameObject: {fileID: 1282101917}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.237, y: 1.78, z: -4.94}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1286055018
+>>>>>>> parent of 189df03... player shoot revise
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -15209,6 +16167,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1295475547}
   - component: {fileID: 1295475550}
   - component: {fileID: 1295475549}
@@ -15216,6 +16175,12 @@ GameObject:
   - component: {fileID: 1295475551}
   - component: {fileID: 1295475552}
   - component: {fileID: 1295475553}
+=======
+  - component: {fileID: 1286055019}
+  - component: {fileID: 1286055022}
+  - component: {fileID: 1286055021}
+  - component: {fileID: 1286055020}
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (11)
   m_TagString: Tile
@@ -15223,40 +16188,67 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!4 &1295475547
+=======
+--- !u!4 &1286055019
+>>>>>>> parent of 189df03... player shoot revise
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1295475546}
+=======
+  m_GameObject: {fileID: 1286055018}
+>>>>>>> parent of 189df03... player shoot revise
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 11, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
+<<<<<<< HEAD
   m_Father: {fileID: 370131167}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &1295475548
+=======
+  m_Father: {fileID: 1260239485}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1286055020
+>>>>>>> parent of 189df03... player shoot revise
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1295475546}
+=======
+  m_GameObject: {fileID: 1286055018}
+>>>>>>> parent of 189df03... player shoot revise
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!23 &1295475549
+=======
+--- !u!23 &1286055021
+>>>>>>> parent of 189df03... player shoot revise
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1295475546}
+=======
+  m_GameObject: {fileID: 1286055018}
+>>>>>>> parent of 189df03... player shoot revise
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -15287,12 +16279,17 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+<<<<<<< HEAD
 --- !u!33 &1295475550
+=======
+--- !u!33 &1286055022
+>>>>>>> parent of 189df03... player shoot revise
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1295475546}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!114 &1295475551
@@ -15371,6 +16368,11 @@ MonoBehaviour:
   g: 0
   h: 0
 --- !u!1 &1310161566
+=======
+  m_GameObject: {fileID: 1286055018}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1295475546
+>>>>>>> parent of 189df03... player shoot revise
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -15378,6 +16380,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1310161567}
   - component: {fileID: 1310161570}
   - component: {fileID: 1310161569}
@@ -15387,17 +16390,30 @@ GameObject:
   - component: {fileID: 1310161573}
   m_Layer: 0
   m_Name: Tile (1)
+=======
+  - component: {fileID: 1295475547}
+  - component: {fileID: 1295475550}
+  - component: {fileID: 1295475549}
+  - component: {fileID: 1295475548}
+  m_Layer: 0
+  m_Name: Tile (11)
+>>>>>>> parent of 189df03... player shoot revise
   m_TagString: Tile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!4 &1310161567
+=======
+--- !u!4 &1295475547
+>>>>>>> parent of 189df03... player shoot revise
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1310161566}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 1, y: 0, z: 0}
@@ -15407,25 +16423,48 @@ Transform:
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &1310161568
+=======
+  m_GameObject: {fileID: 1295475546}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 11, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 370131167}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1295475548
+>>>>>>> parent of 189df03... player shoot revise
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1310161566}
+=======
+  m_GameObject: {fileID: 1295475546}
+>>>>>>> parent of 189df03... player shoot revise
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!23 &1310161569
+=======
+--- !u!23 &1295475549
+>>>>>>> parent of 189df03... player shoot revise
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1310161566}
+=======
+  m_GameObject: {fileID: 1295475546}
+>>>>>>> parent of 189df03... player shoot revise
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -15456,12 +16495,17 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+<<<<<<< HEAD
 --- !u!33 &1310161570
+=======
+--- !u!33 &1295475550
+>>>>>>> parent of 189df03... player shoot revise
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1310161566}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!114 &1310161571
@@ -15540,6 +16584,11 @@ MonoBehaviour:
   g: 0
   h: 0
 --- !u!1 &1312034562
+=======
+  m_GameObject: {fileID: 1295475546}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1310161566
+>>>>>>> parent of 189df03... player shoot revise
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -15547,6 +16596,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1312034563}
   - component: {fileID: 1312034566}
   - component: {fileID: 1312034565}
@@ -15556,17 +16606,30 @@ GameObject:
   - component: {fileID: 1312034569}
   m_Layer: 0
   m_Name: Tile (10)
+=======
+  - component: {fileID: 1310161567}
+  - component: {fileID: 1310161570}
+  - component: {fileID: 1310161569}
+  - component: {fileID: 1310161568}
+  m_Layer: 0
+  m_Name: Tile (1)
+>>>>>>> parent of 189df03... player shoot revise
   m_TagString: Tile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!4 &1312034563
+=======
+--- !u!4 &1310161567
+>>>>>>> parent of 189df03... player shoot revise
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1312034562}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 10, y: 0, z: 0}
@@ -15576,25 +16639,48 @@ Transform:
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &1312034564
+=======
+  m_GameObject: {fileID: 1310161566}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1260239485}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1310161568
+>>>>>>> parent of 189df03... player shoot revise
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1312034562}
+=======
+  m_GameObject: {fileID: 1310161566}
+>>>>>>> parent of 189df03... player shoot revise
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!23 &1312034565
+=======
+--- !u!23 &1310161569
+>>>>>>> parent of 189df03... player shoot revise
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1312034562}
+=======
+  m_GameObject: {fileID: 1310161566}
+>>>>>>> parent of 189df03... player shoot revise
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -15625,12 +16711,17 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+<<<<<<< HEAD
 --- !u!33 &1312034566
+=======
+--- !u!33 &1310161570
+>>>>>>> parent of 189df03... player shoot revise
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1312034562}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!114 &1312034567
@@ -15709,6 +16800,11 @@ MonoBehaviour:
   g: 0
   h: 0
 --- !u!1 &1321745724
+=======
+  m_GameObject: {fileID: 1310161566}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1312034562
+>>>>>>> parent of 189df03... player shoot revise
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -15716,6 +16812,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1321745725}
   - component: {fileID: 1321745728}
   - component: {fileID: 1321745727}
@@ -15725,17 +16822,30 @@ GameObject:
   - component: {fileID: 1321745731}
   m_Layer: 0
   m_Name: Tile (7)
+=======
+  - component: {fileID: 1312034563}
+  - component: {fileID: 1312034566}
+  - component: {fileID: 1312034565}
+  - component: {fileID: 1312034564}
+  m_Layer: 0
+  m_Name: Tile (10)
+>>>>>>> parent of 189df03... player shoot revise
   m_TagString: Tile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!4 &1321745725
+=======
+--- !u!4 &1312034563
+>>>>>>> parent of 189df03... player shoot revise
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1321745724}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 7, y: 0, z: 0}
@@ -15745,25 +16855,48 @@ Transform:
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &1321745726
+=======
+  m_GameObject: {fileID: 1312034562}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 10, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1484229187}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1312034564
+>>>>>>> parent of 189df03... player shoot revise
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1321745724}
+=======
+  m_GameObject: {fileID: 1312034562}
+>>>>>>> parent of 189df03... player shoot revise
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!23 &1321745727
+=======
+--- !u!23 &1312034565
+>>>>>>> parent of 189df03... player shoot revise
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1321745724}
+=======
+  m_GameObject: {fileID: 1312034562}
+>>>>>>> parent of 189df03... player shoot revise
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -15794,12 +16927,17 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+<<<<<<< HEAD
 --- !u!33 &1321745728
+=======
+--- !u!33 &1312034566
+>>>>>>> parent of 189df03... player shoot revise
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1321745724}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!114 &1321745729
@@ -15878,6 +17016,11 @@ MonoBehaviour:
   g: 0
   h: 0
 --- !u!1 &1327971120
+=======
+  m_GameObject: {fileID: 1312034562}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1321745724
+>>>>>>> parent of 189df03... player shoot revise
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -15885,6 +17028,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1327971121}
   - component: {fileID: 1327971124}
   - component: {fileID: 1327971123}
@@ -15894,17 +17038,30 @@ GameObject:
   - component: {fileID: 1327971127}
   m_Layer: 0
   m_Name: Tile (8)
+=======
+  - component: {fileID: 1321745725}
+  - component: {fileID: 1321745728}
+  - component: {fileID: 1321745727}
+  - component: {fileID: 1321745726}
+  m_Layer: 0
+  m_Name: Tile (7)
+>>>>>>> parent of 189df03... player shoot revise
   m_TagString: Tile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!4 &1327971121
+=======
+--- !u!4 &1321745725
+>>>>>>> parent of 189df03... player shoot revise
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1327971120}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 8, y: 0, z: 0}
@@ -15914,25 +17071,48 @@ Transform:
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &1327971122
+=======
+  m_GameObject: {fileID: 1321745724}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 7, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 119204852}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1321745726
+>>>>>>> parent of 189df03... player shoot revise
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1327971120}
+=======
+  m_GameObject: {fileID: 1321745724}
+>>>>>>> parent of 189df03... player shoot revise
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!23 &1327971123
+=======
+--- !u!23 &1321745727
+>>>>>>> parent of 189df03... player shoot revise
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1327971120}
+=======
+  m_GameObject: {fileID: 1321745724}
+>>>>>>> parent of 189df03... player shoot revise
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -15963,12 +17143,17 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+<<<<<<< HEAD
 --- !u!33 &1327971124
+=======
+--- !u!33 &1321745728
+>>>>>>> parent of 189df03... player shoot revise
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1327971120}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!114 &1327971125
@@ -16047,6 +17232,11 @@ MonoBehaviour:
   g: 0
   h: 0
 --- !u!1 &1351283231
+=======
+  m_GameObject: {fileID: 1321745724}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1327971120
+>>>>>>> parent of 189df03... player shoot revise
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -16054,6 +17244,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1351283232}
   - component: {fileID: 1351283235}
   - component: {fileID: 1351283234}
@@ -16063,45 +17254,79 @@ GameObject:
   - component: {fileID: 1351283238}
   m_Layer: 0
   m_Name: Tile (2)
+=======
+  - component: {fileID: 1327971121}
+  - component: {fileID: 1327971124}
+  - component: {fileID: 1327971123}
+  - component: {fileID: 1327971122}
+  m_Layer: 0
+  m_Name: Tile (8)
+>>>>>>> parent of 189df03... player shoot revise
   m_TagString: Tile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!4 &1351283232
+=======
+--- !u!4 &1327971121
+>>>>>>> parent of 189df03... player shoot revise
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1351283231}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 2, y: 0, z: 0}
+=======
+  m_GameObject: {fileID: 1327971120}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 8, y: 0, z: 0}
+>>>>>>> parent of 189df03... player shoot revise
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1938003203}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!65 &1351283233
+=======
+--- !u!65 &1327971122
+>>>>>>> parent of 189df03... player shoot revise
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1351283231}
+=======
+  m_GameObject: {fileID: 1327971120}
+>>>>>>> parent of 189df03... player shoot revise
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!23 &1351283234
+=======
+--- !u!23 &1327971123
+>>>>>>> parent of 189df03... player shoot revise
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1351283231}
+=======
+  m_GameObject: {fileID: 1327971120}
+>>>>>>> parent of 189df03... player shoot revise
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -16132,12 +17357,17 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+<<<<<<< HEAD
 --- !u!33 &1351283235
+=======
+--- !u!33 &1327971124
+>>>>>>> parent of 189df03... player shoot revise
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1351283231}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!114 &1351283236
@@ -16216,6 +17446,11 @@ MonoBehaviour:
   g: 0
   h: 0
 --- !u!1 &1370644830
+=======
+  m_GameObject: {fileID: 1327971120}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1351283231
+>>>>>>> parent of 189df03... player shoot revise
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -16223,6 +17458,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1370644831}
   - component: {fileID: 1370644834}
   - component: {fileID: 1370644833}
@@ -16232,17 +17468,30 @@ GameObject:
   - component: {fileID: 1370644837}
   m_Layer: 0
   m_Name: Tile (3)
+=======
+  - component: {fileID: 1351283232}
+  - component: {fileID: 1351283235}
+  - component: {fileID: 1351283234}
+  - component: {fileID: 1351283233}
+  m_Layer: 0
+  m_Name: Tile (2)
+>>>>>>> parent of 189df03... player shoot revise
   m_TagString: Tile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!4 &1370644831
+=======
+--- !u!4 &1351283232
+>>>>>>> parent of 189df03... player shoot revise
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1370644830}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 3, y: 0, z: 0}
@@ -16252,25 +17501,48 @@ Transform:
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &1370644832
+=======
+  m_GameObject: {fileID: 1351283231}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1938003203}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1351283233
+>>>>>>> parent of 189df03... player shoot revise
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1370644830}
+=======
+  m_GameObject: {fileID: 1351283231}
+>>>>>>> parent of 189df03... player shoot revise
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!23 &1370644833
+=======
+--- !u!23 &1351283234
+>>>>>>> parent of 189df03... player shoot revise
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1370644830}
+=======
+  m_GameObject: {fileID: 1351283231}
+>>>>>>> parent of 189df03... player shoot revise
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -16301,12 +17573,17 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+<<<<<<< HEAD
 --- !u!33 &1370644834
+=======
+--- !u!33 &1351283235
+>>>>>>> parent of 189df03... player shoot revise
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1370644830}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!114 &1370644835
@@ -16385,6 +17662,11 @@ MonoBehaviour:
   g: 0
   h: 0
 --- !u!1 &1379300683
+=======
+  m_GameObject: {fileID: 1351283231}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1370644830
+>>>>>>> parent of 189df03... player shoot revise
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -16392,6 +17674,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1379300684}
   - component: {fileID: 1379300687}
   - component: {fileID: 1379300686}
@@ -16401,17 +17684,30 @@ GameObject:
   - component: {fileID: 1379300690}
   m_Layer: 0
   m_Name: Tile (7)
+=======
+  - component: {fileID: 1370644831}
+  - component: {fileID: 1370644834}
+  - component: {fileID: 1370644833}
+  - component: {fileID: 1370644832}
+  m_Layer: 0
+  m_Name: Tile (3)
+>>>>>>> parent of 189df03... player shoot revise
   m_TagString: Tile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!4 &1379300684
+=======
+--- !u!4 &1370644831
+>>>>>>> parent of 189df03... player shoot revise
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1379300683}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 7, y: 0, z: 0}
@@ -16421,25 +17717,48 @@ Transform:
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &1379300685
+=======
+  m_GameObject: {fileID: 1370644830}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 446225297}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1370644832
+>>>>>>> parent of 189df03... player shoot revise
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1379300683}
+=======
+  m_GameObject: {fileID: 1370644830}
+>>>>>>> parent of 189df03... player shoot revise
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!23 &1379300686
+=======
+--- !u!23 &1370644833
+>>>>>>> parent of 189df03... player shoot revise
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1379300683}
+=======
+  m_GameObject: {fileID: 1370644830}
+>>>>>>> parent of 189df03... player shoot revise
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -16470,12 +17789,17 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+<<<<<<< HEAD
 --- !u!33 &1379300687
+=======
+--- !u!33 &1370644834
+>>>>>>> parent of 189df03... player shoot revise
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1379300683}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!114 &1379300688
@@ -16554,6 +17878,11 @@ MonoBehaviour:
   g: 0
   h: 0
 --- !u!1 &1384573508
+=======
+  m_GameObject: {fileID: 1370644830}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1379300683
+>>>>>>> parent of 189df03... player shoot revise
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -16561,6 +17890,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1384573509}
   - component: {fileID: 1384573512}
   - component: {fileID: 1384573511}
@@ -16570,17 +17900,30 @@ GameObject:
   - component: {fileID: 1384573515}
   m_Layer: 0
   m_Name: Tile (8)
+=======
+  - component: {fileID: 1379300684}
+  - component: {fileID: 1379300687}
+  - component: {fileID: 1379300686}
+  - component: {fileID: 1379300685}
+  m_Layer: 0
+  m_Name: Tile (7)
+>>>>>>> parent of 189df03... player shoot revise
   m_TagString: Tile
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!4 &1384573509
+=======
+--- !u!4 &1379300684
+>>>>>>> parent of 189df03... player shoot revise
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1384573508}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 8, y: 0, z: 0}
@@ -16590,25 +17933,48 @@ Transform:
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &1384573510
+=======
+  m_GameObject: {fileID: 1379300683}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 7, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1260239485}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1379300685
+>>>>>>> parent of 189df03... player shoot revise
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1384573508}
+=======
+  m_GameObject: {fileID: 1379300683}
+>>>>>>> parent of 189df03... player shoot revise
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!23 &1384573511
+=======
+--- !u!23 &1379300686
+>>>>>>> parent of 189df03... player shoot revise
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1384573508}
+=======
+  m_GameObject: {fileID: 1379300683}
+>>>>>>> parent of 189df03... player shoot revise
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -16639,12 +18005,17 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+<<<<<<< HEAD
 --- !u!33 &1384573512
+=======
+--- !u!33 &1379300687
+>>>>>>> parent of 189df03... player shoot revise
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1384573508}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!114 &1384573513
@@ -16760,24 +18131,75 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &1386073862
 BoxCollider:
+=======
+  m_GameObject: {fileID: 1379300683}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1384573508
+GameObject:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1386073860}
+=======
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1384573509}
+  - component: {fileID: 1384573512}
+  - component: {fileID: 1384573511}
+  - component: {fileID: 1384573510}
+  m_Layer: 0
+  m_Name: Tile (8)
+  m_TagString: Tile
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1384573509
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1384573508}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 8, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1775728440}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1384573510
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1384573508}
+>>>>>>> parent of 189df03... player shoot revise
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!23 &1386073863
+=======
+--- !u!23 &1384573511
+>>>>>>> parent of 189df03... player shoot revise
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1386073860}
+=======
+  m_GameObject: {fileID: 1384573508}
+>>>>>>> parent of 189df03... player shoot revise
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -16808,12 +18230,17 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+<<<<<<< HEAD
 --- !u!33 &1386073864
+=======
+--- !u!33 &1384573512
+>>>>>>> parent of 189df03... player shoot revise
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1386073860}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!114 &1386073865
@@ -16892,6 +18319,11 @@ MonoBehaviour:
   g: 0
   h: 0
 --- !u!1 &1397345431
+=======
+  m_GameObject: {fileID: 1384573508}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1386073860
+>>>>>>> parent of 189df03... player shoot revise
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -16899,6 +18331,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1397345432}
   - component: {fileID: 1397345435}
   - component: {fileID: 1397345434}
@@ -16906,6 +18339,220 @@ GameObject:
   - component: {fileID: 1397345436}
   - component: {fileID: 1397345437}
   - component: {fileID: 1397345438}
+  m_Layer: 0
+  m_Name: Tile (5)
+=======
+  - component: {fileID: 1386073861}
+  - component: {fileID: 1386073864}
+  - component: {fileID: 1386073863}
+  - component: {fileID: 1386073862}
+  m_Layer: 0
+  m_Name: Tile (6)
+>>>>>>> parent of 189df03... player shoot revise
+  m_TagString: Tile
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+<<<<<<< HEAD
+--- !u!4 &1397345432
+=======
+--- !u!4 &1386073861
+>>>>>>> parent of 189df03... player shoot revise
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1397345431}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 5, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 370131167}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1397345433
+=======
+  m_GameObject: {fileID: 1386073860}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 6, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1775728440}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1386073862
+>>>>>>> parent of 189df03... player shoot revise
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1397345431}
+=======
+  m_GameObject: {fileID: 1386073860}
+>>>>>>> parent of 189df03... player shoot revise
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+--- !u!23 &1397345434
+=======
+--- !u!23 &1386073863
+>>>>>>> parent of 189df03... player shoot revise
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1397345431}
+=======
+  m_GameObject: {fileID: 1386073860}
+>>>>>>> parent of 189df03... player shoot revise
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: d647916b2a5fded4ba66c1552edfe9c2, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+<<<<<<< HEAD
+--- !u!33 &1397345435
+=======
+--- !u!33 &1386073864
+>>>>>>> parent of 189df03... player shoot revise
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1397345431}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1397345436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1397345431}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Name: 
+  m_EditorClassIdentifier: 
+  walkable: 1
+  current: 0
+  target: 0
+  selectable: 0
+  adjacencyList: []
+  visited: 0
+  parent: {fileID: 0}
+  distance: 0
+  f: 0
+  g: 0
+  h: 0
+--- !u!114 &1397345437
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1397345431}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Name: 
+  m_EditorClassIdentifier: 
+  walkable: 1
+  current: 0
+  target: 0
+  selectable: 0
+  adjacencyList: []
+  visited: 0
+  parent: {fileID: 0}
+  distance: 0
+  f: 0
+  g: 0
+  h: 0
+--- !u!114 &1397345438
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1397345431}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Name: 
+  m_EditorClassIdentifier: 
+  walkable: 1
+  current: 0
+  target: 0
+  selectable: 0
+  adjacencyList: []
+  visited: 0
+  parent: {fileID: 0}
+  distance: 0
+  f: 0
+  g: 0
+  h: 0
+--- !u!1 &1397730442
+=======
+  m_GameObject: {fileID: 1386073860}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1397345431
+>>>>>>> parent of 189df03... player shoot revise
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+<<<<<<< HEAD
+=======
+  - component: {fileID: 1397345432}
+  - component: {fileID: 1397345435}
+  - component: {fileID: 1397345434}
+  - component: {fileID: 1397345433}
   m_Layer: 0
   m_Name: Tile (5)
   m_TagString: Tile
@@ -16985,81 +18632,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1397345431}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!114 &1397345436
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1397345431}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
---- !u!114 &1397345437
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1397345431}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
---- !u!114 &1397345438
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1397345431}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Name: 
-  m_EditorClassIdentifier: 
-  walkable: 1
-  current: 0
-  target: 0
-  selectable: 0
-  adjacencyList: []
-  visited: 0
-  parent: {fileID: 0}
-  distance: 0
-  f: 0
-  g: 0
-  h: 0
 --- !u!1 &1397730442
 GameObject:
   m_ObjectHideFlags: 0
@@ -17068,13 +18640,17 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+>>>>>>> parent of 189df03... player shoot revise
   - component: {fileID: 1397730443}
   - component: {fileID: 1397730446}
   - component: {fileID: 1397730445}
   - component: {fileID: 1397730444}
+<<<<<<< HEAD
   - component: {fileID: 1397730447}
   - component: {fileID: 1397730448}
   - component: {fileID: 1397730449}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (9)
   m_TagString: Tile
@@ -17154,6 +18730,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1397730442}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1397730447
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17229,6 +18806,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1414369230
 GameObject:
   m_ObjectHideFlags: 0
@@ -17241,9 +18820,12 @@ GameObject:
   - component: {fileID: 1414369234}
   - component: {fileID: 1414369233}
   - component: {fileID: 1414369232}
+<<<<<<< HEAD
   - component: {fileID: 1414369235}
   - component: {fileID: 1414369236}
   - component: {fileID: 1414369237}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (8)
   m_TagString: Tile
@@ -17323,6 +18905,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1414369230}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1414369235
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17398,6 +18981,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1421540575
 GameObject:
   m_ObjectHideFlags: 0
@@ -17410,9 +18995,12 @@ GameObject:
   - component: {fileID: 1421540579}
   - component: {fileID: 1421540578}
   - component: {fileID: 1421540577}
+<<<<<<< HEAD
   - component: {fileID: 1421540580}
   - component: {fileID: 1421540581}
   - component: {fileID: 1421540582}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (11)
   m_TagString: Tile
@@ -17492,6 +19080,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1421540575}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1421540580
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17567,6 +19156,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1480073063
 GameObject:
   m_ObjectHideFlags: 0
@@ -17579,9 +19170,12 @@ GameObject:
   - component: {fileID: 1480073067}
   - component: {fileID: 1480073066}
   - component: {fileID: 1480073065}
+<<<<<<< HEAD
   - component: {fileID: 1480073068}
   - component: {fileID: 1480073069}
   - component: {fileID: 1480073070}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (2)
   m_TagString: Tile
@@ -17661,6 +19255,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1480073063}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1480073068
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17736,6 +19331,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1484229186
 GameObject:
   m_ObjectHideFlags: 0
@@ -17872,6 +19469,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1512160655}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1512160660
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17947,6 +19545,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1513273570
 GameObject:
   m_ObjectHideFlags: 0
@@ -17959,9 +19559,12 @@ GameObject:
   - component: {fileID: 1513273574}
   - component: {fileID: 1513273573}
   - component: {fileID: 1513273572}
+<<<<<<< HEAD
   - component: {fileID: 1513273575}
   - component: {fileID: 1513273576}
   - component: {fileID: 1513273577}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (9)
   m_TagString: Tile
@@ -18041,12 +19644,18 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1513273570}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1513273575
 MonoBehaviour:
+=======
+--- !u!1 &1519683965
+GameObject:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1513273570}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -18068,10 +19677,25 @@ MonoBehaviour:
   h: 0
 --- !u!114 &1513273576
 MonoBehaviour:
+=======
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1519683966}
+  m_Layer: 0
+  m_Name: Row 11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1519683966
+Transform:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1513273570}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -18117,6 +19741,29 @@ MonoBehaviour:
   g: 0
   h: 0
 --- !u!1 &1519683965
+=======
+  m_GameObject: {fileID: 1519683965}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1822639589}
+  - {fileID: 419959371}
+  - {fileID: 410060002}
+  - {fileID: 1018543107}
+  - {fileID: 2138275003}
+  - {fileID: 1906338205}
+  - {fileID: 1613590632}
+  - {fileID: 555974704}
+  - {fileID: 2091224532}
+  - {fileID: 494819784}
+  - {fileID: 2086022993}
+  - {fileID: 286351986}
+  m_Father: {fileID: 1002875198}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1532760885
+>>>>>>> parent of 189df03... player shoot revise
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -18124,6 +19771,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1519683966}
   m_Layer: 0
   m_Name: Row 11
@@ -18168,6 +19816,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1532760886}
   m_Layer: 0
+=======
+  - component: {fileID: 1532760886}
+  m_Layer: 0
+>>>>>>> parent of 189df03... player shoot revise
   m_Name: Row 8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19812,9 +21464,12 @@ GameObject:
   - component: {fileID: 1679996477}
   - component: {fileID: 1679996476}
   - component: {fileID: 1679996475}
+<<<<<<< HEAD
   - component: {fileID: 1679996478}
   - component: {fileID: 1679996479}
   - component: {fileID: 1679996480}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (3)
   m_TagString: Tile
@@ -19894,6 +21549,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1679996473}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1679996478
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19969,6 +21625,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1711876471
 GameObject:
   m_ObjectHideFlags: 0
@@ -19981,9 +21639,12 @@ GameObject:
   - component: {fileID: 1711876475}
   - component: {fileID: 1711876474}
   - component: {fileID: 1711876473}
+<<<<<<< HEAD
   - component: {fileID: 1711876476}
   - component: {fileID: 1711876477}
   - component: {fileID: 1711876478}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (5)
   m_TagString: Tile
@@ -20057,6 +21718,7 @@ MeshRenderer:
   m_SortingOrder: 0
 --- !u!33 &1711876475
 MeshFilter:
+<<<<<<< HEAD
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -20115,11 +21777,14 @@ MonoBehaviour:
   h: 0
 --- !u!114 &1711876478
 MonoBehaviour:
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1711876471}
+<<<<<<< HEAD
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
@@ -20138,6 +21803,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1712648920
 GameObject:
   m_ObjectHideFlags: 0
@@ -20150,9 +21818,12 @@ GameObject:
   - component: {fileID: 1712648924}
   - component: {fileID: 1712648923}
   - component: {fileID: 1712648922}
+<<<<<<< HEAD
   - component: {fileID: 1712648925}
   - component: {fileID: 1712648926}
   - component: {fileID: 1712648927}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (6)
   m_TagString: Tile
@@ -20232,6 +21903,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1712648920}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1712648925
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20307,6 +21979,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1746065321
 GameObject:
   m_ObjectHideFlags: 0
@@ -20319,9 +21993,12 @@ GameObject:
   - component: {fileID: 1746065325}
   - component: {fileID: 1746065324}
   - component: {fileID: 1746065323}
+<<<<<<< HEAD
   - component: {fileID: 1746065326}
   - component: {fileID: 1746065327}
   - component: {fileID: 1746065328}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (1)
   m_TagString: Tile
@@ -20401,6 +22078,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1746065321}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1746065326
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20476,6 +22154,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1750306422
 GameObject:
   m_ObjectHideFlags: 0
@@ -20488,9 +22168,12 @@ GameObject:
   - component: {fileID: 1750306426}
   - component: {fileID: 1750306425}
   - component: {fileID: 1750306424}
+<<<<<<< HEAD
   - component: {fileID: 1750306427}
   - component: {fileID: 1750306428}
   - component: {fileID: 1750306429}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (2)
   m_TagString: Tile
@@ -20570,6 +22253,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1750306422}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1750306427
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20645,6 +22329,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1750428472
 GameObject:
   m_ObjectHideFlags: 0
@@ -20657,9 +22343,12 @@ GameObject:
   - component: {fileID: 1750428476}
   - component: {fileID: 1750428475}
   - component: {fileID: 1750428474}
+<<<<<<< HEAD
   - component: {fileID: 1750428477}
   - component: {fileID: 1750428478}
   - component: {fileID: 1750428479}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (6)
   m_TagString: Tile
@@ -20739,6 +22428,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1750428472}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1750428477
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20814,6 +22504,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1754905852
 GameObject:
   m_ObjectHideFlags: 0
@@ -20826,9 +22518,12 @@ GameObject:
   - component: {fileID: 1754905856}
   - component: {fileID: 1754905855}
   - component: {fileID: 1754905854}
+<<<<<<< HEAD
   - component: {fileID: 1754905857}
   - component: {fileID: 1754905858}
   - component: {fileID: 1754905859}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (10)
   m_TagString: Tile
@@ -20908,6 +22603,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1754905852}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1754905857
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20983,6 +22679,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1772011776
 GameObject:
   m_ObjectHideFlags: 0
@@ -20995,9 +22693,12 @@ GameObject:
   - component: {fileID: 1772011780}
   - component: {fileID: 1772011779}
   - component: {fileID: 1772011778}
+<<<<<<< HEAD
   - component: {fileID: 1772011781}
   - component: {fileID: 1772011782}
   - component: {fileID: 1772011783}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (7)
   m_TagString: Tile
@@ -21077,12 +22778,18 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1772011776}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1772011781
 MonoBehaviour:
+=======
+--- !u!1 &1775728439
+GameObject:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1772011776}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -21104,10 +22811,25 @@ MonoBehaviour:
   h: 0
 --- !u!114 &1772011782
 MonoBehaviour:
+=======
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1775728440}
+  m_Layer: 0
+  m_Name: Row 9
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1775728440
+Transform:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1772011776}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -21174,6 +22896,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_GameObject: {fileID: 1775728439}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 8}
@@ -21206,9 +22930,12 @@ GameObject:
   - component: {fileID: 1795713696}
   - component: {fileID: 1795713695}
   - component: {fileID: 1795713694}
+<<<<<<< HEAD
   - component: {fileID: 1795713697}
   - component: {fileID: 1795713698}
   - component: {fileID: 1795713699}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (8)
   m_TagString: Tile
@@ -21288,6 +23015,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1795713692}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1795713697
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21363,6 +23091,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1803540799
 GameObject:
   m_ObjectHideFlags: 0
@@ -21375,7 +23105,10 @@ GameObject:
   - component: {fileID: 1803540803}
   - component: {fileID: 1803540802}
   - component: {fileID: 1803540801}
+<<<<<<< HEAD
   - component: {fileID: 1803540804}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (0)
   m_TagString: Tile
@@ -21455,6 +23188,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1803540799}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1803540804
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21480,6 +23214,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1822639588
 GameObject:
   m_ObjectHideFlags: 0
@@ -21492,9 +23228,12 @@ GameObject:
   - component: {fileID: 1822639592}
   - component: {fileID: 1822639591}
   - component: {fileID: 1822639590}
+<<<<<<< HEAD
   - component: {fileID: 1822639593}
   - component: {fileID: 1822639594}
   - component: {fileID: 1822639595}
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_Layer: 0
   m_Name: Tile (0)
   m_TagString: Tile
@@ -21574,6 +23313,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1822639588}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1822639593
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21649,6 +23389,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1843855206
 GameObject:
   m_ObjectHideFlags: 0
@@ -21743,6 +23485,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1843855206}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1843855211
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21818,6 +23561,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1866207554
 GameObject:
   m_ObjectHideFlags: 0
@@ -21912,6 +23657,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1866207554}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1866207559
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21987,6 +23733,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1894029780
 GameObject:
   m_ObjectHideFlags: 0
@@ -22081,6 +23829,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1894029780}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1894029785
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22156,6 +23905,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1894456276
 GameObject:
   m_ObjectHideFlags: 0
@@ -22244,6 +23995,7 @@ MeshRenderer:
   m_SortingOrder: 0
 --- !u!33 &1894456280
 MeshFilter:
+<<<<<<< HEAD
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -22302,11 +24054,14 @@ MonoBehaviour:
   h: 0
 --- !u!114 &1894456283
 MonoBehaviour:
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1894456276}
+<<<<<<< HEAD
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
@@ -22325,6 +24080,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1898009475
 GameObject:
   m_ObjectHideFlags: 0
@@ -22413,6 +24171,7 @@ MeshRenderer:
   m_SortingOrder: 0
 --- !u!33 &1898009479
 MeshFilter:
+<<<<<<< HEAD
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -22471,11 +24230,14 @@ MonoBehaviour:
   h: 0
 --- !u!114 &1898009482
 MonoBehaviour:
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1898009475}
+<<<<<<< HEAD
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
@@ -22494,6 +24256,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1905513992
 GameObject:
   m_ObjectHideFlags: 0
@@ -22588,6 +24353,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1905513992}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1905513997
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22663,6 +24429,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1906338204
 GameObject:
   m_ObjectHideFlags: 0
@@ -22757,6 +24525,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1906338204}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1906338209
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22832,6 +24601,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1908510438
 GameObject:
   m_ObjectHideFlags: 0
@@ -22926,6 +24697,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1908510438}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1908510443
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23001,6 +24773,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1912524634
 GameObject:
   m_ObjectHideFlags: 0
@@ -23095,6 +24869,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1912524634}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1912524639
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23170,6 +24945,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1916499560
 GameObject:
   m_ObjectHideFlags: 0
@@ -23258,6 +25035,7 @@ MeshRenderer:
   m_SortingOrder: 0
 --- !u!33 &1916499564
 MeshFilter:
+<<<<<<< HEAD
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -23316,11 +25094,14 @@ MonoBehaviour:
   h: 0
 --- !u!114 &1916499567
 MonoBehaviour:
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1916499560}
+<<<<<<< HEAD
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
@@ -23339,6 +25120,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1923274060
 GameObject:
   m_ObjectHideFlags: 0
@@ -23433,6 +25217,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1923274060}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1923274065
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23508,6 +25293,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &1938003202
 GameObject:
   m_ObjectHideFlags: 0
@@ -23644,6 +25431,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1947700358}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &1947700363
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23719,6 +25507,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &2001691638
 GameObject:
   m_ObjectHideFlags: 0
@@ -23886,6 +25676,7 @@ MeshRenderer:
   m_SortingOrder: 0
 --- !u!33 &2025145747
 MeshFilter:
+<<<<<<< HEAD
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -23944,11 +25735,14 @@ MonoBehaviour:
   h: 0
 --- !u!114 &2025145750
 MonoBehaviour:
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2025145743}
+<<<<<<< HEAD
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
@@ -23967,6 +25761,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &2027631431
 GameObject:
   m_ObjectHideFlags: 0
@@ -24061,6 +25858,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2027631431}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &2027631436
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24136,6 +25934,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &2078439052
 GameObject:
   m_ObjectHideFlags: 0
@@ -24230,6 +26030,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2078439052}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &2078439057
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24305,6 +26106,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &2086022992
 GameObject:
   m_ObjectHideFlags: 0
@@ -24393,6 +26196,7 @@ MeshRenderer:
   m_SortingOrder: 0
 --- !u!33 &2086022996
 MeshFilter:
+<<<<<<< HEAD
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -24451,11 +26255,14 @@ MonoBehaviour:
   h: 0
 --- !u!114 &2086022999
 MonoBehaviour:
+=======
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2086022992}
+<<<<<<< HEAD
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
@@ -24474,6 +26281,9 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &2089717932
 GameObject:
   m_ObjectHideFlags: 0
@@ -24568,6 +26378,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2089717932}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &2089717937
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24643,6 +26454,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &2091224531
 GameObject:
   m_ObjectHideFlags: 0
@@ -24746,6 +26559,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2091224531}
   m_Enabled: 1
   m_EditorHideFlags: 0
+<<<<<<< HEAD
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
@@ -24764,12 +26578,21 @@ MonoBehaviour:
   h: 0
 --- !u!114 &2091224537
 MonoBehaviour:
+=======
+  m_Script: {fileID: 11500000, guid: 8038068ca66a4ea4899fffd4c78c21fc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 40
+--- !u!135 &2095927578
+SphereCollider:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2091224531}
   m_Enabled: 1
+<<<<<<< HEAD
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
@@ -24789,12 +26612,20 @@ MonoBehaviour:
   h: 0
 --- !u!114 &2091224538
 MonoBehaviour:
+=======
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &2095927579
+MeshRenderer:
+>>>>>>> parent of 189df03... player shoot revise
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2091224531}
   m_Enabled: 1
+<<<<<<< HEAD
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 54ca6ddfabdc0a747b70bcccd8edfc2b, type: 3}
   m_Name: 
@@ -24812,6 +26643,59 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: f79583062f98afc468372bc31b3a8cb6, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &2095927580
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2095927576}
+  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &2095927581
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2095927576}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.698, y: 1.78, z: -4.94}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &2136034979
 GameObject:
   m_ObjectHideFlags: 0
@@ -24906,6 +26790,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2136034979}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &2136034984
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24981,6 +26866,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &2138275002
 GameObject:
   m_ObjectHideFlags: 0
@@ -25075,6 +26962,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2138275002}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &2138275007
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25150,6 +27038,8 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
 --- !u!1 &2138732449
 GameObject:
   m_ObjectHideFlags: 0
@@ -25244,6 +27134,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2138732449}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!114 &2138732454
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25319,3 +27210,5 @@ MonoBehaviour:
   f: 0
   g: 0
   h: 0
+=======
+>>>>>>> parent of 189df03... player shoot revise
