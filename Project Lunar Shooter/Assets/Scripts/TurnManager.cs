@@ -1,11 +1,15 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+
 
 public class TurnManager : MonoBehaviour
 {
     public static bool isPlayerTurn; 
     public static float actionPoints;
+    public Text totalPoints;
 
     // Start is called before the first frame update
     void Start()
@@ -23,6 +27,6 @@ public class TurnManager : MonoBehaviour
             actionPoints = 10;
         }
 
-
+        totalPoints.text = "Action Points: " + actionPoints;
     }
 }

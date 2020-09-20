@@ -9,6 +9,7 @@ TagManager:
   - NPC
   - WinLossManager
   - TurnManager
+  - ActionPoints
   layers:
   - Default
   - TransparentFX
