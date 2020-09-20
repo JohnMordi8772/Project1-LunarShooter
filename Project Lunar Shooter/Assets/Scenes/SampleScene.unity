@@ -15475,6 +15475,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   horizontalInput: 0
   speed: 100
+--- !u!114 &1809529248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1809529243}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84e2cf3bf979b4e4f9075a05b41e4aae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lightAttack: {fileID: 3401076567266594396, guid: 1f128bad21fb9433bb2fd1db84d4fb7f,
+    type: 3}
+  mediumAttack: {fileID: 0}
+  heavyAttack: {fileID: 0}
 --- !u!1 &1843855206
 GameObject:
   m_ObjectHideFlags: 0
