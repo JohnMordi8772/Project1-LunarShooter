@@ -19,6 +19,9 @@ public class DestroyOutOfBounds : MonoBehaviour
             Destroy(gameObject);
         }
         if (transform.position.z <= 0)
+        {
             Destroy(gameObject);
+            WinLossManager.lives -= 10;
+        }
     }
 }
