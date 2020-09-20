@@ -10,6 +10,7 @@ public class TurnManager : MonoBehaviour
     public static bool isPlayerTurn; 
     public static float actionPoints;
     public Text totalPoints;
+    public Text playerTurn;
 
     // Start is called before the first frame update
     void Start()
@@ -25,6 +26,15 @@ public class TurnManager : MonoBehaviour
         {
             isPlayerTurn = !isPlayerTurn;
             actionPoints = 10;
+        }
+
+        if(!isPlayerTurn)
+        {
+            playerTurn.text = "";
+        }
+        else
+        {
+            playerTurn.text = "Player Turn!";
         }
 
         totalPoints.text = "Action Points: " + actionPoints;

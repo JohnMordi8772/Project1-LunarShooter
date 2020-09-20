@@ -10,6 +10,7 @@ TagManager:
   - WinLossManager
   - TurnManager
   - ActionPoints
+  - PlayerTurnCheck
   layers:
   - Default
   - TransparentFX
