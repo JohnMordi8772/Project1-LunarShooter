@@ -12,6 +12,8 @@ GameObject:
   - component: {fileID: 4478577589701630188}
   - component: {fileID: 1142161270752529621}
   - component: {fileID: 6132934589916695155}
+  - component: {fileID: 114674066440023556}
+  - component: {fileID: 114790624923739178}
   m_Layer: 0
   m_Name: Medium
   m_TagString: Enemy
@@ -92,3 +94,29 @@ CapsuleCollider:
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &114674066440023556
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5615776377144629535}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b556ddff6f913ff458fc0e89d271fcb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 2
+--- !u!114 &114790624923739178
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5615776377144629535}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 401fdebfddb21f7459400363b3e047bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  topBound: 15

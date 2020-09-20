@@ -12,6 +12,8 @@ GameObject:
   - component: {fileID: 5109204733281022858}
   - component: {fileID: 7900028826639829390}
   - component: {fileID: 7889940754907346070}
+  - component: {fileID: 114196924335241694}
+  - component: {fileID: 114808668167080444}
   m_Layer: 0
   m_Name: Light
   m_TagString: Enemy
@@ -91,3 +93,29 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &114196924335241694
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8557688138615209626}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b556ddff6f913ff458fc0e89d271fcb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 3
+--- !u!114 &114808668167080444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8557688138615209626}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 401fdebfddb21f7459400363b3e047bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  topBound: 15

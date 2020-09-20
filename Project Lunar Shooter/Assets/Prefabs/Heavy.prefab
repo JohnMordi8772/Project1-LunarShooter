@@ -12,6 +12,8 @@ GameObject:
   - component: {fileID: 832596441491090500}
   - component: {fileID: 657897148917705401}
   - component: {fileID: 5134861523158631289}
+  - component: {fileID: 114563510677738932}
+  - component: {fileID: 114072428176786730}
   m_Layer: 0
   m_Name: Heavy
   m_TagString: Enemy
@@ -92,3 +94,29 @@ CapsuleCollider:
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0.000000059604645, y: 0, z: -0.00000008940697}
+--- !u!114 &114563510677738932
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3794151801961848141}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b556ddff6f913ff458fc0e89d271fcb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 1
+--- !u!114 &114072428176786730
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3794151801961848141}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 401fdebfddb21f7459400363b3e047bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  topBound: 15
