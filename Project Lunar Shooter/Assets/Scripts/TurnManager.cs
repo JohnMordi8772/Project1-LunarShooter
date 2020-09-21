@@ -20,14 +20,15 @@ public class TurnManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        isPlayerTurn = false;
+        isPlayerTurn = false;//Enemies start first
         actionPoints = 10;
     }
 
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.R))
+        if(Input.GetKeyDown(KeyCode.R))//R switches the turns between enemy and player for right now as we had to get other things done,
+                                       //so the enemy turn doesn't end automatically
         {
             isPlayerTurn = !isPlayerTurn;
             actionPoints = 10;
