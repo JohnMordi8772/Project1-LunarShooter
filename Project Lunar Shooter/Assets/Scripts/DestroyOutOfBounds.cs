@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/*Author: George Tang
+Assignment: Project Lunar Shooter
+Description: When the enemy's and projects hit the end of the map*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
