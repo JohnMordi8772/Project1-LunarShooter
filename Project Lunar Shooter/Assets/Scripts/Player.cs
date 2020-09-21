@@ -1,6 +1,6 @@
-﻿/*Author: Josh Bumbalough, Jack Mordi
+﻿/*Author: Josh Bumbalough, John Mordi
 //Assignment: Project Lunar Shooter
-//Description: Manages the controls of the player(firing and moving).
+//Description: Manages the controls of the player(moving).
 */
 using System.Collections;
 using System.Collections.Generic;

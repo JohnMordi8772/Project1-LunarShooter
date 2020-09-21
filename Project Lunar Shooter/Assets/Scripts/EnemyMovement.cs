@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/*Author: John Mordi
+//Assignment: Project Lunar Shooter
+//Description: Makes the enemies move their designated speeds once on their turn.
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

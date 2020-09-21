@@ -1,4 +1,4 @@
-﻿/*Author: Levi Wyant
+﻿/*Author: Levi Wyant, John Mordi, Pyrus Djoi, George Tang, and Josh Bumbalough
 //Assignment: Project Lunar Shooter
 //Description: Spawms enemies in Row 12 before moving them on next turn.*/
 

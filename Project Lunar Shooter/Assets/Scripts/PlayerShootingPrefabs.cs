@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/*Author: Josh Bumbalough, George Tang
+//Assignment: Project Lunar Shooter
+//Description: Allows player to shoot projectiles at the cost of action points.
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*Author: John Mordi
+//Assignment: Project Lunar Shooter
+//Description: Applies dmg to enemies and destroys gameobjects on collisions
+               and when enemy health reaches 0.
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*Author: John Mordi
+//Assignment: Project Lunar Shooter
+//Description: Checks win/loss conditions and adjusts in game text respectivly.
+               Also, this allows the player to restart when they win or lose.
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/*Author: George Tang
+//Assignment: Project Lunar Shooter
+//Description: Gives the player projectiles continuous movement.
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
