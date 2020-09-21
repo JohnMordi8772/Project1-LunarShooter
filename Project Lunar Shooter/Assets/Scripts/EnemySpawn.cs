@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class EnemySpawn : MonoBehaviour
-{
+{//spawn will be fixed in the coming weeks to be less intensive and have a more defined rate
 
     public GameObject[] enemyArray;
     float randx;
