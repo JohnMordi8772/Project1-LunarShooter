@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/*Author: Levi Wyant
+//Assignment: Project Lunar Shooter
+//Description: Spawms enemies in Row 12 before moving them on next turn.*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -9,8 +13,8 @@ public class EnemySpawn : MonoBehaviour
     float randx;
     Vector3 whereToSpawn;
     /* The spawn rate needs to be based on a bool of if player turn or not*/
-    //public float spawnRate = 2f; 
-    float nextSpawn = 0.0f;
+//public float spawnRate = 2f; 
+float nextSpawn = 0.0f;
     private float spawnCount;
     
     
