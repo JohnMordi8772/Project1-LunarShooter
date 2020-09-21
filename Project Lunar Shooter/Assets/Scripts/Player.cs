@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/*Author: Josh Bumbalough, Jack Mordi
+//Assignment: Project Lunar Shooter
+//Description: Manages the controls of the player(firing and moving).
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

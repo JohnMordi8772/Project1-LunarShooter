@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*Author: Josh Bumbalough
+//Assignment: Project Lunar Shooter
+//Description: Manages the turns between the enemies and the player.
+                Also displays text of action points.
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

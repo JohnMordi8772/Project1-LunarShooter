@@ -1,4 +1,4 @@
-﻿/*Author: George Tang
+﻿/*Author: George Tang, Josh Bumbalough
 Assignment: Project Lunar Shooter
 Description: When the enemy's and projects hit the end of the map*/
 
