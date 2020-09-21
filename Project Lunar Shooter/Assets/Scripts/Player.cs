@@ -17,14 +17,14 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        horizontalInput = Input.GetAxisRaw("Horizontal"); 
+        horizontalInput = Input.GetAxisRaw("Horizontal");//either 1 or -1
         
-        if(TurnManager.isPlayerTurn && TurnManager.actionPoints > 0)
+        if(TurnManager.isPlayerTurn && TurnManager.actionPoints > 0)//prevents player from moving on enemy turn and if the player has no points left
         {
             if(Input.GetButtonDown("Horizontal"))
             {
                 transform.Translate(Vector3.right * horizontalInput);
-                TurnManager.actionPoints--;
+                TurnManager.actionPoints--;//movement costs an action point
             }
         }
 

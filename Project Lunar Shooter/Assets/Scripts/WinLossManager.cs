@@ -27,14 +27,14 @@ public class WinLossManager : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {
+    {//an actual hasn't been made just yet for the prototype, the idea is for the player to survive a number of waves of enemies.
         if(!gameover)
         {
-            livesOrGameOver.text = "Lives: " + lives;
+            livesOrGameOver.text = "Lives: " + lives;//keeps updated constantly
         }
         if(lives <= 0)
         {
-            gameover = true;
+            gameover = true;//loss condition
         }
         if(gameover)
         {
@@ -48,7 +48,7 @@ public class WinLossManager : MonoBehaviour
             }
             if(Input.GetKeyDown(KeyCode.R))
             {
-                SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+                SceneManager.LoadScene(SceneManager.GetActiveScene().name);//lets player play again
             }
         }
     }

@@ -24,19 +24,19 @@ public class PlayerShootingPrefabs : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.Q) && TurnManager.actionPoints > 0)
                 {
-                    //Instantiate(lightAttack, transform.position, lightAttack.transform.rotation);
+                    //does one dmg to one enemy, so it has a low cost. also, the projectile always fires one space in front of the player so that out of bounds functions properly.
                     Instantiate(lightAttack, new Vector3(transform.position.x, transform.position.y, transform.position.z + 1), lightAttack.transform.rotation);
                     TurnManager.actionPoints--;
                 }
             if (Input.GetKeyDown(KeyCode.W) && TurnManager.actionPoints > 0)
                 {
-                    //Instantiate(mediumAttack, transform.position, mediumAttack.transform.rotation);
+                    //does 3 dmg to one enemy, so it has a higher cost.
                     Instantiate(mediumAttack, new Vector3(transform.position.x, transform.position.y, transform.position.z + 1), mediumAttack.transform.rotation);
                     TurnManager.actionPoints -= 2;
                 }
             if (Input.GetKeyDown(KeyCode.E) && TurnManager.actionPoints > 0)
                 {
-                    //Instantiate(heavyAttack, transform.position, heavyAttack.transform.rotation);
+                    //does one dmg to all enemies in column, so it costs the most
                     Instantiate(heavyAttack, new Vector3(transform.position.x, transform.position.y, transform.position.z + 1), heavyAttack.transform.rotation);
                     TurnManager.actionPoints -= 3;
                 }
