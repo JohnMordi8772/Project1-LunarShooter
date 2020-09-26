@@ -13,8 +13,8 @@ public class EnemySpawn : MonoBehaviour
     float randx;
     Vector3 whereToSpawn;
     /* The spawn rate needs to be based on a bool of if player turn or not*/
-//public float spawnRate = 2f; 
-float nextSpawn = 0.0f;
+    //public float spawnRate = 2f; 
+    float nextSpawn = 0.0f;
     private float spawnCount;
     
     
@@ -29,23 +29,28 @@ float nextSpawn = 0.0f;
     {
         if (!TurnManager.isPlayerTurn)
         {
-            if (spawnCount <= 3)
+            if (spawnCount <=3)
             {
+             
+            /*This index will be how we "randomly" choose a heavy light, or medium type. 
+             * 0 = light  type
+             * 1 = medium type
+             * 2 = heavy  type
+             */
+             int index = Random.Range(0, 3);
 
+             randx = Random.Range(1, 12);
 
-                int index = Random.Range(0, 3);
-                // nextSpawn = Time.time + spawnRate;   //BASED ON IF PLAYER TURN OR NOT
-                randx = Random.Range(1, 12);
-                //make is to set spawn position of z would be 11
+             //where to spawn row changed to = 12 as that is the furthurest back the enemies can spawn
+             whereToSpawn = new Vector3(randx, 1, 12);
 
-
-                whereToSpawn = new Vector3(randx, 1, 11);
-                Instantiate(enemyArray[index], whereToSpawn, Quaternion.identity);
-
-                spawnCount++;
+             //enemyArray picks which enemy to spawn, Where to spawn designates location of spawn
+             //Quaternion.identity makes sure the model does not rotate. When we spawn in enemies or if they move. 
+             Instantiate(enemyArray[index], whereToSpawn, Quaternion.identity);
+             spawnCount++;
             }
-
         }
+
         else
         {
             spawnCount = 0;
