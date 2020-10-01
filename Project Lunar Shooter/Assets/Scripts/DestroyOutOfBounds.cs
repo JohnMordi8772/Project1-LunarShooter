@@ -27,6 +27,7 @@ public class DestroyOutOfBounds : MonoBehaviour
         if (transform.position.z <= 0)//if enemy reaches player row, then player loses life and enemy is destroyed
         {
             Destroy(gameObject);
+            EnemySpawn.enemiesKilled++;
             WinLossManager.lives -= dmg;
         }
     }

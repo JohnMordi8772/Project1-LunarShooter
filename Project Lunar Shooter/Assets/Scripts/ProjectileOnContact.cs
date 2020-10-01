@@ -17,6 +17,7 @@ public class ProjectileOnContact : MonoBehaviour
         {
             Destroy(other.gameObject);
             Destroy(gameObject);
+            EnemySpawn.enemiesKilled++;
         }
         else
         {
