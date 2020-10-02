@@ -77,7 +77,7 @@ public class EnemySpawn : MonoBehaviour
     private void SpawnEnemy()
     {
         int index = Random.Range(0, 3);
-        randx = Random.Range(1, 12);
+        randx = Random.Range(2, 11);
         whereToSpawn = new Vector3(randx, 1, 12);
         Instantiate(enemyArray[index], whereToSpawn, Quaternion.identity);
     }
