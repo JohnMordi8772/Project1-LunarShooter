@@ -24,14 +24,16 @@ public class PlayerShootingPrefabs : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.Q) && TurnManager.actionPoints >=1)
                 {
-                    //does one dmg to one enemy, so it has a low cost. also, the projectile always fires one space in front of the player so that out of bounds functions properly.
+                    //does 3 dmg to one enemy, so it has a low cost. also, the projectile always fires one space in front of the player so that out of bounds functions properly.
                     Instantiate(lightAttack, new Vector3(transform.position.x, transform.position.y, transform.position.z + 1), lightAttack.transform.rotation);
                     TurnManager.actionPoints--;
                 }
             if (Input.GetKeyDown(KeyCode.W) && TurnManager.actionPoints >= 2)
                 {
-                    //does 3 dmg to one enemy, so it has a higher cost.
+                    //does 2 dmg to one enemy, so it has a higher cost.
                     Instantiate(mediumAttack, new Vector3(transform.position.x, transform.position.y, transform.position.z + 1), mediumAttack.transform.rotation);
+                    Instantiate(mediumAttack, new Vector3(transform.position.x + 1, transform.position.y, transform.position.z + 1), mediumAttack.transform.rotation);
+                    Instantiate(mediumAttack, new Vector3(transform.position.x - 1, transform.position.y, transform.position.z + 1), mediumAttack.transform.rotation);
                     TurnManager.actionPoints -= 2;
                 }
             if (Input.GetKeyDown(KeyCode.E) && TurnManager.actionPoints >= 3)

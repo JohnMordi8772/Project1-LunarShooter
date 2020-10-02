@@ -38,6 +38,7 @@ public class WinLossManager : MonoBehaviour
         }
         if(gameover)
         {
+            livesOrGameOver.alignment = TextAnchor.UpperRight;
             if(win)
             {
                 livesOrGameOver.text = "Congratulations, you win!\nPress R to play again.";

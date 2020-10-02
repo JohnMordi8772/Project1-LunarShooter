@@ -36,11 +36,11 @@ public class TurnManager : MonoBehaviour
 
         if(!isPlayerTurn)
         {
-            playerTurn.text = "Enemy Turn! Press R To Start Turn";
+            playerTurn.text = "Enemy Turn!\nPress R To Start Turn";
         }
         else
         {
-            playerTurn.text = "Player Turn! Press R To Stop Turn";
+            playerTurn.text = "Player Turn!\nPress R To Stop Turn";
         }
 
         if(actionPoints <= 0)
