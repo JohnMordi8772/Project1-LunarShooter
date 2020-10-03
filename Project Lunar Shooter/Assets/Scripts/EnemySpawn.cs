@@ -38,70 +38,53 @@ public class EnemySpawn : MonoBehaviour
             NextWave();
             wave.text = "Wave: " + waveNumber;
         }
-        if(waveNumber == 4 && WinLossManager.lives > 0)
+
+        if(waveNumber == 6 && WinLossManager.lives > 0)
         {
             WinLossManager.gameover = true;
             WinLossManager.win = true;
         }
 
-        // if (!TurnManager.isPlayerTurn)
-        // {
-        //     if (spawnCount <=3)
-        //     {
-             
-        //     /*This index will be how we "randomly" choose a heavy light, or medium type. 
-        //      * 0 = light  type
-        //      * 1 = medium type
-        //      * 2 = heavy  type
-        //      */
-        //      int index = Random.Range(0, 3);
-
-        //      randx = Random.Range(1, 12);
-
-        //      //where to spawn row changed to = 12 as that is the furthurest back the enemies can spawn
-        //      whereToSpawn = new Vector3(randx, 1, 12);
-
-        //      //enemyArray picks which enemy to spawn, Where to spawn designates location of spawn
-        //      //Quaternion.identity makes sure the model does not rotate. When we spawn in enemies or if they move. 
-        //      Instantiate(enemyArray[index], whereToSpawn, Quaternion.identity);
-        //      spawnCount++;
-        //     }
-        // }
-
-        // else
-        // {
-        //     spawnCount = 0;
-        // }
     }
 
     private void SpawnEnemy()
     {
+        /*This index will be how we "randomly" choose a heavy light, or medium type. 
+        //      * 0 = light  type
+        //      * 1 = medium type
+        //      * 2 = heavy  type
+        //      */
         int index = Random.Range(0, 3);
         randx = Random.Range(2, 11);
-        whereToSpawn = new Vector3(randx, 1, 12);
+
+        //where to spawn row changed to = 12 as that is the furthurest back the enemies can spawn
+        whereToSpawn = new Vector3(randx, 2, 12);
+
+        //enemyArray picks which enemy to spawn, Where to spawn designates location of spawn
+        //Quaternion.identity makes sure the model does not rotate. When we spawn in enemies or if they move. 
         Instantiate(enemyArray[index], whereToSpawn, Quaternion.identity);
     }
 
     private void StartWave()
     {
         waveNumber = 1;
-        spawnCount = 1;
+        spawnCount = 20;
+        enemiesKilled = 0;
+        for(int i = 0; i < spawnCount; i++)
+        {
+            SpawnEnemy();
+        }
+    }
+
+    private void NextWave()
+    {
+        waveNumber++;
+        spawnCount += 10;
         enemiesKilled = 0;
         for(int i = 0; i < spawnCount; i++)
         {
             SpawnEnemy();
         }
         
-    }
-
-    private void NextWave()
-    {
-        waveNumber++;
-        spawnCount += 1;
-        enemiesKilled = 0;
-        for(int i = 0; i < spawnCount; i++)
-        {
-            SpawnEnemy();
-        }
     }
 }

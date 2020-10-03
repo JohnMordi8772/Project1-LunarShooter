@@ -17,6 +17,7 @@ public class PlayerShootingPrefabs : MonoBehaviour
     // laser
     public GameObject heavyAttack;
 
+
     // Update is called once per frame
     void Update()
     {

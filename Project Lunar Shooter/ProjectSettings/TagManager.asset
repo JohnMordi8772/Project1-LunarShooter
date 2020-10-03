@@ -12,6 +12,9 @@ TagManager:
   - ActionPoints
   - PlayerTurnCheck
   - Wave
+  - Beam
+  - Laser
+  - Pistol
   layers:
   - Default
   - TransparentFX

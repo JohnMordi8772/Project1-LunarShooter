@@ -14,11 +14,11 @@ GameObject:
   - component: {fileID: 557192080336185377}
   - component: {fileID: 557192080336185373}
   - component: {fileID: 557192080336185372}
-  - component: {fileID: 114419262635894212}
+  - component: {fileID: 114506224727855152}
   - component: {fileID: 54459492184480088}
   m_Layer: 0
   m_Name: Beam
-  m_TagString: Untagged
+  m_TagString: Beam
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -123,7 +123,7 @@ MonoBehaviour:
   topBound: 15
   health: 0
   dmg: 0
---- !u!114 &114419262635894212
+--- !u!114 &114506224727855152
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -132,7 +132,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 557192080336185382}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2fb9e7bef47c81e41bd080f63ec1d7ca, type: 3}
+  m_Script: {fileID: 11500000, guid: 06b7076915a8042c88582e952662a9dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   dmg: 1

@@ -13,6 +13,7 @@ public class ProjectileOnContact : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         other.gameObject.GetComponent<DestroyOutOfBounds>().health -= dmg;
+        
         if (other.gameObject.GetComponent<DestroyOutOfBounds>().health <= 0)
         {
             Destroy(other.gameObject);
