@@ -4376,7 +4376,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 884024667}
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0.49, z: 0}
   m_LocalScale: {x: 5, y: 5, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -6247,9 +6247,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waveNumber: 0
   enemyArray:
-  - {fileID: 8557688138615209626, guid: 062c6a716c23bb349933798cde603b8e, type: 3}
-  - {fileID: 5615776377144629535, guid: 49b528a392c063e4fa6c9f1418b9add0, type: 3}
-  - {fileID: 3794151801961848141, guid: 06ac90fd2732b6c418762aa471246d8f, type: 3}
+  - {fileID: 224648878735352335, guid: 0d4c9b4c385684f5da50395cdc954a0f, type: 3}
+  - {fileID: 8078641426123892172, guid: f97e1c2a958864574b979129bb377122, type: 3}
+  - {fileID: 9206214786604108935, guid: c857a1898a4a64d58ab3c12c02f23792, type: 3}
   spawnCount: 0
   wave: {fileID: 1065609198}
 --- !u!4 &1185727420
@@ -10701,7 +10701,7 @@ PrefabInstance:
     - target: {fileID: 1410212982576493322, guid: 7d34dc9e99efa6345a416871da85cfd2,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1410212982576493322, guid: 7d34dc9e99efa6345a416871da85cfd2,
         type: 3}

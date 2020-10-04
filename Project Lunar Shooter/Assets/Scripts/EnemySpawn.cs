@@ -58,8 +58,7 @@ public class EnemySpawn : MonoBehaviour
         randx = Random.Range(2, 11);
 
         //where to spawn row changed to = 12 as that is the furthurest back the enemies can spawn
-        whereToSpawn = new Vector3(randx, 2, 12);
-
+        whereToSpawn = new Vector3(randx, 1, 12);
         //enemyArray picks which enemy to spawn, Where to spawn designates location of spawn
         //Quaternion.identity makes sure the model does not rotate. When we spawn in enemies or if they move. 
         Instantiate(enemyArray[index], whereToSpawn, Quaternion.identity);
