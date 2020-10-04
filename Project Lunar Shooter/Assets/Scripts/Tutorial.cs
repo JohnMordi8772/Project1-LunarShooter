@@ -19,11 +19,11 @@ public class Tutorial : MonoBehaviour
     {
         tutorialText.text = "Welcome to Lunar Shooter! We hope you'll enjoy yourself while you play our game.";
 
-        yield return new WaitForSeconds(3);
+        yield return new WaitForSeconds(5);
 
         tutorialText.text = "We'll start with a tutorial to help you understand the game a little better.";
 
-        yield return new WaitForSeconds(3);//5 for real 3 for testing
+        yield return new WaitForSeconds(5);
 
         tutorialText.text = "Press A to move left and D to move right.";
 
@@ -81,6 +81,22 @@ public class Tutorial : MonoBehaviour
         }
 
         yield return new WaitForSeconds(1);
+
+        tutorialText.text = "After controls, the goal of this game is to survive 3 waves of enemies coming at you. The descriptions of enemies are displayed on the right.";
+
+        yield return new WaitForSeconds(5);
+
+        tutorialText.text = "Each color matches the color of the enemy ship. In order to survive, you must destroy the enemy ships by dealing damage equal to the their health.";
+
+        yield return new WaitForSeconds(5);
+
+        tutorialText.text = "But be careful, as if a ship makes it you, they will take lives equal to their damage from you! If you run out of lives, you lose!";
+
+        yield return new WaitForSeconds(5);
+
+        tutorialText.text = "Have fun!";
+
+        yield return new WaitForSeconds(5);
 
         TurnManager.isPlayerTurn = false;
         tutorialText.text = "";

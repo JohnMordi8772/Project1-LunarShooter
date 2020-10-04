@@ -19,8 +19,8 @@ public class ProjectileOnContact : MonoBehaviour
         {
             Destroy(other.gameObject);
             Destroy(gameObject);
-            FindObjectOfType<DestroyOutOfBounds>().explosionParticle.Play();
-            FindObjectOfType<DestroyOutOfBounds>().enemyAudio.PlayOneShot(FindObjectOfType<DestroyOutOfBounds>().explosionSound, 1.0f);
+            other.gameObject.GetComponent<DestroyOutOfBounds>().explosionParticle.Play();
+            //other.gameObject.GetComponent<DestroyOutOfBounds>().enemyAudio.PlayOneShot(FindObjectOfType<DestroyOutOfBounds>().explosionSound, 1.0f);
             EnemySpawn.enemiesKilled++;
         }
         else
