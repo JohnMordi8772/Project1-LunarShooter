@@ -17,10 +17,12 @@ public class PlayerShootingPrefabs : MonoBehaviour
     // laser
     public GameObject heavyAttack;
 
-    private AudioSource playerAudio;
+    public AudioSource playerAudio;
     public AudioClip pistolSound;
     public AudioClip laserSound;
     public AudioClip beamSound;
+    public AudioClip collisionSound;
+    public AudioClip deathSound;
 
     void Start()
     {
