@@ -26,9 +26,18 @@ public class EnemySpawn : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        waveNumber = 0;
-        spawnCount = 0;
-        enemiesKilled = 0;
+        if (!Tutorial.tutorialOver)
+        {
+            waveNumber = 0;
+            spawnCount = 11;
+            enemiesKilled = 0;
+        }
+        else
+        {
+            waveNumber = 0;
+            spawnCount = 0;
+            enemiesKilled = 0;
+        }
         wave.text = "Wave: " + waveNumber;
     }
 

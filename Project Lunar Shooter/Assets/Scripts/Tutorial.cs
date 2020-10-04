@@ -17,11 +17,13 @@ public class Tutorial : MonoBehaviour
 
     IEnumerator TutorialFunction()
     {
+        TurnManager.actionPoints = 100;
+
         tutorialText.text = "Welcome to Lunar Shooter! We hope you'll enjoy yourself while you play our game.";
 
         yield return new WaitForSeconds(5);
 
-        tutorialText.text = "We'll start with a tutorial to help you understand the game a little better.";
+        tutorialText.text = "We'll start with a tutorial to help you understand the game a little better. You'll get 100 action points for this, but will usually have 8.";
 
         yield return new WaitForSeconds(5);
 
@@ -36,7 +38,7 @@ public class Tutorial : MonoBehaviour
              yield return null;
         }
 
-        tutorialText.text = "Good job! You might have noticed that Action Points has decreased by 2. This is because everything you do has some kind of cost." +
+        tutorialText.text = "Good job! You might have noticed that Action Points has decreased by 2. This is because everything you do has some kind of cost that must be payed." +
             " Movement/A and D cost 1 Action Point or AP. Although, movement isn't the only thing you can do.";
 
         yield return new WaitForSeconds(7);
@@ -90,7 +92,7 @@ public class Tutorial : MonoBehaviour
 
         yield return new WaitForSeconds(5);
 
-        tutorialText.text = "Each color matches the color of the enemy ship. In order to survive, you must destroy the enemy ships by dealing damage equal to the their health.";
+        tutorialText.text = "Each color matches the color of the enemy ship. In order to survive, you must destroy the enemy ships by dealing damage equal to their health.";
 
         yield return new WaitForSeconds(5);
 
