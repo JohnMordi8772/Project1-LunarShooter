@@ -37,17 +37,25 @@ public class EnemySpawn : MonoBehaviour
     {
         if (Tutorial.tutorialOver)
         {
-            if (enemiesKilled >= spawnCount)
+            if (waveNumber < 3 || enemiesKilled != spawnCount)
             {
-                NextWave();
-                wave.text = "Wave: " + waveNumber;
+                if (enemiesKilled >= spawnCount)
+                {
+                    TurnManager.isPlayerTurn = false;
+                    NextWave();
+                    wave.text = "Wave: " + waveNumber;
+                }
+            }
+            else
+            {
+                if (WinLossManager.lives > 0)
+                {
+                    WinLossManager.gameover = true;
+                    WinLossManager.win = true;
+                }
             }
 
-            if (waveNumber > 3 && WinLossManager.lives > 0)
-            {
-                WinLossManager.gameover = true;
-                WinLossManager.win = true;
-            }
+            
         }
 
     }

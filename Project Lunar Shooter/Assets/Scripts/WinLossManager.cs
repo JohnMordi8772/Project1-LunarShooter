@@ -20,6 +20,7 @@ public class WinLossManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        livesOrGameOver.text = "Lives: " + lives;
         win = false;
         gameover = false;
         lives = 10;

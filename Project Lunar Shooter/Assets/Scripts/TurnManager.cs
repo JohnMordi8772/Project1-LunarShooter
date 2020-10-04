@@ -21,7 +21,7 @@ public class TurnManager : MonoBehaviour
     void Start()
     {
         isPlayerTurn = true;
-        actionPoints = 10;
+        actionPoints = 8;
     }
 
     // Update is called once per frame
@@ -35,7 +35,7 @@ public class TurnManager : MonoBehaviour
 
         if(!isPlayerTurn)
         {
-            actionPoints = 10;
+            actionPoints = 8;
         }
 
         if(actionPoints <= 0)

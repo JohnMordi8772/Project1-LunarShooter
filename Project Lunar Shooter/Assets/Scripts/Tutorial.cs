@@ -10,7 +10,9 @@ public class Tutorial : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        StartCoroutine(TutorialFunction());
+        tutorialText.text = "";
+        if (!tutorialOver)
+            StartCoroutine(TutorialFunction());
     }
 
     IEnumerator TutorialFunction()
