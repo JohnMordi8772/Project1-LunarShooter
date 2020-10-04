@@ -27,8 +27,8 @@ public class EnemySpawn : MonoBehaviour
     void Start()
     {
         waveNumber = 0;
-        spawnCount = 10;
-        enemiesKilled = 10;
+        spawnCount = 0;
+        enemiesKilled = 0;
         wave.text = "Wave: " + waveNumber;
     }
 
@@ -37,13 +37,13 @@ public class EnemySpawn : MonoBehaviour
     {
         if (Tutorial.tutorialOver)
         {
-            if (enemiesKilled == spawnCount)
+            if (enemiesKilled >= spawnCount)
             {
                 NextWave();
                 wave.text = "Wave: " + waveNumber;
             }
 
-            if (waveNumber == 6 && WinLossManager.lives > 0)
+            if (waveNumber > 3 && WinLossManager.lives > 0)
             {
                 WinLossManager.gameover = true;
                 WinLossManager.win = true;
