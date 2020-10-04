@@ -6,11 +6,10 @@ using UnityEngine.UI;
 public class Tutorial : MonoBehaviour
 {
     public Text tutorialText;
-    public static bool tutorialOver;
+    public static bool tutorialOver = false;
     // Start is called before the first frame update
     void Start()
     {
-        tutorialOver = false;
         StartCoroutine(TutorialFunction());
     }
 
@@ -24,7 +23,7 @@ public class Tutorial : MonoBehaviour
 
         yield return new WaitForSeconds(3);//5 for real 3 for testing
 
-        tutorialText.text = "Press A to move left and D to move left.";
+        tutorialText.text = "Press A to move left and D to move right.";
 
         while (!Input.GetKeyDown(KeyCode.A))
         {
@@ -46,6 +45,7 @@ public class Tutorial : MonoBehaviour
         {
             yield return null;
         }
+
 
         tutorialText.text = "Now, press W to fire projectiles in all adjacent columns that deal 1 damage each to the first enemy they hit.";
 

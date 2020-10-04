@@ -26,6 +26,10 @@ public class EnemyMovement : MonoBehaviour
                 transform.Translate(new Vector3(0, 0, -1) * speed);//move down column with their own speeds specified in inspector
                 moved = true;
             }
+            else
+            {
+                TurnManager.isPlayerTurn = true;
+            }
         }
         else
         {
