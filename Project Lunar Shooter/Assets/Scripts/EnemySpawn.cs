@@ -67,7 +67,7 @@ public class EnemySpawn : MonoBehaviour
 
         //enemyArray picks which enemy to spawn, Where to spawn designates location of spawn
         //Quaternion.identity makes sure the model does not rotate. When we spawn in enemies or if they move. 
-        Instantiate(enemyArray[index], whereToSpawn, Quaternion.Euler(0,180,0));
+        Instantiate(enemyArray[index], whereToSpawn, Quaternion.identity);
     }
 
     private void StartWave()
