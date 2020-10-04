@@ -23,7 +23,7 @@ public class EnemyMovement : MonoBehaviour
         {
             if (!moved)
             {
-                transform.Translate(new Vector3(0, 0, -1) * speed);//move down column with their own speeds specified in inspector
+                transform.Translate(new Vector3(0, 0, 1) * speed);//move down column with their own speeds specified in inspector
                 moved = true;
             }
             else
