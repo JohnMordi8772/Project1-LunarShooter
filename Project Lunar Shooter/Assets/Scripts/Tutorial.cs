@@ -82,6 +82,10 @@ public class Tutorial : MonoBehaviour
 
         yield return new WaitForSeconds(1);
 
+        tutorialText.text = "Once you're ready you'll end your turn by pressing R to let the enemies move and reset your action points. If you destroy the last enemy in the wave, your turn will end autometically.";
+
+        yield return new WaitForSeconds(5);
+
         tutorialText.text = "After controls, the goal of this game is to survive 3 waves of enemies coming at you. The descriptions of enemies are displayed on the right.";
 
         yield return new WaitForSeconds(5);

@@ -18,7 +18,7 @@ public class DestroyOutOfBounds : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        enemyAudio = GetComponent<AudioSource>();
+        //enemyAudio = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
