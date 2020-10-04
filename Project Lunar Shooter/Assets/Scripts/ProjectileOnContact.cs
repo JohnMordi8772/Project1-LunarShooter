@@ -10,6 +10,7 @@ using UnityEngine;
 public class ProjectileOnContact : MonoBehaviour
 {
     public float dmg;
+
     private void OnTriggerEnter(Collider other)
     {
         other.gameObject.GetComponent<DestroyOutOfBounds>().health -= dmg;
@@ -18,6 +19,8 @@ public class ProjectileOnContact : MonoBehaviour
         {
             Destroy(other.gameObject);
             Destroy(gameObject);
+            FindObjectOfType<DestroyOutOfBounds>().explosionParticle.Play();
+            FindObjectOfType<DestroyOutOfBounds>().enemyAudio.PlayOneShot(FindObjectOfType<DestroyOutOfBounds>().explosionSound, 1.0f);
             EnemySpawn.enemiesKilled++;
         }
         else
