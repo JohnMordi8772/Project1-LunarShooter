@@ -24,6 +24,7 @@ public class PlayerShootingPrefabs : MonoBehaviour
 
     void Start()
     {
+        
         playerAudio = GetComponent<AudioSource>();
     }
 
