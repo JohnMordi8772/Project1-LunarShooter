@@ -11,7 +11,7 @@ public class DestroyOutOfBounds : MonoBehaviour
     public float topBound = 15;
     public float health;
     public float dmg;
-    //public AudioSource enemyAudio;
+    public AudioSource enemyAudio;
     public AudioClip explosionSound;
     public ParticleSystem explosionParticle;
 
@@ -32,7 +32,7 @@ public class DestroyOutOfBounds : MonoBehaviour
         if (transform.position.z <= 0)//if enemy reaches player row, then player loses life and enemy is destroyed
         {
             //enemyAudio.PlayOneShot(explosionSound, 1.0f);
-            explosionParticle.Play();
+            //explosionParticle.Play();
             Destroy(gameObject);
             EnemySpawn.enemiesKilled++;
             WinLossManager.lives -= dmg;
