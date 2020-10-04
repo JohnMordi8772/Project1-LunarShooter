@@ -20,7 +20,7 @@ public class TurnManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        isPlayerTurn = false;//Enemies start first
+        isPlayerTurn = true;
         actionPoints = 10;
     }
 
@@ -31,12 +31,12 @@ public class TurnManager : MonoBehaviour
                                        //so the enemy turn doesn't end automatically
         {
             isPlayerTurn = !isPlayerTurn;
-            actionPoints = 10;
         }
 
         if(!isPlayerTurn)
         {
             playerTurn.text = "Enemy Turn!\nPress R To Start Turn";
+            actionPoints = 10;
         }
         else
         {
