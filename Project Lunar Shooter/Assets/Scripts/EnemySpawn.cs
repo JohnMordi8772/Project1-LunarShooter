@@ -26,23 +26,28 @@ public class EnemySpawn : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        StartWave();
+        waveNumber = 0;
+        spawnCount = 10;
+        enemiesKilled = 10;
         wave.text = "Wave: " + waveNumber;
     }
 
     // Update is called once per frame
     void Update()
     {
-        if(enemiesKilled == spawnCount)
+        if (Tutorial.tutorialOver)
         {
-            NextWave();
-            wave.text = "Wave: " + waveNumber;
-        }
+            if (enemiesKilled == spawnCount)
+            {
+                NextWave();
+                wave.text = "Wave: " + waveNumber;
+            }
 
-        if(waveNumber == 6 && WinLossManager.lives > 0)
-        {
-            WinLossManager.gameover = true;
-            WinLossManager.win = true;
+            if (waveNumber == 6 && WinLossManager.lives > 0)
+            {
+                WinLossManager.gameover = true;
+                WinLossManager.win = true;
+            }
         }
 
     }
@@ -59,6 +64,7 @@ public class EnemySpawn : MonoBehaviour
 
         //where to spawn row changed to = 12 as that is the furthurest back the enemies can spawn
         whereToSpawn = new Vector3(randx, 1, 12);
+
         //enemyArray picks which enemy to spawn, Where to spawn designates location of spawn
         //Quaternion.identity makes sure the model does not rotate. When we spawn in enemies or if they move. 
         Instantiate(enemyArray[index], whereToSpawn, Quaternion.identity);
