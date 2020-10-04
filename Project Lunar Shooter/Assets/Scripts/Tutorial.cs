@@ -41,7 +41,7 @@ public class Tutorial : MonoBehaviour
 
         tutorialText.text = "Press Q to fire a projectile that will deal three damage to the first enemy it hits. This will cost 1 AP.";
 
-        Instantiate(FindObjectOfType<EnemySpawn>().enemyArray[0], new Vector3(6, 1, 12), Quaternion.identity);
+        Instantiate(FindObjectOfType<EnemySpawn>().enemyArray[0], new Vector3(6, 1, 12), Quaternion.Euler(0,180,0));
 
         while(!Input.GetKeyDown(KeyCode.Q))
         {
@@ -52,9 +52,9 @@ public class Tutorial : MonoBehaviour
 
         tutorialText.text = "Now, press W to fire projectiles in all adjacent columns that deal 1 damage each to the first enemy they hit. This will cost 2 AP.";
 
-        Instantiate(FindObjectOfType<EnemySpawn>().enemyArray[0], new Vector3(5, 1, 12), Quaternion.identity);
-        Instantiate(FindObjectOfType<EnemySpawn>().enemyArray[0], new Vector3(6, 1, 12), Quaternion.identity);
-        Instantiate(FindObjectOfType<EnemySpawn>().enemyArray[0], new Vector3(7, 1, 12), Quaternion.identity);
+        Instantiate(FindObjectOfType<EnemySpawn>().enemyArray[0], new Vector3(5, 1, 12), Quaternion.Euler(0,180,0));
+        Instantiate(FindObjectOfType<EnemySpawn>().enemyArray[0], new Vector3(6, 1, 12), Quaternion.Euler(0,180,0));
+        Instantiate(FindObjectOfType<EnemySpawn>().enemyArray[0], new Vector3(7, 1, 12), Quaternion.Euler(0,180,0));
 
         while (!Input.GetKeyDown(KeyCode.W))
         {
@@ -65,13 +65,13 @@ public class Tutorial : MonoBehaviour
 
         tutorialText.text = "Finally, press E to fire a projectile that will pierce through all enemies in your current column dealing 1 damage to each enemy it hits. This will cost 3 AP.";
 
-        Instantiate(FindObjectOfType<EnemySpawn>().enemyArray[0], new Vector3(6, 1, 12), Quaternion.identity);
-        Instantiate(FindObjectOfType<EnemySpawn>().enemyArray[0], new Vector3(6, 1, 11), Quaternion.identity);
-        Instantiate(FindObjectOfType<EnemySpawn>().enemyArray[0], new Vector3(6, 1, 10), Quaternion.identity);
-        Instantiate(FindObjectOfType<EnemySpawn>().enemyArray[0], new Vector3(6, 1, 9), Quaternion.identity);
-        Instantiate(FindObjectOfType<EnemySpawn>().enemyArray[0], new Vector3(6, 1, 8), Quaternion.identity);
-        Instantiate(FindObjectOfType<EnemySpawn>().enemyArray[0], new Vector3(6, 1, 7), Quaternion.identity);
-        Instantiate(FindObjectOfType<EnemySpawn>().enemyArray[0], new Vector3(6, 1, 6), Quaternion.identity);
+        Instantiate(FindObjectOfType<EnemySpawn>().enemyArray[0], new Vector3(6, 1, 12), Quaternion.Euler(0,180,0));
+        Instantiate(FindObjectOfType<EnemySpawn>().enemyArray[0], new Vector3(6, 1, 11), Quaternion.Euler(0,180,0));
+        Instantiate(FindObjectOfType<EnemySpawn>().enemyArray[0], new Vector3(6, 1, 10), Quaternion.Euler(0,180,0));
+        Instantiate(FindObjectOfType<EnemySpawn>().enemyArray[0], new Vector3(6, 1, 9), Quaternion.Euler(0,180,0));
+        Instantiate(FindObjectOfType<EnemySpawn>().enemyArray[0], new Vector3(6, 1, 8), Quaternion.Euler(0,180,0));
+        Instantiate(FindObjectOfType<EnemySpawn>().enemyArray[0], new Vector3(6, 1, 7), Quaternion.Euler(0,180,0));
+        Instantiate(FindObjectOfType<EnemySpawn>().enemyArray[0], new Vector3(6, 1, 6), Quaternion.Euler(0,180,0));
 
         while (!Input.GetKeyDown(KeyCode.E))
         {
