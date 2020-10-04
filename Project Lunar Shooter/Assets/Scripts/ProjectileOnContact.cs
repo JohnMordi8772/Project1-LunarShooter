@@ -14,14 +14,15 @@ public class ProjectileOnContact : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+        other.gameObject.GetComponent<DestroyOutOfBounds>().explosionParticle.Play();
         other.gameObject.GetComponent<DestroyOutOfBounds>().health -= dmg;
         
         if (other.gameObject.GetComponent<DestroyOutOfBounds>().health <= 0)
         {
+            
+            //other.gameObject.GetComponent<DestroyOutOfBounds>().enemyAudio.PlayOneShot(FindObjectOfType<DestroyOutOfBounds>().explosionSound, 1.0f);
             Destroy(other.gameObject);
             Destroy(gameObject);
-            other.gameObject.GetComponent<DestroyOutOfBounds>().explosionParticle.Play();
-            //other.gameObject.GetComponent<DestroyOutOfBounds>().enemyAudio.PlayOneShot(FindObjectOfType<DestroyOutOfBounds>().explosionSound, 1.0f);
             EnemySpawn.enemiesKilled++;
         }
         else
