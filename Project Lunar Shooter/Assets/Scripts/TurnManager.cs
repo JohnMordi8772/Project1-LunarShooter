@@ -28,7 +28,7 @@ public class TurnManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.R))//R switches the turns between enemy and player for right now as we had to get other things done,
+        if(Input.GetKeyDown(KeyCode.R) && Tutorial.tutorialOver && actionPoints <= 0)//R switches the turns between enemy and player for right now as we had to get other things done,
                                        //so the enemy turn doesn't end automatically
         {
             isPlayerTurn = !isPlayerTurn;
