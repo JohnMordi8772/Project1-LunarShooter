@@ -19,13 +19,19 @@ public class Tutorial : MonoBehaviour
     {
         TurnManager.actionPoints = 100;
 
-        tutorialText.text = "Welcome to Lunar Shooter! We hope you'll enjoy yourself while you play our game.";
+        tutorialText.text = "Welcome to Lunar Shooter! We hope you'll enjoy yourself while you play our game. Press SPACE to progress through the tutorial when you finish reading.";
 
-        yield return new WaitForSeconds(5);
+        while (!Input.GetKeyDown(KeyCode.Space))
+        {
+            yield return null;
+        }
 
         tutorialText.text = "We'll start with a tutorial to help you understand the game a little better. You'll get 100 action points for this, but will usually have 8.";
 
-        yield return new WaitForSeconds(5);
+        while (!Input.GetKeyDown(KeyCode.Space))
+        {
+            yield return null;
+        }
 
         tutorialText.text = "Press A to move left and D to move right.";
 
@@ -38,10 +44,13 @@ public class Tutorial : MonoBehaviour
              yield return null;
         }
 
-        tutorialText.text = "Good job! You might have noticed that Action Points has decreased by 2. This is because everything you do has some kind of cost that must be payed." +
+        tutorialText.text = "Good job! You might have noticed that Action Points has decreased by some. This is because everything you do has some kind of cost that must be payed." +
             " Movement/A and D cost 1 Action Point or AP. Although, movement isn't the only thing you can do.";
 
-        yield return new WaitForSeconds(7);
+        while (!Input.GetKeyDown(KeyCode.Space))
+        {
+            yield return null;
+        }
 
         tutorialText.text = "Press Q to fire a projectile that will deal three damage to the first enemy it hits. This will cost 1 AP.";
 
@@ -84,25 +93,48 @@ public class Tutorial : MonoBehaviour
 
         yield return new WaitForSeconds(1);
 
-        tutorialText.text = "Once you're ready you'll end your turn by pressing R to let the enemies move and reset your action points. If you destroy the last enemy in the wave, your turn will end autometically.";
+        tutorialText.text = "Once you're out of points, you'll end your turn by pressing R to let the enemies move and reset your action points. If you destroy the last enemy in the wave, your turn will end automatically.(Space to continue)";
 
-        yield return new WaitForSeconds(5);
+        while (!Input.GetKeyDown(KeyCode.Space))
+        {
+            yield return null;
+        }
+
+        yield return null;
 
         tutorialText.text = "After controls, the goal of this game is to survive 3 waves of enemies coming at you. The descriptions of enemies are displayed on the right.";
 
-        yield return new WaitForSeconds(5);
+        while (!Input.GetKeyDown(KeyCode.Space))
+        {
+            yield return null;
+        }
+
+        yield return null;
 
         tutorialText.text = "Each color matches the color of the enemy ship. In order to survive, you must destroy the enemy ships by dealing damage equal to their health.";
 
-        yield return new WaitForSeconds(5);
+        while (!Input.GetKeyDown(KeyCode.Space))
+        {
+            yield return null;
+        }
 
-        tutorialText.text = "But be careful, as if a ship makes it you, they will take lives equal to their damage from you! If you run out of lives, you lose!";
+        yield return null;
 
-        yield return new WaitForSeconds(5);
+        tutorialText.text = "But be careful, as if a ship makes it to the blue, they will take lives equal to their damage from you! If you run out of lives, you lose!";
+
+        while (!Input.GetKeyDown(KeyCode.Space))
+        {
+            yield return null;
+        }
+
+        yield return null;
 
         tutorialText.text = "Have fun!";
 
-        yield return new WaitForSeconds(5);
+        while (!Input.GetKeyDown(KeyCode.Space))
+        {
+            yield return null;
+        }
 
         TurnManager.isPlayerTurn = false;
         tutorialText.text = "";
